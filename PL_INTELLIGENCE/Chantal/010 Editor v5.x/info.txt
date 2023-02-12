@@ -1,0 +1,17 @@
+Description: This software is used to crack the 010 Editor software.
+Download Source: https://getintopc.com/softwares/010-editor-2020-free-download/
+Safety Rating: 9.9/10
+Check Date: 2023-02-11
+Checked By: I2rys
+
+~ Others ~
+MD5: b948d25ed83106479867ff0346d73905
+SHA-1: 9515b728e222e6c959947b5371945f8422750893
+SHA-256: 2c410b341ed19f84160692db77358fa95123cfbec50d12e63816a97ad886ff1f
+Vhash	09403e0f7d1bz6!z
+Authentihash: f532168f1e2f4b2e5f90f86ee6e417ab6f587bc3e01d74b9ab39206e057d7e9e
+Imphash: e58ab46f2a279ded0846d81bf0fa21f7
+SSDEEP: 1536:IWAGA7pd02y4vOiQj00jxu2DvL6ZgiiLHp8Sfy9FbmT8qm56g8dt68W9G27fo:UZpK2y4GiQj0do6Zgiit8Sa9FbmT8/6U
+TLSH: T12193022548B6C9F1E54DACB511C1B1404762C124EF3ABE6F3F858A1B5DBF910DE2A60B
+File type: Win32 EXE
+Magic: PE32 executable for MS Windows (GUI) Intel 80386 32-bit

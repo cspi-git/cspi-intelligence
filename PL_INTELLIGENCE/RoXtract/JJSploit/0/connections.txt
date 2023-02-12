@@ -1,0 +1,4 @@
+~ Domains ~
+cdn.discordapp.com
+cdn.wearedevs.net
+cdn-185-199-110-133.github.com

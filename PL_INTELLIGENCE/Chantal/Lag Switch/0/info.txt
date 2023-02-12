@@ -1,0 +1,17 @@
+Description: This software is used to enable & disable your internet anytime you want. It is also abused to hack in many games.
+Download Source: https://wearedevs.net/d/Lagswitch
+Safety Rating: 9.9/10
+Check Date: 2023-02-12
+Checked By: I2rys
+
+~ Others ~
+MD5: 68ec8bb5b181d5d2506ff9f9476087a0
+SHA-1: 0e21f7d94fa84a724c62d2d547032750c9dad9f7
+SHA-256: b6ac3f99fe3a7731b91ef8dc1b27be56cbb219fde1461327177ab0506615ff73
+Vhash: 24603655151320831e24a272
+Authentihash: a58dbf07257a84058283659d6c4e2e50b76c4bca27c0780b608934871843256d
+Imphash: f34d5f2d4577ed6d9ceec516c1f5a744
+SSDEEP: 98304:gcHeOQR7OptGVCQ/s0OQR7OptGaCQ/sBcHKCQ/U:gqeOQR7OzGMQ/3OQR7OzGzQ/8qDQ/
+TLSH: T13516A046AAAD8107ED2F273848A1C274B767FE564D3A87EF84C5BC6B72FF2040954C61
+File type: Win32 EXE
+Magic: PE32 executable for MS Windows (GUI) Intel 80386 Mono/.Net assembly
