@@ -1,0 +1,21 @@
+Download Source: https://wearedevs.net/d/Kiwi%20X
+Safety Rating: 8.6/10
+Check Date: 2023-02-14
+Checked By: I2rys
+
+~ Safety Notes ~
+- Kiwi X is downloading this weird file called "finj" and I think it's used for DLL injecting for some reason, upon checking it and analyzing it; there is a 90% chance that this file is a credential logger (To fix this issue, just block the file using a firewall).
+- Kiwi X has the ability to download an updated version of Krnl from it's server, then automatically run it; this can be abused and run malicious code on computers without the victims knowing or thinking.
+- Uses multiple exploit DLLs.
+
+~ Others ~
+MD5: 41ebe0be4d06bce86ef05d6ab082dd35
+SHA-1: fc4cae7675df6eb2f21dea563f0e68a4b00d4c8b
+SHA-256: e1981938a2422f55914c2eadfb011eb007eb39ce75f739437284e417046f505e
+Vhash: 26703675151550a11542ae04ff
+Authentihash: 2ed3f82e0879e87993567e7cdb551ec2c20b8d59e5ded4298b734cc6ee4b7371
+Imphash: f34d5f2d4577ed6d9ceec516c1f5a744
+SSDEEP: 1572864:IQFqZVnDdSbRwqHbU4y/QrERfnkyqBd/35/EPuULlF:BaVnREbIEFKG6
+TLSH: T199E73327F2978D9CE3631B38E97163A255FDEC3269BF810FB2017957E4B7880CA91644
+File type: Win32 EXE
+Magic: PE32 executable for MS Windows (GUI) Intel 80386 32-bit Mono/.Net assembly

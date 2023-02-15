@@ -1,0 +1,8 @@
+~ Domains ~
+kiwiexploits.com
+
+~ Links ~
+https://pastebin.com/raw/9GSVJUqw
+https://www.kiwiexploits.com/keysystem
+https://cdn.wearedevs.net/software/exploitapi/latestdata.json
+https://raw.githubusercontent.com/WeAreDevs-Official/backups/master/wrdeapi.json

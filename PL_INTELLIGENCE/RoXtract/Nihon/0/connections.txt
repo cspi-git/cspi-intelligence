@@ -1,5 +1,0 @@
-~ Domains ~
-cdn.wearedevs.net
-cdn.discordapp.com
-nihon.vercel.app
-pastebin.com

@@ -1,0 +1,304 @@
+
+FLARE FLOSS RESULTS (version v2.2.0-0-g783dd8f)
++------------------------+------------------------------------------------------------------------------------+
+| file path              | Kiwi X Bootstrapper.exe                                                            |
+| extracted strings      |                                                                                    |
+|  static strings        | 271                                                                                |
+|  stack strings         | 0                                                                                  |
+|  tight strings         | 0                                                                                  |
+|  decoded strings       | 0                                                                                  |
++------------------------+------------------------------------------------------------------------------------+
+
+------------------------------
+| FLOSS STATIC STRINGS (271) |
+------------------------------
+-----------------------------
+| FLOSS ASCII STRINGS (241) |
+-----------------------------
+!This program cannot be run in DOS mode.
+.text
+`.rsrc
+@.reloc
+BSJB
+v4.0.30319
+#Strings
+#GUID
+#Blob
+<Module>
+System.IO
+mscorlib
+Synchronized
+ReadToEnd
+defaultInstance
+RuntimeTypeHandle
+GetTypeFromHandle
+DownloadFile
+GetProcessesByName
+SecurityProtocolType
+get_Culture
+set_Culture
+resourceCulture
+ApplicationSettingsBase
+WebResponse
+GetResponse
+Create
+EditorBrowsableState
+Delete
+STAThreadAttribute
+CompilerGeneratedAttribute
+GuidAttribute
+GeneratedCodeAttribute
+DebuggerNonUserCodeAttribute
+DebuggableAttribute
+EditorBrowsableAttribute
+ComVisibleAttribute
+AssemblyTitleAttribute
+AssemblyTrademarkAttribute
+TargetFrameworkAttribute
+AssemblyFileVersionAttribute
+AssemblyConfigurationAttribute
+AssemblyDescriptionAttribute
+CompilationRelaxationsAttribute
+AssemblyProductAttribute
+AssemblyCopyrightAttribute
+AssemblyCompanyAttribute
+RuntimeCompatibilityAttribute
+value
+set_Expect100Continue
+Kiwi X Bootstrapper.exe
+System.Runtime.Versioning
+System.ComponentModel
+Kill
+set_SecurityProtocol
+GetResponseStream
+Program
+System
+resourceMan
+Main
+System.Configuration
+System.Globalization
+System.Reflection
+CultureInfo
+StreamReader
+TextReader
+get_ResourceManager
+ServicePointManager
+System.CodeDom.Compiler
+Kiwi X Bootstrapper
+Kichi_Bootstrapper
+.ctor
+.cctor
+System.Diagnostics
+System.Runtime.InteropServices
+System.Runtime.CompilerServices
+System.Resources
+Kichi_Bootstrapper.Properties.Resources.resources
+DebuggingModes
+Kichi_Bootstrapper.Properties
+Settings
+Process
+Exists
+Object
+System.Net
+get_Default
+WebClient
+Start
+WebRequest
+get_Assembly
+WrapNonExceptionThrows
+Kiwi X Bootstrapper
+Copyright 
+  2020
+$4c2a5b0b-87fc-4ccd-bf48-86904954221f
+1.0.0.0
+.NETFramework,Version=v4.7.2
+FrameworkDisplayName
+.NET Framework 4.7.2
+3System.Resources.Tools.StronglyTypedResourceBuilder
+4.0.0.0
+KMicrosoft.VisualStudio.Editors.SettingsDesigner.SettingsSingleFileGenerator
+11.0.0.0
+lSystem.Resources.ResourceReader, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089#System.Resources.RuntimeResourceSet
+PADPADP
+RSDSd0
+C:\Users\decla\Desktop\Kichi Bootstrapper\Kichi Bootstrapper\obj\Debug\Kiwi X Bootstrapper.pdb
+_CorExeMain
+mscoree.dll
+IHDR
+IDATx
+7BBBK
+<`	HI
+lvA6
+#8{#G
+<v3p
+a=pT
+"0{sQ
+f|$`)
+z+%o
+YTg	
+x+ Z
+a4}n
+z8Y$
+FZl%
+OxG`x8
+=ef9
+8S2[
+wA\@;
+|vB5
+=`fE;
+w!?D3*
+fm~>W
+Jao4x_
+h$\Igt'
+!GOX
++=P1x
+c.TG
+BaSr=
+=*3]
+*:`B0
+Q^T_
+zLfgWq
+sQBN
+DY0t
+tTT2)A.
+	Z)W
+!T-'J
+_zw{
+B`]&
+7-T<
+4L+K
+-@9'
+qH{5
+=B8V
+Jx+jR
+@/3x
+Lfa&
+Tb=v
+|Gp#
+ph$]x
+F1L"Yck
+BZn;
+*LRq,
+Wy(	
+M3]hYs
+?nFq
+Y(	B
+&%yq
+\p4M>
+x%Cf
+9fs#
+?w#?
+3rWL`
+F0zt
+y(?!
+:+Mq
+e#-#
+*1]&
+)A^c4
+:CeO
+	u7*
+J{S[
+q5hE{
+!\]5d
+QlZw
+ymhi
+fVrkf
+A%3w
+XbfK
+ "O4l
+_p?p3J
+gP:P5
+xT0sL
+B'*]
+'>1)
+gmE<
+z*	yj
+\of^
+`gd-x
+f4,B
+#KaG
+m(Xiu
+ Pj*p
+u(Tv9r(n
+ku 8a
+__EY
+<+`$
+^<ye
+m9V%
+`=nf
+L3[V
+YbfgY
+3{2B
+0gfs
+lT\gf
+cf?1
+w7e(
+rrqn
+L[<^
+yB#_!
+N69p
+h-U	
+S&IP
+{<i&	
+S&IP
+x"%)
+x"$I
+xB )
+IEND
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<assembly xmlns="urn:schemas-microsoft-com:asm.v1" manifestVersion="1.0">
+  <assemblyIdentity version="1.0.0.0" name="MyApplication.app"/>
+  <trustInfo xmlns="urn:schemas-microsoft-com:asm.v2">
+    <security>
+      <requestedPrivileges xmlns="urn:schemas-microsoft-com:asm.v3">
+        <requestedExecutionLevel level="asInvoker" uiAccess="false"/>
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+</assembly>
+
+-------------------------------
+| FLOSS UTF-16LE STRINGS (30) |
+-------------------------------
+Kiwi X
+Kiwi X.exe
+https://pastebin.com/raw/9GSVJUqw
+.\Kiwi X.exe
+Kichi_Bootstrapper.Properties.Resources
+VS_VERSION_INFO
+VarFileInfo
+Translation
+StringFileInfo
+000004b0
+Comments
+CompanyName
+FileDescription
+Kiwi X Bootstrapper
+FileVersion
+1.0.0.0
+InternalName
+Kiwi X Bootstrapper.exe
+LegalCopyright
+Copyright 
+  2020
+LegalTrademarks
+OriginalFilename
+Kiwi X Bootstrapper.exe
+ProductName
+Kiwi X Bootstrapper
+ProductVersion
+1.0.0.0
+Assembly Version
+1.0.0.0
+
+---------------------------
+| FLOSS STACK STRINGS (0) |
+---------------------------
+
+---------------------------
+| FLOSS TIGHT STRINGS (0) |
+---------------------------
+
+-----------------------------
+| FLOSS DECODED STRINGS (0) |
+-----------------------------

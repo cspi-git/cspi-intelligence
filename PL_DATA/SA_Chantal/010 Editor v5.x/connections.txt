@@ -1,0 +1,1 @@
+It does not seem to send any network connections, but if you are still doubting then just block it's network using a firewall.

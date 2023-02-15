@@ -1,0 +1,334 @@
+
+FLARE FLOSS RESULTS (version v2.2.0-0-g783dd8f)
++------------------------+------------------------------------------------------------------------------------+
+| file path              | Injector.exe                                                                       |
+| extracted strings      |                                                                                    |
+|  static strings        | 304                                                                                |
+|  stack strings         | 0                                                                                  |
+|  tight strings         | 0                                                                                  |
+|  decoded strings       | Disabled                                                                           |
++------------------------+------------------------------------------------------------------------------------+
+
+------------------------------
+| FLOSS STATIC STRINGS (304) |
+------------------------------
+-----------------------------
+| FLOSS ASCII STRINGS (304) |
+-----------------------------
+!This program cannot be run in DOS mode.
+Rich< 
+.text
+`.rdata
+@.data
+.rsrc
+@.reloc
+wlQQSWP
+Y_^[
+h@{@
+PQVW
+h~{@
+_^[]
+h3|@
+PQVW
+h{|@
+Y_^[
+4	VPS
+hN}@
+wBRQ
+8SQR
+SVWP
+waQV
+Y_^[
+h%~@
+SVWP
+VQPS
+Y_^[
+hP~@
+PQVW
+h}~@
+$SVW
+Y_^[
+U$F;
+Y_^[
+?$C_
+kL*,
+0yfl
+?$C_
+aI(9
+?$C_
+?$C_
+?$C_
+vJ):
+?$C_
+yE*3
+?$C_
+?$C_
+kL*,
+0yfl
+?$C_
+aI(9
+?$C_
+yE*3
+?$C_
+?$C_
+Y_^[
+hzr@
+Y_^[
+SVW3
+ntel
+5ineI
+5Genu
+t#=`
+_^[3
+>csm
+hus@
+PPVP
+u*WW
+"t:j(
+Pj	V
+j2_V
+Unknown exception
+bad array new length
+string too long
+generic
+system
+unknown error
+", "
+exists
+map/set too long
+YbnqYvoenelN
+xreary32
+abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ
+[Syhkgrnz]: Vawrpgbe
+Znqr ol uggc://syhkgrnz.klm/
+BylvyhZvkiobLodk.oho
+%s%s
+.dll
+cryptnet
+mswsock
+urlmon
+XInput1_4
+CoreUIComponents
+%s [PID: %d]
+vector too long
+bad allocation
+RSDS
+C:\Users\ShowerHead\source\repos\FluxusInjector\Release\FluxusInjector.pdb
+.text$di
+.text$mn
+.text$x
+.text$yd
+.idata$5
+.00cfg
+.CRT$XCA
+.CRT$XCAA
+.CRT$XCU
+.CRT$XCZ
+.CRT$XIA
+.CRT$XIAA
+.CRT$XIAC
+.CRT$XIZ
+.CRT$XLA
+.CRT$XLZ
+.CRT$XPA
+.CRT$XPZ
+.CRT$XTA
+.CRT$XTZ
+.rdata
+.rdata$T
+.rdata$r
+.rdata$sxdata
+.rdata$voltmd
+.rdata$zzzdbg
+.rtc$IAA
+.rtc$IZZ
+.rtc$TAA
+.rtc$TZZ
+.tls
+.tls$
+.tls$ZZZ
+.xdata$x
+.idata$2
+.idata$3
+.idata$4
+.idata$6
+.data
+.data$r
+.data$rs
+.bss
+.rsrc$01
+.rsrc$02
+GetCurrentDirectoryA
+CloseHandle
+Sleep
+CreateRemoteThread
+OpenProcess
+VirtualAllocEx
+WriteProcessMemory
+GetProcAddress
+LoadLibraryA
+SetConsoleTitleA
+CreateToolhelp32Snapshot
+Process32First
+Process32Next
+K32EnumProcessModules
+K32GetModuleFileNameExA
+KERNEL32.dll
+?_Xlength_error@std@@YAXPBD@Z
+?_Syserror_map@std@@YAPBDH@Z
+?_Winerror_map@std@@YAHH@Z
+?_Random_device@std@@YAIXZ
+MSVCP140.dll
+PathAddBackslashA
+SHLWAPI.dll
+__std_terminate
+__std_exception_copy
+__std_exception_destroy
+_CxxThrowException
+__CxxFrameHandler3
+memchr
+memcpy
+memmove
+memset
+__current_exception
+__current_exception_context
+_except_handler4_common
+VCRUNTIME140.dll
+_invalid_parameter_noinfo_noreturn
+exit
+__acrt_iob_func
+rename
+__stdio_common_vfprintf
+_callnewh
+malloc
+_configure_narrow_argv
+_initialize_narrow_environment
+_initialize_onexit_table
+_register_onexit_function
+_crt_atexit
+_cexit
+_seh_filter_exe
+_set_app_type
+__setusermatherr
+_get_initial_narrow_environment
+_initterm
+_initterm_e
+_exit
+_set_fmode
+__p___argc
+__p___argv
+_c_exit
+_register_thread_local_exe_atexit_callback
+_configthreadlocale
+_set_new_mode
+__p__commode
+free
+terminate
+_controlfp_s
+___lc_codepage_func
+api-ms-win-crt-runtime-l1-1-0.dll
+api-ms-win-crt-heap-l1-1-0.dll
+api-ms-win-crt-stdio-l1-1-0.dll
+api-ms-win-crt-filesystem-l1-1-0.dll
+api-ms-win-crt-math-l1-1-0.dll
+api-ms-win-crt-locale-l1-1-0.dll
+IsProcessorFeaturePresent
+IsDebuggerPresent
+UnhandledExceptionFilter
+SetUnhandledExceptionFilter
+GetModuleHandleW
+GetCurrentProcess
+TerminateProcess
+QueryPerformanceCounter
+GetCurrentProcessId
+GetCurrentThreadId
+GetSystemTimeAsFileTime
+InitializeSListHead
+LocalFree
+FormatMessageA
+CreateFileW
+GetFileAttributesExW
+AreFileApisANSI
+GetLastError
+GetFileInformationByHandleEx
+MultiByteToWideChar
+WideCharToMultiByte
+.?AVbad_array_new_length@std@@
+.?AVbad_alloc@std@@
+.?AVexception@std@@
+.?AVruntime_error@std@@
+.?AVsystem_error@std@@
+.?AV_System_error@std@@
+.?AVfilesystem_error@filesystem@std@@
+.?AVerror_category@std@@
+.?AV_Generic_error_category@std@@
+.?AV_System_error_category@std@@
+.?AVtype_info@@
+<?xml version='1.0' encoding='UTF-8' standalone='yes'?>
+<assembly xmlns='urn:schemas-microsoft-com:asm.v1' manifestVersion='1.0'>
+  <trustInfo xmlns="urn:schemas-microsoft-com:asm.v3">
+    <security>
+      <requestedPrivileges>
+        <requestedExecutionLevel level='asInvoker' uiAccess='false' />
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+</assembly>
+0F0X0V1e1
+8c8y8
+9-939O9v9
+9&:7:n:
+;8;c;v;
+;=<M<
+>+>6>D>
+9&979s9
+80c1v1
+264H4
+7^8v8
+?9?P?u?
+242A2
+#262S2
+4$5?5V5m5
+48G8P9
+;%;<;B;H;N;T;Z;`;u;
+<(<P<b<
+<&=O=
+>!>&>3>m>L?R?f?~?
+80A0I0
+181?1R1h142T2^2
+2$313N3
+4$4+42494A4I4Q4]4f4k4q4{4
+5R5[5h5n5
+6,6D6l6
+6&727X7d7
+:%:+:1:7:=:C:I:O:U:[:a:g:m:s:y:
+:2;T;
+>C>d>
+%010
+2 2$2(2,24282<2D2H2L2P2T2X2\2h2l2p2t2x2|2
+6@6D6H6L6d6h6x6|6
+7 787H7L7\7`7d7l7
+8,8084888<8D8\8l8p8
+9 9$9(9,949L9\9`9p9t9|9
+d<p<
+=<=D=L=X=
+>$>,>4><>H>h>p>x>
+? ?@?H?P?\?|?
+000<0`0
+1 1(10181@1H1P1T1X1`1t1|1
+2$2,242<2@2D2H2L2T2h2
+080`0|0
+0(1L1x1
+
+------------------------------
+| FLOSS UTF-16LE STRINGS (0) |
+------------------------------
+
+---------------------------
+| FLOSS STACK STRINGS (0) |
+---------------------------
+
+---------------------------
+| FLOSS TIGHT STRINGS (0) |
+---------------------------
+

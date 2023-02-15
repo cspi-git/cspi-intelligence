@@ -1,0 +1,7946 @@
+FLARE FLOSS RESULTS (version v2.2.0-0-g783dd8f)
++------------------------+------------------------------------------------------------------------------------+
+| file path              | injector.dll                                                                       |
+| extracted strings      |                                                                                    |
+|  static strings        | 7894                                                                               |
+|  stack strings         | 16                                                                                 |
+|  tight strings         | 2                                                                                  |
+|  decoded strings       | 2                                                                                  |
++------------------------+------------------------------------------------------------------------------------+
+
+-------------------------------
+| FLOSS STATIC STRINGS (7894) |
+-------------------------------
+------------------------------
+| FLOSS ASCII STRINGS (6627) |
+------------------------------
+!This program cannot be run in DOS mode.
+nRich
+.text
+`.rdata
+@.data
+.rsrc
+@.reloc
+QSVW
+w	;U
+r	;}
+GLVR
+L$,Qh
+ALVj
+L$4Qh
+@LRV
+,u\W3
+9~$~
+xx;~$}s
+G;~$|
+,u\W3
+9~$~
+xS;~$}N
+G;~$|
+,udW3
+9~$~!
+x];~$}X
+G;~$|
+ALVRj
+D$$j
+T$ RWV
+t$<V
+|$$;|$
+AHSW
+D$ P
+D$8P
+D$8P
+D$ P
+ALVW
+tl="
+u?8C
+ PQR
+ PQR
+ PRQ
+QPVj
+QPVj
+RQPj
+QSVW
+_^[]
+7_^]
+_^[]
+_^[]
+_^Y]
+~ u-j
+^$uj
+Shpp
+Shpp
+)D$|
+)D$@
+)D$Pf
+T$xR
+T$,RQ
+T$$R
+T$<R
+T$$RQ
+T$PR
+T$@R
+T$HRj
+D$4P
+F;t$
+T$HR
+T$$RQ
+T$,RQ
+Rh8y
+Rh8y
+r!w+
+y	_^
+QSVW
+QSVW
+_^[d
+QSVW
+_^[Y]
+_^[Y]
+FL;FP
+~G f
+C u3j
+K Qh
+Qhpp
+T$(=
+C$Phpp
+FL;FP
+~G f
+C u3j
+K Qh
+Qhpp
+T$(=
+C$Phpp
+~@ f
+~@ f
+Gt_^
+wxRQ
+w3RQ
+GT_^d
+_LV;
+^[_]
+1^[_]
+9S$tA+
+4:tJ
+>_^]
+>_^]
+>_^]
+_^[]
+_^[]
+_^[]
+~@ f
+gfffS
+=fff
+~@ f
+QWPR
+$	^]
+$	wM
+_^[]
+_^[]
+gfff
+=fff
+u:QR
+91t=f
+~B f
+gfff
+_^[]
+w&RQ
+7_^]
+7_^]
+~@ f
+t^xd
+wPRQ
+w&RQ
+w2RQ
+t!y+
+~@ f
+_^[]
+t,x2
+~B f
+t,x2
+_^[]
+A@+A8
+AD+A8
+VWhX
+VWhX
+w#r%
+t&_^2
+tIhP
+_^[d
+WPj@V
+G$+E
+r	;u
+wfRQ
+~F0f
+SVWj
+ SVW
+<h,8
+Ph`8
+Pj@j
+yD+y8
+t:Rj
+t=Wj
+VWj@
+D$hj
+f9D$
+@LWRV
+|$XPE
+|SVQ
+w)RQ
+w<RQ
+~F0f
+w$QV
+NpRRh
+NpRRhf
+VRh#
+NpRhf
+NpRRhf
+RRhf
+NpRRhf
+NpRRhf
+NpRhx
+wiWP
+EHVW
+_^[]
+w3VS
+SVWhP
+SVWhX
+_^9H
+91u79y
+SVWj`
+0^[d
+wzWP
+w1VW
+^_[]
+;F t
+u	_^3
+>_^]
+_^[]
+_^[]
+QSVW
+;F t>
+_^[#A
+_^[d
+0^[d
+QSVW
+u*QPR
+G ;F
+_^[d
+QSVW
+F ^]
+7_^]
+7_^]
+7_^]
+tE;A
+DSVW3
+4SVW
+4SVW
+t$$;t$(t
+;t$(
+)D$4P
+)D$HP
+D$<P
+T$D3
+|$@3
+;D$ rZw
+;t$(
+SVWj
+SVWj
+PQWh#
+xOh0u
+~pha
+GD+G8
+|'h N
+t0;F
+QVWP
+j@VP
+D$ P
+D$ P
+_^[]
+_^[]
+_^[]
+_^[]
+QSVW
+_^[Y]
+w@RQ
+_^[]
+_^[]
+_^[]
+_^[]
+_^Y]
+O<fff
+_^[]
+W@_^]
+_^[]
+_^[]
+_^[]
+7_^]
+_^[]
+7_^]
+DSVW
+C$9C 
+SVWh
+x0tC
+_^[d
+_^[d
+ SVW
+BD@u
+_^[d
+GHt\
+_^[]
+_^[]
+_^[]
+F@tV
+_^[d
+(SVW
+_^[d
+u@3u
+FpRh#
+QRPh#
+FpRh#
+Pj j
+G@Pj
+Pj j
+Pj8j
+Pj j
+E(Wf
+Pj8j
+FpQRh#
+j	jH
+RQPh#
+FpQRh#
+yD+y8
+$SVW
+L$,Qh(
+;G@tZ
+;B@u
+F@tV
+D$pVW
+VWhP
+D$ j0j
+D$Tj
+9D$hu
+SVWj`
+F@tR
+F;^]
+G;_]
+8SVW
+tiNf
+_^[d
+ _^[]
+_^[d
+u#Sj
+_^[]
+u,Vj
+w$SW
+_^[d
+t!;y
+,SVW
+t-;G
+t4;G
+SVW3
+u(;}
+_^[d
+tnS+
+tpS+
+6j P
+=fff
+=333
+_^[]
+QSVW
+_^[]
+_^[]
+_^[]
+_^[]
+gfffW
+=333
+=UUU
+gfffSVW
+=fff
+_^[d
+_^[d
+6j P
+[j P
+QSVW
+_^[d
+_^[]
+_^[]
+=UUU
+_^[]
+_^[d
+_^[d
+6j P
+_^[]
+_^[]
+w5RQ
+7_^]
+wqRQ
+w;RQ
+w"RP
+W$_d
+_^[]
+~B(f
+~B@f
+W$_d
+QSVW
+	;_[]
+9_^]
+L$ SV
+L$03
+q8_^[
+9|$(
+T$ ;
+q8^[
+LSV3
+D$DW
+|$,3
+;D$,
+;\$$
+L$$9L$(
+D$@;
+\$D3
+T$49T$ 
+|$89|$ 
+L$<3
+9L$ 
+S89C<u
+K<_^[
+PSVW
+;S<u
+O,tw
+9G(s
+G()G
+9P(s
+P()P
+)P,V3
+j	hl
+j	hT
+w#RQ
+SVWjH
+VjHPh
+D$4@
+L$4Qh
+VWh$
+t-;F
+t ;A
+t-;F
+t ;A
+SWj8
+Pj8Sj
+PVSj
+?WhT
+6QVj4hH
+t";A
+w&RQ
+_^Y]
+_^Y]
+QPj4h
+t);G
+t";A
+6QVj"hh
+waRQ
+w0RQ
+_^[]
+_^[]
+_^[]
+Rj Q
+_^Y]
+	RQVSQ
+_^Y]
+_^[]
+_^[]
+_^[]
+>^_]
+G_^[]
+t*SR
+_^Y]
+QSVW
+ PQR
+=UUU
+9:u&;
+7_^]
+wnRQ
+	RQj	h
+	RQj	h 
+ SVW
+s	_^
+F +F
+s	_^
+tFiu
+L$ Qh 
+)D$,Q
+L$DQh$
+)D$,Q
+L$DQh$
+j	hP
+j	hd
+6j(P
+6j(P
+6j(P
+_^[]
+6j(P
+[j(P
+tC;q
+t)_3
+tC;q
+t)_3
+tX;A
+t-j V
+t+j V
+VWj0
+t1j V
+`VWj0
+t+j V
+HVWj0
+tl="
+u?8C
+VWj0
+u	9u
+whr	
+VWj0
+_^[]
+_^[]
+_^[]
+QSVW
+_^[Y]
+_^[]
+_^[]
+_^[]
+=UUU
+V@PW
+VWhP
+jPQj
+_^Y]
+_^Y]
+wmRQ
+w+QS
+wRt:=
+w*RQ
+w=t,=
+|=cE
+0=98
+w-rL
+Qj(P
+_^[]
+_^[]
+?;;u
+L$(h
+L$(Q
+D$$#
+D$,3
+L$ h
+L$ Q
+D$( 
+D$( 
+p(hx
+KpRh
+D$(0
+u hx
+OpPhx
+t9hx
+t;;A
+t	Pj
+w*RQ
+?\u/
+t*WRV
+tM;}
+wGQV
+tM;}
+wPQV
+tM;}
+wPQV
+_^Y]
+QSVW
+?\u-
+f9>t
+Hf9>u
+t%SRV
+_^[]
+WVPQ
+WPRQ
+_^[]
+_^[]
+u:QR
+91t=f
+w _^d
+W;N 
+u}hP
+D$ 9C t
+|$ P
+D$(P
+D$(	
+D$0P
+D$0P
+|$ P
+D$0P
+D$(	
+D$0P
+D$0P
+D$(P
+|$0PQ
+|$,j
+D$(P
+|$0PQ
+|$,j
+|$(P
+t$4PQ
+D$0P
+t$ f
+D$(t
+D$(QP
+y$VP
+D$<j
+D$<j
+D$<j
+D$<j
+C 98u
+yD+y8
+u	9}
+yD+y8
+C 98u
+yD+y8
+u	9}
+yD+y8
+t';G
+t9;A
+yD+y8
+D$(9C t
+D$0jXj
+L$0j
+\$ 9
+D$$9
+D$0jPj
+j0Qj
+T$0j
+jPRj
+D$$9D$Ht1
+\$ WV
+r	wf
+6j P
+VWhP
+Wj0j
+RjPWP
+VWhP
+Vj0j
+|$ PQ
+D$ P
+D$ P
+D$ P
+D$ P
+D$ P
+Vj0j
+	PPPj
+	PPPj
+_^[]
+_^Y]
+j0Qj
+jPRj
+SVWh
+_^Y]
+j0Qj
+jPRj
+~EXf
+ApVh
+OpVh
+SVWj
+Ophx
+_^[d
+KpRh
+u hx
+VWSP
+FpQh
+VWSP
+_^[]
+A<+A8
+A<+A@
+t<h`O
+N<+N8
+:+N8
+F@_3
+N@+N8
+G<+G@;
+_^[]
+FD+F8
+F@t8
+t/;A
+w)QW
+P(_^Y]
+P,_^Y]
+_^[Y]
+_^[Y]
+_^[Y]
+_^[Y]
+VWhp
+D$ h
+D$(j
+$u+9L$
+#T$83
+VWhp
+>_^]
+_^Y]
+QSVW
+_^[Y]
+yD+y8
+yD+y8
+SVWhP
+_^[d
+_^[d
+CD+C8
+T$,=
+D$LP
+KD+K8
+t$0R
+sD+s8
+D$4P
+D$ P
+T$0R
++T$$
+D$4;D
+D$4P
+VWhP
+rhh#
+_^[d
+|$ W
+T$ R
+T$ R
+|$ W
+T$ R
+#|$ 
+T$ R
+@LVR
+_^[d
+G ^[
+VRQP
+wNQV
+PWVRQ
+w7QV
+D$<;D$$
+D$Ht
+|$HW
+D$Tj
+T$PRVW
+T$HRj
+D$<PR
+D$<;D$$
+;L$D
+D$ _^
+QSVW
+6j P
+r	wZ
+6j P
+6j P
+r	wn
+B _^d
+;0u0
+;;7u(
+_^[]
+6j P
+_^[]
+6j P
+[j P
+_^[]
+_^[]
+_^[]
+u#Sj
+_^[]
+u#Wj
+tU;A
+(SVW
+;_^[
+QSVW
+w=RQ
+wBRQ
+QSVW
+qD+q8
+wD+w8
+N@+N8
+_^[]
++B8@
++B8@
+r"9U
+~@_^[
+<pu7
+tIh@z
+r	_^3
+_^[]
+92sF
+VWt<
+_^[]
+uO9}
+u'8U
+wLr	
+wLr	
+t#j W
+`VWj0
+w<QW
+t+j V
+QSVW
+T$(_^[
+QSVW
+T$(_^[
+_^[]
+_^[]
+QSVW
+T$(_^[
+QSVW
+T$(_^[
+_^Y]
+t+j V
+t+j V
+_^[]
+wCRQ
+~C$f
+w8RQ
+w$RQ
+~@ f
+~@ f
+~@ f
+D$$P
+D$ P
+w%RQ
+q ^]
+w+RQ
+QhD0
+O4;O4t
+QhD0
+8_u8
+t%9M
+9N8s
+9N8s
++D$(
+T$(+
+;0v>f
+O8_^[
+O _^[
+t	QR
+t	QR
+A0SVW
+SVWj
+_^[d
+_^[]
+_^[]
+u:QR
+91t=f
+wiQR
+w$RQ
+[_^]
+_^[]
+_^[]
+t>9E
+Sh \
+u7Wh
+D$ f
+wDVP
+wBVP
+w?VP
+w>VP
+u9@;
+t;CB
+_^[d
+tAWV
+w;VS
+F$^]
+w;VS
+w4VS
+w4VS
+w2VW
+^_[]
+w2VW
+^_[]
+7_^]
+7_^]
+7_^]
+7_^]
+7_^]
+7_^]
+SVWS
+Wjtj
+D$<P
+D$P3
+#D$,
+u&Qh
+0SVW
+Y_^[
+_^[]
+_^[]
+Y_^[
+_^[]
+^_[]
+VSWQ
+VPRQ
+ SVW
+=UUU
+SWRQ
+SVPQ
+Y_^[
+Y_^[
+@SVW
+Y_^[
+Y_^[
+^_[]
+PQVW
+Y_^[
+Y_^[
+uP9E
+SVWP
+Y_^[
+t%j0h
+t2hP
+SVWP
+B<PSQ
+Y_^[
+(SVW
+uJ8P
+u"8Q
+DGpPR
+Y_^[
+t"h0(
+w6RQ
+uH8Q
+u!8P
+u>j0h
+SVWP
+SPQR
+PQVW
+wyRQ
+w7RQ
+Y_^[
+SVWP
+<90u
+PQVS
+wtRQ
+w2RQ
+Y_^[
+ SVW
+Y_^[
+tmWV
+w)RQ
+w)RQ
+@t(V
+w)RQ
+VWPj
+VWPj
+0SVW
+Y_^[
+QPVj
+SVWP
+gfff
+gfff
+gfff
+gfff
+t2hP
+gfff
+gfff
+uj0h
+Y_^[
+PPVP
+9;t>
+YYh B
+QQSWj
+j,VW
+9_^[
+sLVj
+BRPQ
+tC97u?j
+ND^[
+W9^Lt
+VD^[
+wLVj
+QQSVW
+9_LtR
+9_Lu
+GL9_8u
+wLPj
+wLSj
+A,)0
+sLVj
+A0)0
+VSj	
+@_^[
+QVWj
+^_[]
+YY^]
+$_^[]
+RWQSV
+Ph{C
+uC8C
+u98C
+u=8C
+u?8C
+u]8C
+u28C
+u98C
+u=8C
+u>8C
+uF8C
+YY;E
+u.h B
+7_^t
+QQVW
+9E$j
+PPPPPWS
+PP9E
+F4PV
+F8PV
+F4PV
+F8PV
+{f;B
+{f;B
+F Sj
+F$Sj
+_^[]
+SVWj
+SWhXK
+SVWP
+VQPS
+4	r;
+PSVW
+Y_^[
+9;tF
+G_^[]
+G_^[]
+G_^[]
+~_^]
+7_^]
+~_^]
+$_^[]
+$_^[]
+QSVW
+<>0u
+j.Xf
+WPRQ
+PQVW
+<>0u
+j.Xf
+WPRQ
+PQVW
+tC97u?j4
+tC97u?j4
+uKjD
+u_jX
+u`jX
+u_jX
+u`jX
+tI97uEjD
+tI97uEjD
+RWQSV
+uM8C
+u=8C
+u=8C
+RWQSV
+uM8C
+u=8C
+u=8C
+PhUL
+uC8C
+uc8C
+u68C
+u?8C
+u=8C
+u=8C
+PhuL
+uC8C
+uc8C
+u68C
+u?8C
+u=8C
+u=8C
+uE8C
+uM8C
+YY;E
+YPh/L
+uE8C
+uM8C
+YY;E
+}z8G
+<-uE
+	w(;]
+}z8G
+<-uE
+	w(;]
+Kt(H
+u!8G
+u!8G
+u!8G
+Kt(H
+u!8G
+u!8G
+u!8G
+F@Yf
+G+PS
+G-PQ
+$+xv
+G+PS
+G-PQ
+$+xv
+SVWP
+PVht&
+PVh|&
+PVj.
+PVj,
+PWht&
+PWh|&
+PWj.
+PWj,
+<90u
+WPRQ
+PQVW
+<90u
+WPRQ
+PQVW
+u:jD
+u{jD
+u)j4
+u:jD
+u{jD
+u)j4
+9}4w
+M$+E4@Pj
+89}4w
++U4B
+@t3=
+u4PRQ
+9}4wk
++E4P
+u4PRQ
+9}4w
+M$+E4@Pj
+89}4w
++U4B
+@t3=
+u4PRQ
+9}4wk
++E4P
+u4PRQ
+f9>t	
+Bf98u
+8-u=
+8-u=
+PjcR
+u$j<
+PjcR
+RhXK
+PjcR
+u$j<
+PjcR
+RhXK
+ua8E
+<:t2<,t.</u2
+ua8E
+<:t2<,t.</u2
+ua8E
+<:t2<,t.</u2
+ua8E
+<:t2<,t.</u2
+<:u+
+Pj;j
+uN8E
+<:u'
+<:u+
+Pj;j
+uN8E
+<:u'
+QQSV
+QQSV
+w ;u
+@t(V
+YYPS
+w ;u
+@t(V
+YYPS
+YY;u
+YY;u
+QSVW
+QSVW
+F Sj
+F$Sj
+_^[]
+SWhXK
+u_jX
+u`jX
+tI97uEjD
+<-uI
+	w(;]
+Kt"H
+G+PS
+G-PQ
+$+xv
+uzjD
+9}4w
+M$+E4@Pj
+89}4w
++U4B
+@t3=
+u4PRQ
+9}4we
++E4P
+u4PRQ
+W@PRQ
+8-u3
+PjcR
+u$j<
+PjcR
+RhXK
+u88E
+u08E
+u88E
+<:u+
+Pj;j
+uN8E
+<:u'
+QSVW
+-u0=
+>0uH
+<xt><Xu=
+<xt <Xt
+QSVW
+>0u,
+<xt"<Xu!
+_^[]
+u#PPS
+VVSWj	
+t VVV
+QQQP
+~4_^
+@_^[]
+;F0u
+QQSVW
+9_0~+
+G,;w0|
+u"hL
+Y_^[
+t hP#
+Y_^[
+Y_^[
+u#SP
+uHSW
+t5SW
+Y_^[
+tFh|S
+Y_^[
+?csm
+t>+}
+8csm
+Y_^[
+Y_^[
+Y__^[
+SVW3
+ntel
+5ineI
+5Genu
+t#=`
+_^[3
+>csm
+Y__^[
+8csm
+Y_^[
+t2VW
+>csm
+?RCC
+?MOC
+?csm
+8csm
+_^[]
+hcsm
+QQSVWd
+;p$u
+p$^]
+oF f
+oF f
+oF f
+oV f
+o^0f
+of@f
+onPf
+ov`f
+o~pf
+FGIu
+FGIu
+oF f
+oF f
+oF f
+oV f
+o^0f
+of@f
+onPf
+ov`f
+o~pf
+FGIu
+FGIu
+j Y+
+j [+
+_^[]
+8_^]
+8csm
+BVj(j
+YYPV
+Y_^[
+Y_^[
+u SW
+_^[]
+dSVW
+;csm
+;csm
+u	9s
+;csm
+u$9G
+v!8E
+u QW
+uf_^[
+;MOC
+;RCC
+@u)j
+u Qj
+@_^[]
+9p u"
+:csm
+ft&9q
+:csm
+r49z
+@_^[]
+j<hXn
+Y_^[
+?csm
+8csm
+t0QW
+Y_^[
+_^[]
+URPQQhP
+L$,3
+UVWS
+[_^]
+SVWj
+_^[]
+t	PQ
+t	PQ
+t	PQ
+_^[]
+t,CB
+SSQj
+tHS3
+>	t,W
+t49}
+	w!AP
+9	t	
+8@u/@
+93tK
+YY_^
+0t0H
+Ct*+
+w.t(
+<$u.V
+8$u V
+u#8H
+9Qu	
+V<0|Z<9
+v&j,
+0_^[
+<0| <9
+`<`t
+_^[]
+tR<0|
+t4<A|)<P
+8_^[
+YYj)
+<@t A
+8@uW@
+XuM@
+$u;8H
+YYt1
+<_uQ
+97t	
+97t	W
+97t	W
+j@h,
+9	tP
+<@tX
+_^[]
+<_um
+7_^]
+8?u'@
+	w'AP
+$uf8Q
+9$u?A
+9$t9
+?	t'
+ukWj<
+:@u&
+RtSK
+Xu$@
+tAVj
+SVW3
+uE!=@
+<0| <9
+0|I3
+<0|]<8
+1<9u
+SVWt
+8@t4V
+8@u(@
+j@h,
+>	t!
+y9SVW
+$uTR
+jdhPo
+Y_^[
+QSVW
+Wu%j
+Vh$d
+Vh8d
+VhLd
+SVWUj
+]_^[
+;t$,
+UQPXY]Y[
+j Y+
+PPPPP
+VVVVV
+VVVVV
+Y_^[
+Y_^[
+Y_^[
+Y_^[
+Y_^[
+Y_^[
+dt(f
+it"f
+dt(f
+it"f
+F4_^[]
+F4_^[]
+F4_^[]
+F4_^[]
+F4_^[]
+F4_^[]
+_^[]
+_^[]
+_^[]
+_^[]
+_^[]
+_^[]
+t=Sj
+F4_^[
+t=Sj
+F4_^[
+t=Sj
+F4_^[
+t=Sj
+F4_^[
+t=Sj
+F4_^[
+t=Sj
+F4_^[
+tKSj
+tKSj
+tKSj
+tKSj
+tKSj
+tKSj
+~0Sf
+_[^]
+~!Sf
+_[^]
+	<et
+<8et
+<8xu
+up8M
+up8M
+QSVW
+QSVW
+QSVW
+QSVW
+QSVW
+QSVW
+QSVW
+QSVW
+QSVW
+QSVW
+QSVW
+QSVW
+	A ]
+	A ]
+	A ]
+	A ]
+	A ]
+	A ]
+	A ]
+	A ]
+	A ]
+	A ]
+	A ]
+	A ]
+~1*t
+~1*t
+~2*t
+~2*t
+A1<Fu
+<Nu&
+<ItC<Lt3<Tt#<h
+k<dt
+<XuS
+A<lt'<tt
+<zu1
+A1<Fu
+<Nu&
+<ItC<Lt3<Tt#<h
+k<dt
+<XuS
+A<lt'<tt
+<zu1
+A1<Fu
+<Nu&
+<ItC<Lt3<Tt#<h
+k<dt
+<XuS
+A<lt'<tt
+<zu1
+A1<Fu
+<Nu&
+<ItC<Lt3<Tt#<h
+k<dt
+<XuS
+A<lt'<tt
+<zu1
+A1<Fu
+<Nu&
+<ItC<Lt3<Tt#<h
+k<dt
+<XuS
+A<lt'<tt
+<zu1
+A1<Fu
+<Nu&
+<ItC<Lt3<Tt#<h
+k<dt
+<XuS
+A<lt'<tt
+<zu1
+jj^f;
+Tt)jhZf;
+Jjl^f;
+f90u
+jj^f;
+Tt)jhZf;
+Jjl^f;
+f90u
+jj^f;
+Tt)jhZf;
+Jjl^f;
+f90u
+jj^f;
+Tt)jhZf;
+Jjl^f;
+f90u
+jj^f;
+Tt)jhZf;
+Jjl^f;
+f90u
+jj^f;
+Tt)jhZf;
+Jjl^f;
+f90u
+QQSV
+SWj P
+QQSV
+SWj P
+QQSV
+SWj P
+QQSV
+SWj P
+QQSV
+SWj P
+QQSV
+SWj P
+jAZjX
+w>t6;
+pwUtG
+^ BW
+V2jx_f;
+jXXf;
+jAXf;
+jA[f;
+PSj W
+QSj W
+jAZjX
+w>t6;
+pwUtG
+^ BW
+V2jx_f;
+jXXf;
+jAXf;
+jA[f;
+PSj W
+QSj W
+jAZjX
+w>t6;
+pwUtG
+^ BW
+V2jx_f;
+jXXf;
+jAXf;
+jA[f;
+PSj W
+QSj W
+jAZjX
+w>t6;
+pwUtG
+^ BW
+V2jx_f;
+jXXf;
+jAXf;
+jA[f;
+PSj W
+QSj W
+jAZjX
+w>t6;
+pwUtG
+^ BW
+V2jx_f;
+jXXf;
+jAXf;
+jA[f;
+PSj W
+QSj W
+jAZjX
+w>t6;
+pwUtG
+^ BW
+V2jx_f;
+jXXf;
+jAXf;
+jA[f;
+PSj W
+QSj W
+~1*t
+~1*t
+~2*t
+~2*t
+F44e
+F44e
+F44e
+F44e
+F44e
+F44e
+F44e
+F44e
+F44e
+F44e
+F44e
+F44e
+F1<at
+v(PQ
+F1<gt
+N @B
+F1<at
+v(PQ
+F1<gt
+N @B
+F1<at
+v(PQ
+F1<gt
+N @B
+F1<at
+v(PQ
+F1<gt
+N @B
+F1<at
+v(PQ
+F1<gt
+N @B
+F1<at
+v(PQ
+F1<gt
+N @B
+QQSVW
+jg[jG
+N2f;
+v(PQ
+F2jgYf;
+jGYf;
+N @B
+jsXf
+V8^[
+QQSV
+jg[BjG_
+N2f;
+v(PQ
+F2jgYf;
+jGYf;
+N @B
+jsXf
+QQSVW
+jg[jG
+N2f;
+v(PQ
+F2jgYf;
+jGYf;
+N @B
+jsXf
+V8^[
+QQSVW
+jg[jG
+N2f;
+v(PQ
+F2jgYf;
+jGYf;
+N @B
+jsXf
+V8^[
+QQSV
+jg[BjG_
+N2f;
+v(PQ
+F2jgYf;
+jGYf;
+N @B
+jsXf
+QQSVW
+jg[jG
+N2f;
+v(PQ
+F2jgYf;
+jGYf;
+N @B
+jsXf
+V8^[
+F8SP
+F8SP
+F8SP
+F8SP
+F8SP
+F8SP
+u	SW
+u	SW
+u	SW
+u	SW
+u	SW
+u	SW
+u	SW
+j0Zt
+F4f9
+u	SW
+j0Zt
+F4f9
+u	SW
+j0Zt
+F4f9
+u	SW
+j0Zt
+F4f9
+u	SW
+j0Zt
+F4f9
+u	SW
+j0Zt
+F4f9
+~4SW
+~4SW
+~4SW
+~4SW
+~4SW
+~4SW
+~4SW
+~4SW
+~4SW
+~4SW
+~4SW
+~4SW
+~4SW
+F44e
+^4WS
+F44e
+~4SW
+F44e
+~4SW
+F44e
+^4WS
+F44e
+~4SW
+F44e
+s49}
+FFG;}
+_^[]
+s49}
+FFG;}
+_^[]
+s49}
+FFG;}
+_^[]
+s49}
+FFG;}
+_^[]
+s49}
+FFG;}
+_^[]
+s49}
+FFG;}
+_^[]
+!A ]
+!A ]
+!A ]
+!A ]
+!A ]
+!A ]
+!A ]
+!A ]
+!A ]
+!A ]
+!A ]
+!A ]
+8$u6
+8$u6
+8$u6
+8$u6
+8$u6
+8$u6
+8$u6
+8$u6
+QQSV
+ui!U
+8$u-9
+QQSV
+ui!U
+8$u-9
+QQSV
+CW9^
+9wWj
+j$Yf9
+x!j$Xf9
+QQSV
+CW9^
+9wWj
+j$Yf9
+x!j$Xf9
+SWu[
+SWu[
+SWu[
+SWu[
+unWQ
+u'9E
+C;^8u
+u'9E
+C;^8u
+u'9E
+C;^8u
+u'9E
+C;^8u
+u'9E
+C;^8u
+u'9E
+C;^8u
+QQSV
+G;~8u
+QQSV
+G;~8u
+QQSV
+G;~8u
+;~8u
+;~8u
+;~8u
+0^_[]
+8*u 
+8*u"
+Hf#E
+PPPPPPPP
+Dz8QQ
+WSh@
+0_^[
+WSh@
+0_^[
+u!h(i
+j5X+
+PSWV
+rj#SWV
+PPPPP
+sAj5X+
+PRWV
+PRWV
+XPWV
+yj#RWV
+HPWV
+PPPPP
+X_^]
+,0<	w
+rqf;u
+r_f;u
+rMf;u
+r;f;u
+r)f;
+j0Yf;
+j:Xf;
+r}f;u
+rkf;u
+rYf;u
+rGf;u
+r5f;u
+r#f;
+t5;E
+,0<	w
+,0<	w
+t`;M
+rnf;u
+r\f;u
+rJf;u
+r8f;u
+r#f;
+j:Xf;
+rnf;u
+r\f;u
+rJf;u
+r8f;u
+r#f;
+j0Zf;
+Qvf;
+Qvf;
+Qvf;
+Qvf;
+Qvf;
+Qvf;
+Qvf;
+j0Yf;
+Qvf;
+Qvf;
+Qvf;
+Qvf;
+Qvf;
+Qvf;
+Qvf;
+Y_^[
+PSWS
+SSSSS
+"tNj
+WWWWW
+	j@u
+ARPRQh
+j2[;
+j?Yj
+SWt?
+PPPPP
+Y_^[
+Y_^[
+Y_^[
+Y_^[
+~1WPQ
+Y_^[
+Y_^[
+SVWt
+Y_^[
+X_^]
+t,9E
+_^[]
+Y_^[
+uC9u
+SVWj
+A<Au
+VWSP
+_^[]
+Y_^[
+Y_^[
+_^[]
+Y_^[
+uvQQ
+,0<	w
+,0<	w
+X_^[
+,0<	w
+j-Yf;
+j0Xf;
+j:Xf;
+u3f;
+r}f;E
+rif;E
+rWf;E
+rCf;E
+r/f;E
+X_^[
+j0Yf;
+rsf;E
+rZf;E
+rAf;E
+r(f;E
+j:Xf;
+j-Xf9E
+X[_^]
+t	f;
+t	f;
+X_^[
+,0<	v
+t	f;
+Sj)[
+j)[f;
+X[_^
+t	f;
+t	f;
+SVW3
+_^[]
+SVW3
+_^[]
+w"r6I
+st[;
+X_^[
+PVWS
+PVWS
+j@X+
+SV8A
+stU;
+stR;
+stR;
+stR;
+rr	jrZ
+w<r3
+rr	jrZ
+PVRQ
+PSRW
+>;9u
+wIPS3
+stU;
+stU;
+X_^]
+j X+
+j X+
+j X+
+f90t
+j X+
+f90t
+f91t
+f90t
+f90t
+f91t
+j X+
+f98t
+j X+
+f9>t
+f99t
+f98t
+f9>t
+f99t
+j X+
+j X+
+j X+
+zSSSSj
+u7SS
+_[^]
+PPPPP
+PPPPP
+u"NV
+@_^]
+_^[]
+jbZRX
+u VWS
+u VWS
+u VWS
+9p t 
+VVVVV
+sWS3
+_^[]
+WQRP
+RWQRP
+SVWQj
+SVWQj
+SVW3
+PPPPP
+SVW3
+PPPPP
+(SVW3
+WWWWW
+j Y+
+Y_^[
+Y_^[
+QSVW
+99t	
+wGt>
+Y_^[
+j Y+
+Y_^[
+t#Vh
+QWWP
+A98u
+f98u
+QWWP
+A98u
+< t3<	t/
+j"Xf9
+t	f;E
+j"Xu
+j"Xf;
+_f98u
+t f;E
+W<=t
+t-Wf
+=t7j
+PPPPP
+t3j=
+PPPPP
+Y_^]
+Y_^]
+SSSSj
+t3SVj
+PPPPj
+Y_^[
+Y_^[
+j Y+
+j Y+
+j Y+
+j _;
+j Y+
+>_^]
+_^[]
+ SVW
+ SVW
+f;1u
+Y_^[
+Y_^[
+Y_^[
+Y_^[
+VWhd
+eVhd
+FLY;
+t!VP
+tehd
+u!h4
+~);^
+FVWj	
+u$PW
+j0Xu
+j0Yf
+v5j0
+Wj0XPV
+SPSVQ
+SPjdVQ
+80t/
+-jd_;
+PPPPP
+Vj0S
+_^[t
+QWPV
+}'9E
+ _^[
+PPPPP
+QQVW
+u,t6
+$[_^
+?YYk
+YY^[
+Y_^[
+_^[]
+Y_^[
+Y_^[
+Y_^[
+Y_^[
+Y_^[
+_^[]
+SSSSS
+PPPPP
+ VWh
+Af;:u
+pLhL
+PPPPP
+PPPPP
+SWt@jU
+PPPPP
+f90t
+f97t
+VVVVV
+QQSVW
+j.Yf;
+PVj@W
+j.Xf;
+_tqPVj@
+uQPVj
+j,Yf;
+YYj,Z
+SSSSS
+Wj.Y
+Y_^]
+u,f9F
+u&h,
+PSPt
+ j8Z
+PPPPP
+Y_^[
+_^[]
+SSSSS
+8Ou	
+F _^[
+8Ou	
+PPPPP
+j;Xf9
+j;Xf9
+8f;9
+PPPPP
+PPPPP
+PPPPP
+6j@W
+6jUQ
+SSSSS
+6jUW
+_^[]
+SSSSS
+6jUW
+SSSSS
+SVW3
+Y_^[
+C WVP
+C YY
+Y_^[
+IQPV
+<v!j
+uLh i
+SSSSS
+j-Xf
+j	X;
+j-Yf
+j	X;
+SVRQ
+SVRQ
+SVRQ
+SVRQ
+f92t
+zSSSSj
+u7SS
+_[^]
+Y_^[
+j Y+
+Y_^[
+Y_^[
+Y_^[
+f9<H}
+Y_^[
+j Y+
+QSVW
+Wu5j
+^_[]
+Wu;j
+t0hd
+t)W3
+f90t
+f90u
+PVSWS
+PVSWj
+PVVVj
+f90t
+f90u
+t0SV
+u<WW
+WWWWW
+9E WW
+t1RWV
+9E(j
+PPPPPWS
+QQQP
+PP9E u:PPVWP
+Y_^[
+Y_^[
+xE;5P
+Y_^[
+Y_^[
+xE;5P
+?SVk
+Y_^[
+D:( t
+Y_^[
+Y_^[
+SWRQ
+SVW3
+ SVW
+uL;U
+SVW<
+_^[]
+^[_]
+@( t
+@( t
+CSPj
+D8(Ht'
+^f93u
+(HtMf
+Xf9E
+Xf9E
+(Ht5F
+-^_[
+Y_^[
+Y_^[
+Y_^[
+uLQQ
+$j%j
+$j%j
+w(tQ
+*tL=+
+v>=1
+t7=3
+w(te
+*t`=+
+vR=1
+tK=3
+w#tN
+*tI=+
+v8=.
+v;=1
+t4=3
+w'tN
+#E$P
+#E P
+_^[]
+f950
+RQWPV
+VWRQ
+XVVV3
+@VP3
+|.kC
+VVVVV
+u kE$<
+uAiM
+PPPPP
+_WVj@
+:uLFV
+Vj@P
+PPPPP
+PSj?
+PSj?
+SSSSS
+Y_^[
+Y_^[
+Y_^[
+	j@u
+	j@u
+SSSSj
+u7SS
+_^[]
+*?QP
+PSSQ
+SSSSS
+tlj*Yf
+j?Yf
+PWWQ
+WWWWW
+WWWWW
+PPPPP
+<:u 
+SSSQ
+PWWS
+t-f9
+u	f9
+Y_^[
+_^[]
+IH;A
+SVWh 
+9wLt	
+;3t'
+Y_^[
+X_^]
+j@X]
+j@X]
+f9:t!V
+f9:u
+QSVW
+SVWW
+WSVPP
+SWj=V
+u{9]
+SSSSS
+VWj=S
+Uf9]
+Qf9]
+SSSSS
+PPPPP
+PPPPP
+_^[]
+j Y+
+Y[^_
+Y_^[
+YY^]
+Y_^[
+90tA
+WQSj	
+PVQR
+_^[]
+Y^[]
+rr	jrZ
+rr	jrZ
+j _+
+j _+
+std;
+std;
+7;1u"3
+0;7t
+Wj _
+rr	jrZ
+rr	jrZ
+std;
+std;
+_^[t
+PPPPP
+X_^]
+ PjPW
+$PjQW
+*PjTW
++PjUW
+,PjVW
+-PjWW
+.PjRW
+/PjSW
+HPjPW
+LPjQW
+"<;u
+GjPW
+C0Pj
+C4Pj
+_^[]
+5Vhd
+Pj(W
+Pj)W
+Pj(W
+Pj)W
+Pj W
+Pj W
+Y_^[]
+SVWf9
+_^[]
+WWWWW
+_^[]
+u	!FX@
+uX9^\
+NX9^`t1
+NXf9
+9^\ty
+;V\uYW
+NXf9
+PWjUR
+SSSSS
+!FX@
+SSSSS
+j	PjYV
+u/9E
+u2Vj@h
+f9;u
+f98u
+j@Wh
+tjj_S
+j@Sj
+PPPPP
+8_^]
+9^`u
+_^[]
+_^[]
+;K\u
+9C`t
+9C\t
+;S\u
+9C`u99C\t4
+u2Wj
+u29K\t-
+t9Wj
+:f;>u
+:f;>u
+t2;u
+WHPh
+tnf9
+f98t
+t^WjU
+j@Sh
+QQSVj8j@
+Y_[^]
+Y_^[
+xi;5P
+Y_^[
+xg;5P
+_^[]
+Y_^[
+j5Zf;
+H_^[
+H_^[
+SVtB
+SVW3
+_^[]
+_^[]
+PPPPP
+r1SPV
+~H;}
+X_^]
+_^[]
+Y_^[
+_^[]
+j@X]
+ VWj
+QQV3
+ SVW
+etPj
+Y_^[
+Y_^[
+PPPPP
+PPPPP
+Y_^[
+Y_^[
+<1=u
+QQVW
+<r=u
+Y_^[
+Y_^[
+PPPPP
+PPPPP
+_^[]
+v#WP
+PPPPPPPP
+VPRQ
+PRPQh
+<$tL
+|%=2
+_^[]
+tHSVWP
+_^[t
+QQQP
+QQSV
+VVVVV
+QQVW
+QQSV
+YY^[
+_^[]
+Y_^[
+Y_^[
+v	N+D$
+WVU3
+v	N+D$
+WVS3
+>@s5f
+?@s-f
+^_[3
+j	jH
+PSVW
+Y_^[
+atlTraceGeneral
+atlTraceCOM
+atlTraceQI
+atlTraceRegistrar
+atlTraceRefcount
+atlTraceWindowing
+atlTraceControls
+atlTraceHosting
+atlTraceDBClient
+atlTraceDBProvider
+atlTraceSnapin
+atlTraceNotImpl
+atlTraceAllocation
+atlTraceException
+atlTraceTime
+atlTraceCache
+atlTraceStencil
+atlTraceString
+atlTraceMap
+atlTraceUtil
+atlTraceSecurity
+atlTraceSync
+atlTraceISAPI
+\}{'=
+ForceRemove
+NoRemove
+Delete
+generic
+system
+unknown error
+false
+true
+Registry key handle cannot be nullptr
+Specified path to registry key cannot be empty
+RegOpenKeyEx() failed
+RegSetValueEx() failed
+Image is already in list
+injector
+[0x6] ERR
+[0x5] ERR
+[0x4] ERR
+[0x3] ERR
+[0x2] ERR
+[0x1] ERR
+[0x0] ERR
+krnl-injector
+[0x100] Failed to inject.
+Context validation failed.
+[NRM] Failed to inject image.
+[MM] Failed to inject image.
+Invalid failure status.
+[0x2] Failed to inject image.
+Failed to unlink module.
+[0x1] Can not attach to the process
+ntdll.dll
+Software\Krnl
+DLLPATH
+RobloxPlayerBeta.exe
+Failed to find Roblox process.
+;Wtq
+OfiD
+`Rs%a
+%ihD
+JhKz
+Dz.*
+1YT[
+\%9~-
+hW[G
+(&.~
+Fbad allocation
+bad function call
+regex_error(error_collate): The expression contained an invalid collating element name.
+regex_error(error_ctype): The expression contained an invalid character class name.
+regex_error(error_escape): The expression contained an invalid escaped character, or a trailing escape.
+regex_error(error_backref): The expression contained an invalid back reference.
+regex_error(error_brack): The expression contained mismatched [ and ].
+regex_error(error_paren): The expression contained mismatched ( and ).
+regex_error(error_brace): The expression contained mismatched { and }.
+regex_error(error_badbrace): The expression contained an invalid range in a { expression }.
+regex_error(error_range): The expression contained an invalid character range, such as [b-a] in most encodings.
+regex_error(error_space): There was insufficient memory to convert the expression into a finite state machine.
+regex_error(error_badrepeat): One of *?+{ was not preceded by a valid regular expression.
+regex_error(error_complexity): The complexity of an attempted match against a regular expression exceeded a pre-set level.
+regex_error(error_stack): There was insufficient memory to determine whether the regular expression could match the specified character sequence.
+regex_error(error_parse)
+regex_error(error_syntax)
+regex_error
+address family not supported
+address in use
+address not available
+already connected
+argument list too long
+argument out of domain
+bad address
+bad file descriptor
+bad message
+broken pipe
+connection aborted
+connection already in progress
+connection refused
+connection reset
+cross device link
+destination address required
+device or resource busy
+directory not empty
+executable format error
+file exists
+file too large
+filename too long
+function not supported
+host unreachable
+identifier removed
+illegal byte sequence
+inappropriate io control operation
+interrupted
+invalid argument
+invalid seek
+io error
+is a directory
+message size
+network down
+network reset
+network unreachable
+no buffer space
+no child process
+no link
+no lock available
+no message available
+no message
+no protocol option
+no space on device
+no stream resources
+no such device or address
+no such device
+no such file or directory
+no such process
+not a directory
+not a socket
+not a stream
+not connected
+not enough memory
+not supported
+operation canceled
+operation in progress
+operation not permitted
+operation not supported
+operation would block
+owner dead
+permission denied
+protocol error
+protocol not supported
+read only file system
+resource deadlock would occur
+resource unavailable try again
+result out of range
+state not recoverable
+stream timeout
+text file busy
+timed out
+too many files open in system
+too many files open
+too many links
+too many symbolic link levels
+value too large
+wrong protocol type
+unknown error
+invalid random_device value
+0123456789-+Ee
+0123456789ABCDEFabcdef-+Xx
+0123456789ABCDEFabcdef-+XxPp
+$@:Sun:Sunday:Mon:Monday:Tue:Tuesday:Wed:Wednesday:Thu:Thursday:Fri:Friday:Sat:Saturday
+:Jan:January:Feb:February:Mar:March:Apr:April:May:May:Jun:June:Jul:July:Aug:August:Sep:September:Oct:October:Nov:November:Dec:December
+%b %d %H : %M : %S %Y
+%m / %d / %y
+:AM:am:PM:pm
+%I : %M : %S %p
+%H : %M
+%H : %M : %S
+%d / %m / %y
+0123456789-
+%.0Lf
+0123456789-
+0123456789-
+0123456789-+Ee
+0123456789ABCDEFabcdef-+Xx
+0123456789-
+0123456789-+Ee
+0123456789ABCDEFabcdef-+Xx
+$+xv
+0123456789ABCDEFabcdef-+XxPp
+0123456789ABCDEFabcdef-+XxPp
++v$x+v$xv$+xv+$xv$+x+$vx+$vx$v+x+$vx$+vx+v $+v $v $+v +$v $++$ v+$ v$ v++$ v$+ v+xv$+ v$v$ +v+ $v$ ++x$v+ $v$v ++ $v$ +v
+raB3GH
+0123456789-
+0123456789-
+0123456789abcdefghijklmnopqrstuvwxyz
+					
+0123456789abcdefghijklmnopqrstuvwxyz
+=L9o<
+SleepConditionVariableCS
+WakeAllConditionVariable
+bad exception
+__based(
+__cdecl
+__pascal
+__stdcall
+__thiscall
+__fastcall
+__vectorcall
+__clrcall
+__eabi
+__swift_1
+__swift_2
+__ptr64
+__restrict
+__unaligned
+restrict(
+ new
+ delete
+operator
+`vftable'
+`vbtable'
+`vcall'
+`typeof'
+`local static guard'
+`string'
+`vbase destructor'
+`vector deleting destructor'
+`default constructor closure'
+`scalar deleting destructor'
+`vector constructor iterator'
+`vector destructor iterator'
+`vector vbase constructor iterator'
+`virtual displacement map'
+`eh vector constructor iterator'
+`eh vector destructor iterator'
+`eh vector vbase constructor iterator'
+`copy constructor closure'
+`udt returning'
+`RTTI
+`local vftable'
+`local vftable constructor closure'
+ new[]
+ delete[]
+`omni callsig'
+`placement delete closure'
+`placement delete[] closure'
+`managed vector constructor iterator'
+`managed vector destructor iterator'
+`eh vector copy constructor iterator'
+`eh vector vbase copy constructor iterator'
+`dynamic initializer for '
+`dynamic atexit destructor for '
+`vector copy constructor iterator'
+`vector vbase copy constructor iterator'
+`managed vector copy constructor iterator'
+`local static thread guard'
+operator "" 
+operator co_await
+operator<=>
+ Type Descriptor'
+ Base Class Descriptor at (
+ Base Class Array'
+ Class Hierarchy Descriptor'
+ Complete Object Locator'
+`anonymous namespace'
+CV: 
+template-parameter-
+`template-parameter-
+generic-type-
+`generic-type-
+`non-type-template-parameter
+??_C
+NULL
+`template-type-parameter-
+`generic-class-parameter-
+`generic-method-parameter-
+nullptr
+void
+`template-parameter
+`vtordispex{
+`vtordisp{
+`adjustor{
+`local static destructor helper'
+`template static data member constructor helper'
+`template static data member destructor helper'
+static 
+virtual 
+private: 
+protected: 
+public: 
+[thunk]:
+extern "C" 
+char 
+short 
+int 
+long 
+unsigned 
+void 
+volatile 
+volatile
+std::nullptr_t 
+std::nullptr_t
+<ellipsis>
+,...
+,<ellipsis>
+ noexcept
+char
+short
+long
+float
+double
+bool
+__int8
+__int16
+__int32
+__int64
+__int128
+<unknown>
+char8_t
+char16_t
+char32_t
+wchar_t
+auto
+decltype(auto)
+__w64 
+UNKNOWN
+signed 
+const
+ volatile
+`unknown ecsu'
+union 
+struct 
+class 
+coclass 
+cointerface 
+enum 
+const 
+cli::array<
+cli::pin_ptr<
+{flat}
+{for 
+ ?? 
+FlsAlloc
+FlsFree
+FlsGetValue
+FlsSetValue
+InitializeCriticalSectionEx
+( 8PX
+700WP
+`h````
+xpxxxx
+('8PW
+700PP
+`h`hhh
+xwpwpp
+(null)
+Assertion failed: %Ts, file %Ts, line %d
+Microsoft Visual C++ Runtime Library
+Assertion failed!
+Program: 
+File: 
+Line: 
+Expression: 
+For information on how your program can cause an assertion
+failure, see the Visual C++ documentation on asserts
+(Press Retry to debug the application - JIT must be enabled)
+<program name unknown>
+ !"#$%&'()*+,-./0123456789:;<=>?@abcdefghijklmnopqrstuvwxyz[\]^_`abcdefghijklmnopqrstuvwxyz{|}~
+ !"#$%&'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`ABCDEFGHIJKLMNOPQRSTUVWXYZ{|}~
+d8L2
+[aOni*{
+@2&@
+"RP(
+eLK(w
+FEMh
+h0'D
+owM&
+~ $s%r
+@b;zO]
+$qE}
+;*xh
+["93
+iu+-,
+\lo}
+obwQ4
+&Sgw
+R	E]
+?nz(
+=87M
+v2!L.2
+	cQr
+X/4B
+k=yI
+^<V7w
+W&|.
+INITY
+inity
+SNAN)
+snan)
+IND)ind)S
+CorExitProcess
+NAN(SNAN)
+nan(snan)
+NAN(IND)
+nan(ind)
+e+000
+ !"#$%&'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`abcdefghijklmnopqrstuvwxyz{|}~
+Sunday
+Monday
+Tuesday
+Wednesday
+Thursday
+Friday
+Saturday
+January
+February
+March
+April
+June
+July
+August
+September
+October
+November
+December
+MM/dd/yy
+dddd, MMMM dd, yyyy
+HH:mm:ss
+log10
+sinh
+cosh
+tanh
+asin
+acos
+atan
+atan2
+sqrt
+ceil
+floor
+fabs
+modf
+ldexp
+_cabs
+_hypot
+fmod
+frexp
+_logb
+_nextafter
+AreFileApisANSI
+CompareStringEx
+EnumSystemLocalesEx
+GetActiveWindow
+GetDateFormatEx
+GetEnabledXStateFeatures
+GetLastActivePopup
+GetLocaleInfoEx
+GetProcessWindowStation
+GetSystemTimePreciseAsFileTime
+GetTimeFormatEx
+GetUserDefaultLocaleName
+GetUserObjectInformationW
+GetXStateFeaturesMask
+IsValidLocaleName
+LCMapStringEx
+LCIDToLocaleName
+LocaleNameToLCID
+LocateXStateFeature
+MessageBoxA
+MessageBoxW
+RoInitialize
+RoUninitialize
+AppPolicyGetProcessTerminationMethod
+AppPolicyGetThreadInitializationType
+AppPolicyGetShowDeveloperDiagnostic
+AppPolicyGetWindowingModel
+SetThreadStackGuarantee
+SystemFunction036
+?SunMonTueWedThuFriSat
+JanFebMarAprMayJunJulAugSepOctNovDec
+1#INF
+1#QNAN
+1#SNAN
+1#IND
+?X&eB
+?Ltm
+tLVv
+?h6_~
+37.=
+?7Tf(
+=\uI=
+g:"(
+$O1=
+uXO=
+1w<=
+>'eH
+pnJ=
+Ht=c
+]vQ<)8
+z1}B
+X4I+
+|)P!?Ua0
+		!=
++34?
+??7;
+MkK?
+R_V?
+9&\?
+Eb2]A=
+f#I=
+hb?O2
+H`3=
+c?e2
+Le?2
+0h?[
+2ieO=
+|W8A=
+np?z 
+)(q?
+}~:f
+t?,&
+u?^p?o4
+!9v?
+GYM=
+Pex?0
+6K{?
+E	M=
+X-F=
+w}?0
+y1~?|"
+V%A+=
+4';=
+q	! 
+#D5p
+La8i
+{4Wf
+Ai0T
+@VNQ
+p4"%
+P'E=
+ls1=
+?PiB
+{^C=
+n{;=
+3<L=
+?|I7Z#
+aDJ=
+>,'1D=
++NB=
+?g)([|X>=
+?|[{
+~*L=
+u!K=
+?IT$7
+-8 ?
+.h ?
+2 !?
+4P!?
+!y##
+98"?
+:h"?bC
+? #?
+@H#?43
+Ax#?uN}*
+r7Yr7=
+.K="=
+F0$?3=1
+H`$?h|
+%?uY
+NH%?
+Px%?
+%?\9
+&?~YK|
+sU0&?W
+VX&?
+4g%6
+:]=O>
+#w_j
+(+E 
+V~|_
+!|.4
+G"jm
+6(`J
+k:UG
+UY =
+Bfe9
+CqTR;
+AiFC.
+?5a1
+<{Q}<
+hI{L[
+<8bunz8
+<V/>
+?(FN\
+<'*6
+?3xj
+<)TH
+K<<H!
+m1WY$
+?#%X.y
+F||<##
+$x<e
+<]%>
+T~OXu
+?.)T
+zyC7
+k7+%
+<@En[vP
+log10
+lzZ?
+	k8=
+?5Wg4p
+Nv$^
+w(@	
+BC .=
+(lX 
+#{ =
+`~R=
+}s"=
+%S#[k
+"B <1=
+\-!y
+#.X'=
+i9+=
+nan(ind)
+nan(snan)
+nan(ind)
+nan(snan)
+nan(ind)
+nan(snan)
+nan(ind)
+nan(snan)
+nan(ind)
+nan(snan)
+nan(ind)
+nan(snan)
+inity
+snan
+inity
+snan
+0p+0
+0p+0
+Unmatched '}' in format string.
+Unmatched '}' in format string.
+0e+00
+0e+00
+Invalid format string.
+invalid fill character '{'
+bool cannot have a precision
+charT cannot have a precision
+invalid floating point type
+invalid floating point type
+invalid floating point type
+invalid const void* type
+const void* cannot have a sign
+const void* cannot have an alternative representation
+const void* cannot have a precision
+const void* cannot have a leading zero
+const void* cannot be localized
+invalid string type
+string cannot have a sign
+string cannot have an alternative representation
+string cannot have a leading zero
+string cannot be localized
+String pointer is null.
+Invalid format string.
+invalid fill character '{'
+bool cannot have a precision
+true
+false
+charT cannot have a precision
+invalid floating point type
+invalid floating point type
+invalid floating point type
+invalid const void* type
+const void* cannot have a sign
+const void* cannot have an alternative representation
+const void* cannot have a precision
+const void* cannot have a leading zero
+const void* cannot be localized
+invalid string type
+string cannot have a sign
+string cannot have an alternative representation
+string cannot have a leading zero
+string cannot be localized
+String pointer is null.
+true
+false
+integral cannot be stored in charT
+integral cannot have a precision
+invalid integral type
+integral cannot be stored in charT
+integral cannot have a precision
+invalid integral type
+integral cannot be stored in charT
+integral cannot have a precision
+invalid integral type
+integral cannot be stored in charT
+integral cannot have a precision
+invalid integral type
+integral cannot be stored in charT
+integral cannot have a precision
+invalid integral type
+integral cannot be stored in charT
+integral cannot have a precision
+invalid integral type
+integral cannot be stored in charT
+integral cannot have a precision
+invalid integral type
+integral cannot be stored in charT
+integral cannot have a precision
+invalid integral type
+integral cannot be stored in charT
+integral cannot have a precision
+invalid integral type
+integral cannot be stored in charT
+integral cannot have a precision
+invalid integral type
+integral cannot be stored in charT
+integral cannot have a precision
+invalid integral type
+integral cannot be stored in charT
+integral cannot have a precision
+invalid integral type
+QueryFullProcessImageNameW
+CLRCreateInstance
+GetRequestedRuntimeVersion
+.dll
+LoadLibraryW
+LdrLoadDll
+LdrUnloadDll
+CLRCreateInstance
+nan(ind)
+nan(snan)
+nan(ind)
+nan(snan)
+nan(ind)
+nan(snan)
+nan(ind)
+nan(snan)
+nan(ind)
+nan(snan)
+nan(ind)
+nan(snan)
+inity
+snan
+inity
+snan
+0p+0
+0p+0
+Unmatched '}' in format string.
+Unmatched '}' in format string.
+0e+00
+0e+00
+Invalid format string.
+invalid fill character '{'
+bool cannot have a precision
+charT cannot have a precision
+invalid floating point type
+invalid floating point type
+invalid floating point type
+invalid const void* type
+const void* cannot have a sign
+const void* cannot have an alternative representation
+const void* cannot have a precision
+const void* cannot have a leading zero
+const void* cannot be localized
+invalid string type
+string cannot have a sign
+string cannot have an alternative representation
+string cannot have a leading zero
+string cannot be localized
+String pointer is null.
+Invalid format string.
+invalid fill character '{'
+bool cannot have a precision
+true
+false
+charT cannot have a precision
+invalid floating point type
+invalid floating point type
+invalid floating point type
+invalid const void* type
+const void* cannot have a sign
+const void* cannot have an alternative representation
+const void* cannot have a precision
+const void* cannot have a leading zero
+const void* cannot be localized
+invalid string type
+string cannot have a sign
+string cannot have an alternative representation
+string cannot have a leading zero
+string cannot be localized
+String pointer is null.
+true
+false
+integral cannot be stored in charT
+integral cannot have a precision
+invalid integral type
+integral cannot be stored in charT
+integral cannot have a precision
+invalid integral type
+integral cannot be stored in charT
+integral cannot have a precision
+invalid integral type
+integral cannot be stored in charT
+integral cannot have a precision
+invalid integral type
+integral cannot be stored in charT
+integral cannot have a precision
+invalid integral type
+integral cannot be stored in charT
+integral cannot have a precision
+invalid integral type
+integral cannot be stored in charT
+integral cannot have a precision
+invalid integral type
+integral cannot be stored in charT
+integral cannot have a precision
+invalid integral type
+integral cannot be stored in charT
+integral cannot have a precision
+invalid integral type
+integral cannot be stored in charT
+integral cannot have a precision
+invalid integral type
+integral cannot be stored in charT
+integral cannot have a precision
+invalid integral type
+integral cannot be stored in charT
+integral cannot have a precision
+invalid integral type
+nan(ind)
+nan(snan)
+nan(ind)
+nan(snan)
+nan(ind)
+nan(snan)
+nan(ind)
+nan(snan)
+nan(ind)
+nan(snan)
+nan(ind)
+nan(snan)
+inity
+snan
+inity
+snan
+0p+0
+0p+0
+Unmatched '}' in format string.
+Unmatched '}' in format string.
+0e+00
+0e+00
+Invalid format string.
+invalid fill character '{'
+bool cannot have a precision
+charT cannot have a precision
+invalid floating point type
+invalid floating point type
+invalid floating point type
+invalid const void* type
+const void* cannot have a sign
+const void* cannot have an alternative representation
+const void* cannot have a precision
+const void* cannot have a leading zero
+const void* cannot be localized
+invalid string type
+string cannot have a sign
+string cannot have an alternative representation
+string cannot have a leading zero
+string cannot be localized
+String pointer is null.
+Invalid format string.
+invalid fill character '{'
+bool cannot have a precision
+true
+false
+charT cannot have a precision
+invalid floating point type
+invalid floating point type
+invalid floating point type
+invalid const void* type
+const void* cannot have a sign
+const void* cannot have an alternative representation
+const void* cannot have a precision
+const void* cannot have a leading zero
+const void* cannot be localized
+invalid string type
+string cannot have a sign
+string cannot have an alternative representation
+string cannot have a leading zero
+string cannot be localized
+String pointer is null.
+true
+false
+integral cannot be stored in charT
+integral cannot have a precision
+invalid integral type
+integral cannot be stored in charT
+integral cannot have a precision
+invalid integral type
+integral cannot be stored in charT
+integral cannot have a precision
+invalid integral type
+integral cannot be stored in charT
+integral cannot have a precision
+invalid integral type
+integral cannot be stored in charT
+integral cannot have a precision
+invalid integral type
+integral cannot be stored in charT
+integral cannot have a precision
+invalid integral type
+integral cannot be stored in charT
+integral cannot have a precision
+invalid integral type
+integral cannot be stored in charT
+integral cannot have a precision
+invalid integral type
+integral cannot be stored in charT
+integral cannot have a precision
+invalid integral type
+integral cannot be stored in charT
+integral cannot have a precision
+invalid integral type
+integral cannot be stored in charT
+integral cannot have a precision
+invalid integral type
+integral cannot be stored in charT
+integral cannot have a precision
+invalid integral type
+RtlAllocateActivationContextStack
+NtDelayExecution
+NtTerminateThread
+NtOpenEvent
+NtCreateEvent
+NtSetEvent
+nan(ind)
+nan(snan)
+nan(ind)
+nan(snan)
+nan(ind)
+nan(snan)
+nan(ind)
+nan(snan)
+nan(ind)
+nan(snan)
+nan(ind)
+nan(snan)
+inity
+snan
+inity
+snan
+0p+0
+0p+0
+Unmatched '}' in format string.
+Unmatched '}' in format string.
+0e+00
+0e+00
+Invalid format string.
+invalid fill character '{'
+bool cannot have a precision
+charT cannot have a precision
+invalid floating point type
+invalid floating point type
+invalid floating point type
+invalid const void* type
+const void* cannot have a sign
+const void* cannot have an alternative representation
+const void* cannot have a precision
+const void* cannot have a leading zero
+const void* cannot be localized
+invalid string type
+string cannot have a sign
+string cannot have an alternative representation
+string cannot have a leading zero
+string cannot be localized
+String pointer is null.
+Invalid format string.
+invalid fill character '{'
+bool cannot have a precision
+true
+false
+charT cannot have a precision
+invalid floating point type
+invalid floating point type
+invalid floating point type
+invalid const void* type
+const void* cannot have a sign
+const void* cannot have an alternative representation
+const void* cannot have a precision
+const void* cannot have a leading zero
+const void* cannot be localized
+invalid string type
+string cannot have a sign
+string cannot have an alternative representation
+string cannot have a leading zero
+string cannot be localized
+String pointer is null.
+true
+false
+integral cannot be stored in charT
+integral cannot have a precision
+invalid integral type
+integral cannot be stored in charT
+integral cannot have a precision
+invalid integral type
+integral cannot be stored in charT
+integral cannot have a precision
+invalid integral type
+integral cannot be stored in charT
+integral cannot have a precision
+invalid integral type
+integral cannot be stored in charT
+integral cannot have a precision
+invalid integral type
+integral cannot be stored in charT
+integral cannot have a precision
+invalid integral type
+integral cannot be stored in charT
+integral cannot have a precision
+invalid integral type
+integral cannot be stored in charT
+integral cannot have a precision
+invalid integral type
+integral cannot be stored in charT
+integral cannot have a precision
+invalid integral type
+integral cannot be stored in charT
+integral cannot have a precision
+invalid integral type
+integral cannot be stored in charT
+integral cannot have a precision
+invalid integral type
+integral cannot be stored in charT
+integral cannot have a precision
+invalid integral type
+RtlAddFunctionTable
+RtlDeleteFunctionTable
+RtlActivateActivationContext
+RtlDeactivateActivationContext
+CreateActCtxW
+NtTerminateThread
+RtlDosApplyFileIsolationRedirection_Ustr
+RtlActivateActivationContext
+RtlDeactivateActivationContext
+nan(ind)
+nan(snan)
+nan(ind)
+nan(snan)
+nan(ind)
+nan(snan)
+nan(ind)
+nan(snan)
+nan(ind)
+nan(snan)
+nan(ind)
+nan(snan)
+inity
+snan
+inity
+snan
+0p+0
+0p+0
+Unmatched '}' in format string.
+Unmatched '}' in format string.
+0e+00
+0e+00
+Invalid format string.
+invalid fill character '{'
+bool cannot have a precision
+charT cannot have a precision
+invalid floating point type
+invalid floating point type
+invalid floating point type
+invalid const void* type
+const void* cannot have a sign
+const void* cannot have an alternative representation
+const void* cannot have a precision
+const void* cannot have a leading zero
+const void* cannot be localized
+invalid string type
+string cannot have a sign
+string cannot have an alternative representation
+string cannot have a leading zero
+string cannot be localized
+String pointer is null.
+Invalid format string.
+invalid fill character '{'
+bool cannot have a precision
+true
+false
+charT cannot have a precision
+invalid floating point type
+invalid floating point type
+invalid floating point type
+invalid const void* type
+const void* cannot have a sign
+const void* cannot have an alternative representation
+const void* cannot have a precision
+const void* cannot have a leading zero
+const void* cannot be localized
+invalid string type
+string cannot have a sign
+string cannot have an alternative representation
+string cannot have a leading zero
+string cannot be localized
+String pointer is null.
+true
+false
+integral cannot be stored in charT
+integral cannot have a precision
+invalid integral type
+integral cannot be stored in charT
+integral cannot have a precision
+invalid integral type
+integral cannot be stored in charT
+integral cannot have a precision
+invalid integral type
+integral cannot be stored in charT
+integral cannot have a precision
+invalid integral type
+integral cannot be stored in charT
+integral cannot have a precision
+invalid integral type
+integral cannot be stored in charT
+integral cannot have a precision
+invalid integral type
+integral cannot be stored in charT
+integral cannot have a precision
+invalid integral type
+integral cannot be stored in charT
+integral cannot have a precision
+invalid integral type
+integral cannot be stored in charT
+integral cannot have a precision
+invalid integral type
+integral cannot be stored in charT
+integral cannot have a precision
+invalid integral type
+integral cannot be stored in charT
+integral cannot have a precision
+invalid integral type
+integral cannot be stored in charT
+integral cannot have a precision
+invalid integral type
+NtYieldExecution
+NtResumeProcess
+NtSuspendProcess
+NtQuerySystemInformation
+NtQuerySystemInformation
+NtQueryObject
+NtDuplicateObject
+NtQueryObject
+NtQueryObject
+NtQuerySection
+NtQuerySystemInformation
+NtQuerySystemInformation
+nan(ind)
+nan(snan)
+nan(ind)
+nan(snan)
+nan(ind)
+nan(snan)
+nan(ind)
+nan(snan)
+nan(ind)
+nan(snan)
+nan(ind)
+nan(snan)
+inity
+snan
+inity
+0p+0
+snan
+Unmatched '}' in format string.
+0p+0
+Unmatched '}' in format string.
+0e+00
+0e+00
+Invalid format string.
+invalid fill character '{'
+bool cannot have a precision
+invalid floating point type
+charT cannot have a precision
+invalid floating point type
+invalid floating point type
+const void* cannot have a sign
+invalid const void* type
+const void* cannot have a precision
+const void* cannot have an alternative representation
+const void* cannot be localized
+const void* cannot have a leading zero
+string cannot have a sign
+invalid string type
+string cannot have a leading zero
+string cannot have an alternative representation
+String pointer is null.
+string cannot be localized
+invalid fill character '{'
+Invalid format string.
+true
+bool cannot have a precision
+charT cannot have a precision
+false
+invalid floating point type
+invalid floating point type
+invalid const void* type
+invalid floating point type
+const void* cannot have an alternative representation
+const void* cannot have a sign
+const void* cannot have a leading zero
+const void* cannot have a precision
+invalid string type
+const void* cannot be localized
+string cannot have an alternative representation
+string cannot have a sign
+string cannot be localized
+string cannot have a leading zero
+true
+String pointer is null.
+false
+integral cannot be stored in charT
+invalid integral type
+integral cannot have a precision
+integral cannot have a precision
+integral cannot be stored in charT
+integral cannot be stored in charT
+invalid integral type
+invalid integral type
+integral cannot have a precision
+integral cannot have a precision
+integral cannot be stored in charT
+integral cannot be stored in charT
+invalid integral type
+invalid integral type
+integral cannot have a precision
+integral cannot have a precision
+integral cannot be stored in charT
+integral cannot be stored in charT
+invalid integral type
+invalid integral type
+integral cannot have a precision
+integral cannot have a precision
+integral cannot be stored in charT
+integral cannot be stored in charT
+invalid integral type
+invalid integral type
+integral cannot have a precision
+integral cannot have a precision
+integral cannot be stored in charT
+integral cannot be stored in charT
+invalid integral type
+invalid integral type
+integral cannot have a precision
+integral cannot have a precision
+integral cannot be stored in charT
+invalid integral type
+RtlFreeUnicodeString
+RtlDosPathNameToNtPathName_U
+RtlFreeUnicodeString
+RtlDosPathNameToNtPathName_U
+RtlInitUnicodeString
+NtUnloadDriver
+NtLoadDriver
+RtlInitUnicodeString
+NtAllocateVirtualMemory
+NtMapViewOfSection
+NtFreeVirtualMemory
+NtUnmapViewOfSection
+NtFreeVirtualMemory
+NtAllocateVirtualMemory
+NtUnmapViewOfSection
+NtMapViewOfSection
+RtlEnterCriticalSection
+RtlLeaveCriticalSection
+WriteFile
+nan(ind)
+nan(snan)
+nan(ind)
+nan(snan)
+nan(ind)
+nan(snan)
+nan(ind)
+nan(snan)
+nan(ind)
+nan(snan)
+nan(ind)
+nan(snan)
+inity
+snan
+inity
+snan
+0p+0
+0p+0
+Unmatched '}' in format string.
+Unmatched '}' in format string.
+0e+00
+0e+00
+invalid fill character '{'
+Invalid format string.
+bool cannot have a precision
+charT cannot have a precision
+invalid floating point type
+invalid floating point type
+invalid const void* type
+invalid floating point type
+const void* cannot have an alternative representation
+const void* cannot have a sign
+const void* cannot have a leading zero
+const void* cannot have a precision
+invalid string type
+const void* cannot be localized
+string cannot have an alternative representation
+string cannot have a sign
+string cannot be localized
+string cannot have a leading zero
+String pointer is null.
+Invalid format string.
+bool cannot have a precision
+invalid fill character '{'
+false
+true
+invalid floating point type
+charT cannot have a precision
+invalid floating point type
+invalid floating point type
+const void* cannot have a sign
+invalid const void* type
+const void* cannot have a precision
+const void* cannot have an alternative representation
+const void* cannot be localized
+const void* cannot have a leading zero
+string cannot have a sign
+invalid string type
+string cannot have a leading zero
+string cannot have an alternative representation
+String pointer is null.
+string cannot be localized
+false
+true
+integral cannot have a precision
+integral cannot be stored in charT
+integral cannot be stored in charT
+invalid integral type
+invalid integral type
+integral cannot have a precision
+integral cannot have a precision
+integral cannot be stored in charT
+integral cannot be stored in charT
+invalid integral type
+invalid integral type
+integral cannot have a precision
+integral cannot have a precision
+integral cannot be stored in charT
+integral cannot be stored in charT
+invalid integral type
+invalid integral type
+integral cannot have a precision
+integral cannot have a precision
+integral cannot be stored in charT
+integral cannot be stored in charT
+invalid integral type
+invalid integral type
+integral cannot have a precision
+integral cannot have a precision
+integral cannot be stored in charT
+integral cannot be stored in charT
+invalid integral type
+invalid integral type
+integral cannot have a precision
+integral cannot have a precision
+integral cannot be stored in charT
+integral cannot be stored in charT
+invalid integral type
+invalid integral type
+integral cannot have a precision
+NtQueryInformationProcess
+NtQueryVirtualMemory
+NtCreateThreadEx
+NtSetInformationProcess
+Wow64SetThreadContext
+Wow64GetThreadContext
+NtQueueApcThread
+RtlQueueApcWow64Thread
+NtQueryInformationProcess
+NtQueryInformationProcess
+NtQueryInformationThread
+NtQueryInformationThread
+RtlInitUnicodeString
+RtlDosApplyFileIsolationRedirection_Ustr
+RtlFreeUnicodeString
+RtlDosApplyFileIsolationRedirection_Ustr
+nan(ind)
+nan(snan)
+nan(ind)
+nan(snan)
+nan(ind)
+nan(snan)
+nan(ind)
+nan(snan)
+nan(ind)
+nan(snan)
+nan(ind)
+nan(snan)
+inity
+snan
+inity
+0p+0
+snan
+Unmatched '}' in format string.
+0p+0
+Unmatched '}' in format string.
+0e+00
+0e+00
+invalid fill character '{'
+Invalid format string.
+bool cannot have a precision
+charT cannot have a precision
+invalid floating point type
+invalid floating point type
+invalid const void* type
+invalid floating point type
+const void* cannot have an alternative representation
+const void* cannot have a sign
+const void* cannot have a leading zero
+const void* cannot have a precision
+invalid string type
+const void* cannot be localized
+string cannot have an alternative representation
+string cannot have a sign
+string cannot be localized
+string cannot have a leading zero
+String pointer is null.
+Invalid format string.
+bool cannot have a precision
+invalid fill character '{'
+false
+true
+invalid floating point type
+charT cannot have a precision
+invalid floating point type
+invalid floating point type
+const void* cannot have a sign
+invalid const void* type
+const void* cannot have a precision
+const void* cannot have an alternative representation
+const void* cannot be localized
+const void* cannot have a leading zero
+string cannot have a sign
+invalid string type
+string cannot have a leading zero
+string cannot have an alternative representation
+String pointer is null.
+string cannot be localized
+false
+true
+integral cannot have a precision
+integral cannot be stored in charT
+integral cannot be stored in charT
+invalid integral type
+invalid integral type
+integral cannot have a precision
+integral cannot have a precision
+integral cannot be stored in charT
+integral cannot be stored in charT
+invalid integral type
+invalid integral type
+integral cannot have a precision
+integral cannot have a precision
+integral cannot be stored in charT
+integral cannot be stored in charT
+invalid integral type
+invalid integral type
+integral cannot have a precision
+integral cannot have a precision
+integral cannot be stored in charT
+integral cannot be stored in charT
+invalid integral type
+invalid integral type
+integral cannot have a precision
+integral cannot have a precision
+integral cannot be stored in charT
+integral cannot be stored in charT
+invalid integral type
+invalid integral type
+integral cannot have a precision
+integral cannot have a precision
+integral cannot be stored in charT
+integral cannot be stored in charT
+invalid integral type
+invalid integral type
+integral cannot have a precision
+RtlInitUnicodeString
+RtlUpcaseUnicodeChar
+RtlHashUnicodeString
+RtlAllocateHeap
+nan(ind)
+nan(snan)
+nan(ind)
+nan(snan)
+nan(ind)
+nan(snan)
+nan(ind)
+nan(snan)
+nan(ind)
+nan(snan)
+nan(ind)
+nan(snan)
+.data
+RtlRbInsertNodeEx
+.data
+RtlRbRemoveNode
+RtlRbInsertNodeEx
+RtlRbRemoveNode
+inity
+snan
+inity
+0p+0
+snan
+Unmatched '}' in format string.
+0p+0
+Unmatched '}' in format string.
+0e+00
+0e+00
+Invalid format string.
+invalid fill character '{'
+bool cannot have a precision
+invalid floating point type
+charT cannot have a precision
+invalid floating point type
+invalid floating point type
+const void* cannot have a sign
+invalid const void* type
+const void* cannot have a precision
+const void* cannot have an alternative representation
+const void* cannot be localized
+const void* cannot have a leading zero
+string cannot have a sign
+invalid string type
+string cannot have a leading zero
+string cannot have an alternative representation
+String pointer is null.
+string cannot be localized
+invalid fill character '{'
+Invalid format string.
+true
+bool cannot have a precision
+charT cannot have a precision
+false
+invalid floating point type
+invalid floating point type
+invalid const void* type
+invalid floating point type
+const void* cannot have an alternative representation
+const void* cannot have a sign
+const void* cannot have a leading zero
+const void* cannot have a precision
+invalid string type
+const void* cannot be localized
+string cannot have an alternative representation
+string cannot have a sign
+string cannot be localized
+string cannot have a leading zero
+true
+String pointer is null.
+false
+integral cannot be stored in charT
+invalid integral type
+integral cannot have a precision
+integral cannot have a precision
+integral cannot be stored in charT
+integral cannot be stored in charT
+invalid integral type
+invalid integral type
+integral cannot have a precision
+integral cannot have a precision
+integral cannot be stored in charT
+integral cannot be stored in charT
+invalid integral type
+invalid integral type
+integral cannot have a precision
+integral cannot have a precision
+integral cannot be stored in charT
+integral cannot be stored in charT
+invalid integral type
+invalid integral type
+integral cannot have a precision
+integral cannot have a precision
+integral cannot be stored in charT
+integral cannot be stored in charT
+invalid integral type
+invalid integral type
+integral cannot have a precision
+integral cannot have a precision
+integral cannot be stored in charT
+integral cannot be stored in charT
+invalid integral type
+invalid integral type
+integral cannot have a precision
+integral cannot have a precision
+integral cannot be stored in charT
+invalid integral type
+Wow64SuspendThread
+GetThreadId
+Wow64SuspendThread
+NtQueryInformationThread
+RtlAddVectoredExceptionHandler
+RtlDecodeSystemPointer
+RtlRemoveVectoredExceptionHandler
+nan(ind)
+nan(snan)
+nan(ind)
+nan(snan)
+nan(ind)
+nan(snan)
+nan(ind)
+nan(snan)
+nan(ind)
+nan(snan)
+nan(ind)
+nan(snan)
+inity
+snan
+inity
+snan
+0p+0
+0p+0
+Unmatched '}' in format string.
+Unmatched '}' in format string.
+0e+00
+0e+00
+invalid fill character '{'
+Invalid format string.
+bool cannot have a precision
+charT cannot have a precision
+invalid floating point type
+invalid floating point type
+invalid const void* type
+invalid floating point type
+const void* cannot have an alternative representation
+const void* cannot have a sign
+const void* cannot have a leading zero
+const void* cannot have a precision
+invalid string type
+const void* cannot be localized
+string cannot have an alternative representation
+string cannot have a sign
+string cannot be localized
+string cannot have a leading zero
+String pointer is null.
+Invalid format string.
+bool cannot have a precision
+invalid fill character '{'
+false
+true
+invalid floating point type
+charT cannot have a precision
+invalid floating point type
+invalid floating point type
+const void* cannot have a sign
+invalid const void* type
+const void* cannot have a precision
+const void* cannot have an alternative representation
+const void* cannot be localized
+const void* cannot have a leading zero
+string cannot have a sign
+invalid string type
+string cannot have a leading zero
+string cannot have an alternative representation
+String pointer is null.
+string cannot be localized
+false
+true
+integral cannot have a precision
+integral cannot be stored in charT
+integral cannot be stored in charT
+invalid integral type
+invalid integral type
+integral cannot have a precision
+integral cannot have a precision
+integral cannot be stored in charT
+integral cannot be stored in charT
+invalid integral type
+invalid integral type
+integral cannot have a precision
+integral cannot have a precision
+integral cannot be stored in charT
+integral cannot be stored in charT
+invalid integral type
+invalid integral type
+integral cannot have a precision
+integral cannot have a precision
+integral cannot be stored in charT
+integral cannot be stored in charT
+invalid integral type
+invalid integral type
+integral cannot have a precision
+integral cannot have a precision
+integral cannot be stored in charT
+integral cannot be stored in charT
+invalid integral type
+invalid integral type
+integral cannot have a precision
+integral cannot have a precision
+integral cannot be stored in charT
+integral cannot be stored in charT
+invalid integral type
+invalid integral type
+integral cannot have a precision
+nan(ind)
+nan(ind)
+nan(snan)
+nan(ind)
+nan(snan)
+nan(ind)
+nan(snan)
+nan(ind)
+nan(snan)
+nan(ind)
+nan(snan)
+nan(snan)
+inity
+inity
+snan
+0p+0
+0p+0
+snan
+Unmatched '}' in format string.
+Unmatched '}' in format string.
+0e+00
+0e+00
+Invalid format string.
+invalid fill character '{'
+charT cannot have a precision
+bool cannot have a precision
+invalid floating point type
+invalid const void* type
+invalid floating point type
+invalid floating point type
+const void* cannot have a precision
+const void* cannot have a leading zero
+const void* cannot have a sign
+const void* cannot have an alternative representation
+string cannot have a sign
+string cannot have an alternative representation
+const void* cannot be localized
+invalid string type
+String pointer is null.
+string cannot have a leading zero
+string cannot be localized
+invalid fill character '{'
+bool cannot have a precision
+Invalid format string.
+charT cannot have a precision
+invalid floating point type
+true
+false
+invalid const void* type
+const void* cannot have a sign
+invalid floating point type
+invalid floating point type
+const void* cannot have a leading zero
+const void* cannot be localized
+const void* cannot have an alternative representation
+const void* cannot have a precision
+string cannot have an alternative representation
+string cannot have a leading zero
+invalid string type
+string cannot have a sign
+true
+false
+string cannot be localized
+String pointer is null.
+integral cannot be stored in charT
+integral cannot have a precision
+integral cannot have a precision
+invalid integral type
+invalid integral type
+integral cannot be stored in charT
+invalid integral type
+integral cannot be stored in charT
+integral cannot be stored in charT
+integral cannot have a precision
+integral cannot be stored in charT
+integral cannot have a precision
+integral cannot have a precision
+invalid integral type
+integral cannot have a precision
+invalid integral type
+invalid integral type
+integral cannot be stored in charT
+invalid integral type
+integral cannot be stored in charT
+integral cannot be stored in charT
+integral cannot have a precision
+integral cannot be stored in charT
+integral cannot have a precision
+integral cannot have a precision
+invalid integral type
+integral cannot have a precision
+invalid integral type
+invalid integral type
+integral cannot be stored in charT
+invalid integral type
+integral cannot be stored in charT
+integral cannot be stored in charT
+integral cannot have a precision
+integral cannot have a precision
+invalid integral type
+nan(ind)
+nan(ind)
+nan(snan)
+nan(ind)
+nan(snan)
+nan(ind)
+nan(snan)
+nan(ind)
+nan(snan)
+nan(ind)
+nan(snan)
+nan(snan)
+inity
+snan
+snan
+inity
+Unmatched '}' in format string.
+Unmatched '}' in format string.
+0p+0
+0p+0
+0e+00
+0e+00
+Invalid format string.
+invalid fill character '{'
+bool cannot have a precision
+invalid floating point type
+invalid floating point type
+charT cannot have a precision
+const void* cannot have a sign
+const void* cannot have an alternative representation
+invalid floating point type
+invalid const void* type
+const void* cannot be localized
+invalid string type
+const void* cannot have a precision
+const void* cannot have a leading zero
+string cannot have a leading zero
+string cannot be localized
+string cannot have a sign
+string cannot have an alternative representation
+Invalid format string.
+String pointer is null.
+true
+false
+invalid fill character '{'
+bool cannot have a precision
+invalid floating point type
+invalid floating point type
+charT cannot have a precision
+invalid floating point type
+const void* cannot have an alternative representation
+const void* cannot have a precision
+invalid const void* type
+const void* cannot have a sign
+invalid string type
+string cannot have a sign
+const void* cannot have a leading zero
+const void* cannot be localized
+string cannot be localized
+String pointer is null.
+string cannot have an alternative representation
+string cannot have a leading zero
+true
+false
+invalid integral type
+integral cannot be stored in charT
+integral cannot be stored in charT
+integral cannot have a precision
+integral cannot be stored in charT
+integral cannot have a precision
+integral cannot have a precision
+invalid integral type
+integral cannot have a precision
+invalid integral type
+invalid integral type
+integral cannot be stored in charT
+invalid integral type
+integral cannot be stored in charT
+integral cannot be stored in charT
+integral cannot have a precision
+integral cannot be stored in charT
+integral cannot have a precision
+integral cannot have a precision
+invalid integral type
+integral cannot have a precision
+invalid integral type
+invalid integral type
+integral cannot be stored in charT
+invalid integral type
+integral cannot be stored in charT
+integral cannot be stored in charT
+integral cannot have a precision
+integral cannot be stored in charT
+integral cannot have a precision
+integral cannot have a precision
+invalid integral type
+integral cannot have a precision
+invalid integral type
+invalid integral type
+integral cannot be stored in charT
+GetProcessDEPPolicy
+&.6>de
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+@@@@
+!!!!!!!!!!!!!!!!ADAA@@@@@@@@@@@@
+@@AD
+@@@@
+@@@@@@@@!!!!
+@@@@@@
+A@@@@@@@@@
+@@@@P
+@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@AAAA@@@
+@@@@$$$$$$$$$$$$$$$$@@@@@@@@@@@@@@@@
+@A@@@@@@@@@@@@@A@@@@@@@A@AAA@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+NtFreeVirtualMemory
+NtQueryVirtualMemory
+NtAllocateVirtualMemory
+NtWow64ReadVirtualMemory64
+NtWow64WriteVirtualMemory64
+NtQueryVirtualMemory
+NtProtectVirtualMemory
+NtCreateThreadEx
+NtGetContextThread
+NtWow64QueryInformationProcess64
+NtSetInformationProcess
+NtQueryInformationProcess
+NtWow64QueryInformationProcess64
+NtSetContextThread
+NtQueueApcThread
+NtQueryInformationThread
+NtWow64ReadVirtualMemory64
+NtWow64ReadVirtualMemory64
+NtQueryInformationThread
+NtQueryInformationProcess
+NtQueryInformationThread
+NtQueryVirtualMemory
+DllGetClassObject
+T$XH
+QQSW
+Pj	j
+QQSW
+RtlNtStatusToDosError
+LdrGetProcedureAddress
+NtAllocateVirtualMemory
+NtFreeVirtualMemory
+RtlSetLastWin32Error
+NtQueryVirtualMemory
+NtWriteVirtualMemory
+NtGetContextThread
+NtProtectVirtualMemory
+NtReadVirtualMemory
+NtSetContextThread
+nan(ind)
+nan(ind)
+nan(snan)
+nan(ind)
+nan(snan)
+nan(ind)
+nan(snan)
+nan(ind)
+nan(snan)
+nan(ind)
+nan(snan)
+nan(snan)
+inity
+inity
+snan
+0p+0
+0p+0
+snan
+Unmatched '}' in format string.
+Unmatched '}' in format string.
+0e+00
+0e+00
+Invalid format string.
+invalid fill character '{'
+charT cannot have a precision
+bool cannot have a precision
+invalid floating point type
+invalid const void* type
+invalid floating point type
+invalid floating point type
+const void* cannot have a precision
+const void* cannot have a leading zero
+const void* cannot have a sign
+const void* cannot have an alternative representation
+string cannot have a sign
+string cannot have an alternative representation
+const void* cannot be localized
+invalid string type
+String pointer is null.
+string cannot have a leading zero
+string cannot be localized
+invalid fill character '{'
+bool cannot have a precision
+Invalid format string.
+charT cannot have a precision
+invalid floating point type
+true
+false
+invalid const void* type
+const void* cannot have a sign
+invalid floating point type
+invalid floating point type
+const void* cannot have a leading zero
+const void* cannot be localized
+const void* cannot have an alternative representation
+const void* cannot have a precision
+string cannot have an alternative representation
+string cannot have a leading zero
+invalid string type
+string cannot have a sign
+true
+false
+string cannot be localized
+String pointer is null.
+integral cannot be stored in charT
+integral cannot have a precision
+integral cannot have a precision
+invalid integral type
+invalid integral type
+integral cannot be stored in charT
+invalid integral type
+integral cannot be stored in charT
+integral cannot be stored in charT
+integral cannot have a precision
+integral cannot be stored in charT
+integral cannot have a precision
+integral cannot have a precision
+invalid integral type
+integral cannot have a precision
+invalid integral type
+invalid integral type
+integral cannot be stored in charT
+invalid integral type
+integral cannot be stored in charT
+integral cannot be stored in charT
+integral cannot have a precision
+integral cannot be stored in charT
+integral cannot have a precision
+integral cannot have a precision
+invalid integral type
+integral cannot have a precision
+invalid integral type
+invalid integral type
+integral cannot be stored in charT
+invalid integral type
+integral cannot be stored in charT
+integral cannot be stored in charT
+integral cannot have a precision
+integral cannot have a precision
+invalid integral type
+GenuineIntel
+AuthenticAMD
+CentaurHauls
+4n:-
+.'5S)
+DN\1
+00010203040506070809101112131415161718192021222324252627282930313233343536373839404142434445464748495051525354555657585960616263646566676869707172737475767778798081828384858687888990919293949596979899Unknown exception
+bad array new length
+string too long
+invalid string position
+map/set too long
+yp`H
+^PGo
+	GuR
+YKuI
+<W~C
+Q1	M
+E5KV
+(Nir
+Pc@xB
+F4\_
+;yvector too long
+unordered_map/set too long
+invalid hash bucket count
+Bad optional access
+RtlGetVersion
+NtQuerySystemInformation
+RtlDosApplyFileIsolationRedirection_Ustr
+RtlInitUnicodeString
+RtlFreeUnicodeString
+RtlHashUnicodeString
+RtlUpcaseUnicodeChar
+NtQueryInformationProcess
+NtSetInformationProcess
+NtQueryInformationThread
+NtDuplicateObject
+NtQueryObject
+NtQuerySection
+RtlCreateActivationContext
+NtQueryVirtualMemory
+NtCreateThreadEx
+NtLockVirtualMemory
+NtSuspendProcess
+NtResumeProcess
+RtlImageNtHeader
+NtLoadDriver
+NtUnloadDriver
+RtlDosPathNameToNtPathName_U
+NtOpenEvent
+NtCreateEvent
+NtQueueApcThread
+RtlEncodeSystemPointer
+RtlQueueApcWow64Thread
+NtWow64QueryInformationProcess64
+NtWow64ReadVirtualMemory64
+NtWow64WriteVirtualMemory64
+Wow64GetThreadContext
+Wow64SetThreadContext
+Wow64SuspendThread
+GetProcessDEPPolicy
+QueryFullProcessImageNameW
+bad cast
+iostream
+bad locale name
+ios_base::badbit set
+ios_base::eofbit set
+ios_base::failbit set
+iostream stream error
+.text
+RSDS
+C:\Users\think\source\repos\krnl-inj-test\Release-dll\krnl-inj-test.pdb
+GCTL
+.text$di
+.text$mn
+.text$x
+.text$yd
+.idata$5
+.00cfg
+.CRT$XCA
+.CRT$XCC
+.CRT$XCL
+.CRT$XCU
+.CRT$XCZ
+.CRT$XIA
+.CRT$XIC
+.CRT$XIZ
+.CRT$XLA
+.CRT$XLZ
+.CRT$XPA
+.CRT$XPX
+.CRT$XPXA
+.CRT$XPZ
+.CRT$XTA
+.CRT$XTZ
+.rdata
+.rdata$CastGuardVftablesA
+.rdata$CastGuardVftablesC
+.rdata$T
+.rdata$r
+.rdata$sxdata
+.rdata$zzzdbg
+.rtc$IAA
+.rtc$IZZ
+.rtc$TAA
+.rtc$TZZ
+.tls
+.tls$
+.tls$ZZZ
+.xdata$x
+ATL$__a
+ATL$__z
+.edata
+.idata$2
+.idata$3
+.idata$4
+.idata$6
+.data
+.data$r
+.data$rs
+.bss
+.rsrc$01
+.rsrc$02
+krnl-inj-test.dll
+??0Assembler@asmjit@@QAE@PAURuntime@1@@Z
+??0CodeGen@asmjit@@QAE@PAURuntime@1@@Z
+??0HostRuntime@asmjit@@QAE@XZ
+??0JitRuntime@asmjit@@QAE@XZ
+??0Runtime@asmjit@@QAE@XZ
+??0StaticRuntime@asmjit@@QAE@PAXI@Z
+??0VMemMgr@asmjit@@QAE@PAX@Z
+??0X86Assembler@asmjit@@QAE@PAURuntime@1@I@Z
+??0Zone@asmjit@@QAE@I@Z
+??1Assembler@asmjit@@UAE@XZ
+??1CodeGen@asmjit@@UAE@XZ
+??1HostRuntime@asmjit@@UAE@XZ
+??1JitRuntime@asmjit@@UAE@XZ
+??1Runtime@asmjit@@UAE@XZ
+??1StaticRuntime@asmjit@@UAE@XZ
+??1VMemMgr@asmjit@@QAE@XZ
+??1X86Assembler@asmjit@@UAE@XZ
+??1Zone@asmjit@@QAE@XZ
+??_FVMemMgr@asmjit@@QAEXXZ
+?_alloc@Zone@asmjit@@QAEPAXI@Z
+?_emit@X86Assembler@asmjit@@UAEIIABUOperand@2@000@Z
+?_grow@Assembler@asmjit@@QAEII@Z
+?_grow@PodVectorBase@asmjit@@IAEIII@Z
+?_newLabel@Assembler@asmjit@@QAEIPAULabel@2@@Z
+?_newLabelLink@Assembler@asmjit@@QAEPAULabelLink@2@XZ
+?_nullData@PodVectorBase@asmjit@@2UPodVectorData@2@B
+?_registerIndexedLabels@Assembler@asmjit@@QAEII@Z
+?_relocCode@X86Assembler@asmjit@@UBEIPAX_K@Z
+?_reserve@Assembler@asmjit@@QAEII@Z
+?_reserve@PodVectorBase@asmjit@@IAEIII@Z
+?_x86CondToCmovcc@asmjit@@3QBIB
+?_x86CondToJcc@asmjit@@3QBIB
+?_x86CondToSetcc@asmjit@@3QBIB
+?_x86InstExtendedInfo@asmjit@@3QBUX86InstExtendedInfo@1@B
+?_x86InstInfo@asmjit@@3QBUX86InstInfo@1@B
+?_x86ReverseCond@asmjit@@3QBIB
+?add@JitRuntime@asmjit@@UAEIPAPAXPAUAssembler@2@@Z
+?add@StaticRuntime@asmjit@@UAEIPAPAXPAUAssembler@2@@Z
+?align@X86Assembler@asmjit@@UAEIII@Z
+?alloc@VMemMgr@asmjit@@QAEPAXII@Z
+?alloc@VMemUtil@asmjit@@SAPAXIPAII@Z
+?allocProcessMemory@VMemUtil@asmjit@@SAPAXPAXIPAII@Z
+?allocZeroed@Zone@asmjit@@QAEPAXI@Z
+?bind@Assembler@asmjit@@UAEIABULabel@2@@Z
+?callCpuId@X86CpuUtil@asmjit@@SAXIIPATX86CpuId@2@@Z
+?detect@X86CpuUtil@asmjit@@SAXPAUX86CpuInfo@2@@Z
+?detectHwThreadsCount@CpuInfo@asmjit@@SAIXZ
+?dup@Zone@asmjit@@QAEPAXPBXI@Z
+?embed@Assembler@asmjit@@UAEIPBXI@Z
+?embedLabel@X86Assembler@asmjit@@QAEIABULabel@2@@Z
+?emit@Assembler@asmjit@@QAEII@Z
+?emit@Assembler@asmjit@@QAEIIABUOperand@2@00@Z
+?emit@Assembler@asmjit@@QAEIIABUOperand@2@00H@Z
+?emit@Assembler@asmjit@@QAEIIABUOperand@2@00_K@Z
+?emit@Assembler@asmjit@@QAEIIABUOperand@2@0@Z
+?emit@Assembler@asmjit@@QAEIIABUOperand@2@0H@Z
+?emit@Assembler@asmjit@@QAEIIABUOperand@2@0_K@Z
+?emit@Assembler@asmjit@@QAEIIABUOperand@2@@Z
+?emit@Assembler@asmjit@@QAEIIABUOperand@2@H@Z
+?emit@Assembler@asmjit@@QAEIIABUOperand@2@_K@Z
+?emit@Assembler@asmjit@@QAEIIH@Z
+?emit@Assembler@asmjit@@QAEII_K@Z
+?flush@HostRuntime@asmjit@@UAEXPAXI@Z
+?getCpuInfo@HostRuntime@asmjit@@UAEPBUCpuInfo@2@XZ
+?getHost@CpuInfo@asmjit@@SAPBU12@XZ
+?getPageGranularity@VMemUtil@asmjit@@SAIXZ
+?getPageSize@VMemUtil@asmjit@@SAIXZ
+?getStackAlignment@HostRuntime@asmjit@@UAEIXZ
+?make@Assembler@asmjit@@UAEPAXXZ
+?noOperand@asmjit@@3UOperand@1@B
+?ptr_abs@x86@asmjit@@YA?AUX86Mem@2@_KABUX86Reg@2@IHI@Z
+?ptr_abs@x86@asmjit@@YA?AUX86Mem@2@_KHI@Z
+?release@JitRuntime@asmjit@@UAEIPAX@Z
+?release@StaticRuntime@asmjit@@UAEIPAX@Z
+?release@VMemMgr@asmjit@@QAEIPAX@Z
+?release@VMemUtil@asmjit@@SAIPAXI@Z
+?releaseProcessMemory@VMemUtil@asmjit@@SAIPAX0I@Z
+?relocCode@Assembler@asmjit@@QBEIPAX_K@Z
+?reset@Assembler@asmjit@@QAEX_N@Z
+?reset@PodVectorBase@asmjit@@QAEX_N@Z
+?reset@VMemMgr@asmjit@@QAEXXZ
+?reset@Zone@asmjit@@QAEX_N@Z
+?sdup@Zone@asmjit@@QAEPADPBD@Z
+?setArch@X86Assembler@asmjit@@QAEII@Z
+?setError@CodeGen@asmjit@@QAEIIPBD@Z
+?setErrorHandler@CodeGen@asmjit@@QAEIPAUErrorHandler@2@@Z
+?sformat@Zone@asmjit@@QAAPADPBDZZ
+?shrink@VMemMgr@asmjit@@QAEIPAXI@Z
+?x86RegData@asmjit@@3UX86RegData@1@B
+inject
+CoInitialize
+CoUninitialize
+CoCreateInstance
+ole32.dll
+DecodePointer
+CloseHandle
+RaiseException
+GetLastError
+InitializeCriticalSectionEx
+DeleteCriticalSection
+ResumeThread
+OpenProcess
+ReadProcessMemory
+GetModuleHandleA
+GetProcAddress
+MultiByteToWideChar
+CreateToolhelp32Snapshot
+Process32Next
+GetNativeSystemInfo
+EnterCriticalSection
+GetCurrentProcess
+GetModuleFileNameW
+LeaveCriticalSection
+InitializeCriticalSection
+GetFileAttributesW
+FormatMessageW
+LocalFree
+GetModuleHandleW
+WideCharToMultiByte
+LoadLibraryW
+FreeLibrary
+CreateActCtxW
+WriteFile
+GetTempPathW
+CreateFileW
+UnmapViewOfFile
+DeleteFileW
+GetTempFileNameW
+CreateFileMappingW
+ReleaseActCtx
+MapViewOfFile
+Thread32Next
+Thread32First
+GetCurrentThreadId
+GetCurrentProcessId
+WaitForSingleObject
+DuplicateHandle
+GetCurrentThread
+ResetEvent
+GetTickCount
+Wow64DisableWow64FsRedirection
+Wow64RevertWow64FsRedirection
+GetSystemTimeAsFileTime
+QueryPerformanceCounter
+VirtualFree
+VirtualAlloc
+TerminateProcess
+Process32NextW
+Process32FirstW
+CreateProcessW
+GetExitCodeProcess
+GetSystemInfo
+VirtualAllocEx
+VirtualFreeEx
+DeviceIoControl
+ReadFile
+CreateNamedPipeW
+TerminateThread
+CreateThread
+ConnectNamedPipe
+WriteProcessMemory
+VirtualProtectEx
+GetThreadContext
+CreateRemoteThread
+SetThreadContext
+IsWow64Process
+VirtualQueryEx
+ActivateActCtx
+GetEnvironmentVariableW
+GetSystemDirectoryW
+DeactivateActCtx
+GetSystemWow64DirectoryW
+Module32FirstW
+GetCurrentDirectoryW
+GetWindowsDirectoryW
+SuspendThread
+GetExitCodeThread
+GetThreadTimes
+OpenThread
+WaitForDebugEvent
+DebugActiveProcessStop
+ContinueDebugEvent
+Sleep
+DebugActiveProcess
+DebugSetProcessKillOnExit
+CheckRemoteDebuggerPresent
+GetProcessId
+KERNEL32.dll
+UnregisterClassA
+MessageBoxA
+UnregisterClassW
+wsprintfW
+USER32.dll
+RegCloseKey
+RegCreateKeyExA
+RegOpenKeyExA
+RegSetValueExA
+ConvertStringSecurityDescriptorToSecurityDescriptorW
+RegOpenKeyW
+RegCreateKeyW
+RegSetValueExW
+RegQueryValueExW
+OpenThreadToken
+RegOpenKeyExW
+OpenProcessToken
+AdjustTokenPrivileges
+LookupPrivilegeValueW
+RegEnumValueW
+ADVAPI32.dll
+OLEAUT32.dll
+SHDeleteKeyW
+SHLWAPI.dll
+FormatMessageA
+GetStringTypeW
+EncodePointer
+LCMapStringEx
+GetLocaleInfoEx
+CompareStringEx
+GetCPInfo
+IsDebuggerPresent
+OutputDebugStringW
+InitializeCriticalSectionAndSpinCount
+SetEvent
+WaitForSingleObjectEx
+CreateEventW
+IsProcessorFeaturePresent
+UnhandledExceptionFilter
+SetUnhandledExceptionFilter
+GetStartupInfoW
+InitializeSListHead
+RtlUnwind
+InterlockedPushEntrySList
+InterlockedFlushSList
+SetLastError
+TlsAlloc
+TlsGetValue
+TlsSetValue
+TlsFree
+LoadLibraryExW
+GetStdHandle
+GetFileType
+GetModuleHandleExW
+WriteConsoleW
+ExitProcess
+HeapFree
+HeapAlloc
+SetConsoleCtrlHandler
+HeapReAlloc
+GetDateFormatW
+GetTimeFormatW
+CompareStringW
+LCMapStringW
+GetLocaleInfoW
+IsValidLocale
+GetUserDefaultLCID
+EnumSystemLocalesW
+FlushFileBuffers
+GetConsoleCP
+GetConsoleMode
+GetFileSizeEx
+SetFilePointerEx
+ReadConsoleW
+GetTimeZoneInformation
+HeapSize
+FindClose
+FindFirstFileExW
+FindNextFileW
+IsValidCodePage
+GetACP
+GetOEMCP
+GetCommandLineA
+GetCommandLineW
+GetEnvironmentStringsW
+FreeEnvironmentStringsW
+SetEnvironmentVariableW
+GetProcessHeap
+HeapQueryInformation
+SetStdHandle
+                          
+abcdefghijklmnopqrstuvwxyz
+ABCDEFGHIJKLMNOPQRSTUVWXYZ
+                          
+abcdefghijklmnopqrstuvwxyz
+ABCDEFGHIJKLMNOPQRSTUVWXYZ
+8csm
+P0L;
+.?AVinvalid_argument@std@@
+.?AVlogic_error@std@@
+.?AVlength_error@std@@
+.?AVout_of_range@std@@
+.?AVoverflow_error@std@@
+.?AVbad_function_call@std@@
+.?AVregex_error@std@@
+.?AVbad_exception@std@@
+.?AVbad_alloc@std@@
+.?AVexception@std@@
+.?AVbad_array_new_length@std@@
+.?AVbad_optional_access@std@@
+.?AVfailure@ios_base@std@@
+.?AVruntime_error@std@@
+.?AVsystem_error@std@@
+.?AVbad_cast@std@@
+.?AV_System_error@std@@
+.?AV?$_Binder@U_Unforced@std@@A6A_N_KAAV?$vector@_KV?$allocator@_K@std@@@2@I@ZABU?$_Ph@$00@2@V?$reference_wrapper@V?$vector@_KV?$allocator@_K@std@@@std@@@2@AAI@std@@
+.?AV_Generic_error_category@std@@
+.?AV_System_error_category@std@@
+.?AV?$ctype@D@std@@
+.?AV?$num_put@DV?$ostreambuf_iterator@DU?$char_traits@D@std@@@std@@@std@@
+.?AV?$numpunct@D@std@@
+.?AV?$_Ref_count_obj2@VRegistryKey@Registry@@@std@@
+.?AV?$_Ref_count@VPEImage@pe@blackbone@@@std@@
+.?AV?$_Ref_count@VRegistryKey@Registry@@@std@@
+.?AV_Locimp@locale@std@@
+.?AV?$basic_ios@DU?$char_traits@D@std@@@std@@
+.?AV?$basic_streambuf@DU?$char_traits@D@std@@@std@@
+.?AV?$basic_ostream@DU?$char_traits@D@std@@@std@@
+.?AV?$basic_filebuf@DU?$char_traits@D@std@@@std@@
+.?AVcodecvt_base@std@@
+.?AV?$codecvt@DDU_Mbstatet@@@std@@
+.?AV?$num_get@DV?$istreambuf_iterator@DU?$char_traits@D@std@@@std@@@std@@
+.?AV?$codecvt@_WDU_Mbstatet@@@std@@
+.?AV?$codecvt@GDU_Mbstatet@@@std@@
+.?AV?$ctype@G@std@@
+.?AUmessages_base@std@@
+.?AUmoney_base@std@@
+.?AUtime_base@std@@
+.?AV?$num_get@_WV?$istreambuf_iterator@_WU?$char_traits@_W@std@@@std@@@std@@
+.?AV?$num_put@_WV?$ostreambuf_iterator@_WU?$char_traits@_W@std@@@std@@@std@@
+.?AV?$numpunct@_W@std@@
+.?AV?$collate@_W@std@@
+.?AV?$messages@_W@std@@
+.?AV?$money_get@_WV?$istreambuf_iterator@_WU?$char_traits@_W@std@@@std@@@std@@
+.?AV?$money_put@_WV?$ostreambuf_iterator@_WU?$char_traits@_W@std@@@std@@@std@@
+.?AV?$moneypunct@_W$0A@@std@@
+.?AV?$_Mpunct@_W@std@@
+.?AV?$moneypunct@_W$00@std@@
+.?AV?$time_get@_WV?$istreambuf_iterator@_WU?$char_traits@_W@std@@@std@@@std@@
+.?AV?$time_put@_WV?$ostreambuf_iterator@_WU?$char_traits@_W@std@@@std@@@std@@
+.?AV?$num_get@GV?$istreambuf_iterator@GU?$char_traits@G@std@@@std@@@std@@
+.?AV?$num_put@GV?$ostreambuf_iterator@GU?$char_traits@G@std@@@std@@@std@@
+.?AV?$numpunct@G@std@@
+.?AV?$collate@G@std@@
+.?AV?$messages@G@std@@
+.?AV?$money_get@GV?$istreambuf_iterator@GU?$char_traits@G@std@@@std@@@std@@
+.?AV?$money_put@GV?$ostreambuf_iterator@GU?$char_traits@G@std@@@std@@@std@@
+.?AV?$moneypunct@G$0A@@std@@
+.?AV?$_Mpunct@G@std@@
+.?AV?$moneypunct@G$00@std@@
+.?AV?$time_get@GV?$istreambuf_iterator@GU?$char_traits@G@std@@@std@@@std@@
+.?AV?$time_put@GV?$ostreambuf_iterator@GU?$char_traits@G@std@@@std@@@std@@
+.?AV?$collate@D@std@@
+.?AV?$messages@D@std@@
+.?AV?$money_get@DV?$istreambuf_iterator@DU?$char_traits@D@std@@@std@@@std@@
+.?AV?$money_put@DV?$ostreambuf_iterator@DU?$char_traits@D@std@@@std@@@std@@
+.?AV?$moneypunct@D$0A@@std@@
+.?AV?$_Mpunct@D@std@@
+.?AV?$moneypunct@D$00@std@@
+.?AV?$time_get@DV?$istreambuf_iterator@DU?$char_traits@D@std@@@std@@@std@@
+.?AV?$time_put@DV?$ostreambuf_iterator@DU?$char_traits@D@std@@@std@@@std@@
+.?AVtype_info@@
+.?AVDNameNode@@
+.?AVcharNode@@
+.?AVpcharNode@@
+.?AVpDNameNode@@
+.?AVDNameStatusNode@@
+.?AVpairNode@@
+.?AV?$_Ref_count@VMemBlockImpl@MemBlock@blackbone@@@std@@
+.?AV_Ref_count_base@std@@
+.?AV?$_Ref_count_obj2@$$CBUModuleData@blackbone@@@std@@
+.?AV?$_Ref_count_obj2@VThread@blackbone@@@std@@
+.?AV?$_Ref_count@UImageContext@blackbone@@@std@@
+.?AV?$_Ref_count@USectionInfo@blackbone@@@std@@
+.?AVNative@blackbone@@
+.?AVIAsmHelper@blackbone@@
+.?AVAsmHelper64@blackbone@@
+.?AVAsmHelper32@blackbone@@
+.?AUAssembler@asmjit@@
+.?AUCodeGen@asmjit@@
+.?AUStaticRuntime@asmjit@@
+.?AUJitRuntime@asmjit@@
+.?AURuntime@asmjit@@
+.?AUHostRuntime@asmjit@@
+.?AUX86Assembler@asmjit@@
+.?AVNativeWow64@blackbone@@
+.?AVx86Native@blackbone@@
+.?AV?$basic_stringbuf@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@
+.?AVios_base@std@@
+.?AVerror_category@std@@
+.?AV_Facet_base@std@@
+.?AU_Crt_new_delete@std@@
+.?AV?$_Iosb@H@std@@
+.?AV_Iostream_error_category2@std@@
+.?AV?$basic_iostream@_WU?$char_traits@_W@std@@@std@@
+.?AUctype_base@std@@
+.?AV?$basic_stringstream@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@
+.?AV?$basic_ostream@_WU?$char_traits@_W@std@@@std@@
+.?AVfacet@locale@std@@
+.?AV?$basic_ios@_WU?$char_traits@_W@std@@@std@@
+.?AV?$basic_istream@_WU?$char_traits@_W@std@@@std@@
+.?AV?$ctype@_W@std@@
+.?AV?$basic_streambuf@_WU?$char_traits@_W@std@@@std@@
+.?AV?$_Func_impl_no_alloc@V?$_Binder@U_Unforced@std@@A6A_N_KAAV?$vector@_KV?$allocator@_K@std@@@2@I@ZABU?$_Ph@$00@2@V?$reference_wrapper@V?$vector@_KV?$allocator@_K@std@@@std@@@2@AAI@std@@_N_K@std@@
+.?AV?$_Func_base@_N_K@std@@
+<?xml version='1.0' encoding='UTF-8' standalone='yes'?>
+<assembly xmlns='urn:schemas-microsoft-com:asm.v1' manifestVersion='1.0'>
+  <trustInfo xmlns="urn:schemas-microsoft-com:asm.v3">
+    <security>
+      <requestedPrivileges>
+        <requestedExecutionLevel level='asInvoker' uiAccess='false' />
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+</assembly>
+0*000=0C0e0k0u0
+1%1;1B1K1a1q1
+1.2:2@2E2v2
+3F3T3
+4$4S4]4
+4#5-5n5z5
+6)636=6I6S6_6k6u6
+;Q=Y?
+;;<\<
+'010S0a0w0
+021P1
+2!2+252?2I2\2d2k2u2
+233e3
+353T3k3
+4+4U4
+6$666Q6Y6i6y6
+7"7'747V7n7t7~7
+8)8&9
+;|;Y=
+=?>K>v>
+0F0Y0x0
+394{4
+5,555?5I5Z5
+;%;U;
+2,2f2
+585b5
+5&8S8
+:)=l>
+2"202>2h2w2
+3>3w3
+3=4M4~4
+4V6g6p6v6
+86:G:P:V:
+>"?I?P?
+7G8w8
+9|96;|=
+64<7
+2?2X2{2
+8&8+808V8[8
+8&9+909V9[9`9
+9,=L=Q=j=
+?%?-?A?T?a?t?
+769u9r:
+5l6&7V7
+=r>z>
+#0B0G0L0Q0
+6f6J7i7n7s7x7f9&;
+%1B1
+3+5E5Z5h5v5
+9@9E9
+9E:g:l:
+;D;O;'<I<N<f<k<p<
+<#=.=
+>0>5>:>W>\>
+050:0U0Z0_0|0
+01161
+2/242l2w2
+42474U4Z4_4v4{4
+5Q5Y5n5
+6H6M6R6
+70757:7Q7V7t7y7~7
+8#8(8F8K8P8z8
+9"999>9\9a9f9
+:/:4:R:W:\:s:x:
+:";';_;j;
+;_<~<
+<6<Q<#>C>H>a>
+9L<:=U=
+748O8{8
+7L:J;e;
+F263
+010P0
+1&12171=1D1I1N1&3Z3
+8=8t8
+9]9V?
+!080A2
+4!525
+798T8
+<C?H?M?R?c?h?m?r?
+0&0+000q0{0
+1r1w1
+2G3f3k3
+6*82809@:
+<\<t<y<~<
+=!>,>1>6>;>L>
+?$?)?.?
+0.03080=0S0Y0^0
+1D2R2`2e2l2s2z2
+3"3)303V3
+3/4y5
+;/<T<u<
+1 3(4B4P4
+595G5Y5
+C3c3u3
+0I1j1
+467[7d768
+6r7<8
+?1]1
+<.=V>
+;V>*?
+1S1j1o1t1
+4/5=5
+8+8(9
+8d8i8
+:/;<;J;];d;u;
+<I=g=
+>!>2>D>[>q>{>
+0R0e0
+232f2
+2 3E3
+4S4t4
+515<5r5x5
+<n>|>
+?$?6?D?X?^?h?r?
+l0v2
+3\4z4
+5N5n5
+6+6X66:
+2"9B9Y9
+;#;S;
+<#<S<|<
+265F6f8
+"3B3S3
+4#4R4r4
+l0V2
+9\:_;
+;#;3;N;d;
+=?=%?]?
+5S6r6
+6,8:8f8n8t8|8
+:C;Q;};
+<^={=
+>M>8?o?
+2#21292C2}2
+4\5y5
+>;?Y?d?
+40P0p0Q1
+2^3|3
+4V4r4
+6u6/8
+999U9c9
+:(:k:
+<)<n<
+</=M=n=v=
+=I>l>S?p?{?
+0Y0&1c2
+424I4f8":B:S:s:
+;";-;_;d;
+;&<+<0<^<c<
+<:=r=
+2?3|3
+5p6\8
+9 :*:<:
+;3;m;
+?0)1
+1&2+2o3
+4$5)5T6Z6g6
+7<7A7F7K7`7e7j7
+8'9,929b9g9l9
+:5:::J:k:p:
+V0\3
+;g>{>
+>R?w?
+0E0a0~0
+152S2^2{2
+3N3j3t3}3
+464n4
+536O6X6u6
+6B7b7
+8/888U8
+8"9B9_9
+;.<o<{<
+=&=1=U=
+?Z?c?
+0f1s3
+4C4s4
+525R5c5
+656c6
+737c7
+:2:R:c:
+;3;E;
+=M=V=F>
+>2?7?=?G?N?W?^?o?
+0-0<0J0Y0g0v0
+1&1L1j1
+1d2q2
+3$323?3U3k3~3
+5)686B6`6m6
+6)7B7H7O7
+798Q8]8
+9=:T:
+4%5[5
+;M?z?
+: ;%;*;I;N;
+;@<E<J<
+="=2=H=h=
+>K>P>U>
+>E?J?P?
+0L0Q0V0[0
+041G1L1Q1V1l1q1v1
+1&2+20252D2_2t2y2~2
+3#3^3r3w3}3
+4 4%4+4\4u4
+4I5T5e5
+6"6?6G6X6q6v6
+7$7)70777>7E7L7S7Z7l7z7
+8"848B8P8U8\8c8j8q8x8
+9L9^9c9h9m9
+:":):0:7:>:E:W:e:s:x:
+; ;%;7;
+<%<,<3<:<^<g<{<
+=#=1=6===D=K=R=Y=`=g=y=
+>$>)><>R>_>d>w>
+?%?*?1?8???F?M?T?[?
+11191I1Y1g1z1
+2$2.282N2[2e2o2|2
+2R3g3
+3P6`6
+7>8a8l8
+8=9E9`9
+?H?V?
+4f5~5
+6	7l869Q9X9^9h9~9
+<y<~<Y=
+738S8e8
+9i9|9
+:G;X;
+2l3t3
+6X7"8'828L8Z8`8e8k8
+3&4D4g4
+6"6@6X6^6
+6!7/7F7L7V7`7v7|7
+828N8y8
+9P>`>
+9B;!<
+8&:v>
+31S1}1
+5u5j697
+3&7F:
+#0C0U0
+P2U2b2
+3(383b3
+484=4B4G4v4
+7#7V7k7p7u7z7
+8"8'83888=8y8~8
+9*9/949j9o9t9
+:/:4:9:>:s:
+;D;`;s;x;};
+;8<=<I<W<g<s<
+=#=*=<=J=X=]=d=k=r=
+0>0L0V0[0b0i0p0
+1)171<1C1J1Q1{1
+2+262K2P2a2t2
+;"=6=G=,>J>
+?H?O?l?
+,0>0F0X0`0r0
+0 161G1]1
+5k5v6
+7&7M7S7`7
+7@8E8
+>[>i>u>z>
+>I?h?
+)0b0
+1Q1n1
+2.3<3W3
+:<;Z;y;
+<&<2<7<=<D<I<N<
+=3=E=t=
+5=5=6V7[7`7
+5,5J5
+;1;L<
+<.=X=b=
+>R>|>
+1&2H2
+2H3f3
+5r6|6
+6*676E6X6_6p6
+707C7f7
+7	8!8B8I8u8
+8%9E9O9o9
+:B:b:
+<?<o<
+<P=p=
+=J>~>
+4!4x4
+5P6o6&7
+7H8s8
+:f=6>
+697|7
+8:8y8
+:-:z:
+<j>{>
+0M0u1
+4)454A4M4Y4e4q4
+5&525>5
+4`5z5}7
+;$;9;C;N;
+3p4t4x4|4
+5 5$5(5,5054585<5@5D5H5L5P5T5X5\5`5d5h5l5p5t5x5|5
+6 6$6(6,6064686<6@6
+;$<6<o<y<
+3+4>4
+7 7$7(7,7074787<7@7D7H7L7P7T7X7\7`7d7h7l7p7t7x7|7
+8 8$8(8,8084888<8@8D8H8L8P8T8X8\8`8d8h8l8p8t8x8|8
+9*:L:`:
+:9;P;0<
+=6=t=
+6"6>6[6i6q6
+717<7I7O7
+8/8:8H8P8
+9(909g9|9
+:C:X:f:n:t:
+:,;i;
+<6=u=
+>_>j>x>
+?A?L?^?f?
+0"0,01070j0
+1%1.181=1C1z1
+2/252>2H2M2S2
+3-333<3F3K3Q3v3
+595W5
+6%616
+7=8F8v8
+8^9|9
+9/:=:I:O:a:g:p:z:
+;G;m;
+;#<S<s<
+<7=g=
+>%>b>
+?*?B?V?
+2/3M3s3
+5=5C5[5
+546Y6z6
+:#;[;
+;R<{<
+<#=9=a=|=
+0=1R1
+1L2r2
+3I4S5i5
+<#=6=M=l=
+?O?z?
+494l4
+888=8t8
+909K9f9
+92:K:l:~:
+:*;H;c;
+0\1y1
+2&2@2
+3%3o3
+4%4@4o4
+9`9F:
+1T2V3
+7	8"9@9
+<1<7<M<T<Z<_<m<
+2C3>5j577
+0|1A2U2_2h2
+3(3A3U3_3h3
+3&4-495Q5[5w5|5
+8;8_8
+:":(:.:4:X:
+<=<b<
+=+=[=j=
+>%>H>W>t>
+?5?D?Z?
+090H0e0
+0$1G1V1s1
+2E2h2w2
+3E3i3o3
+474Z4i4
+7#717>7V7
+7@8Y8#9f:&<
+5 5-535A5I5S5
+$0/090?0E0L0T0Z0c0i0
+0Z1c1s1y1
+1*232C2I2[2a2h2x2
+3#3)3;3A3H3X3`3
+4(404
+687A7Q7W7i7o7v7
+2<3F3C4J4
+5&6-6O6
+6D7N7
+=!>f>x>
+060G0j0o0
+0'1H1
+3+3Q3V3o3v3|3
+8?8X8v8
+<%=F=S=
+=)>.>K>R>X>]>k>
+10:0?0_0
+0,1[1y1
+2F2X2
+2t3V4k4p4
+5/6j6
+6K7v7
+74898
+9f:x:
+;%;*;=;L;S;X;o;
+<l=s=x=
+>">4>9>A>
+?5?J?
+&080
+1P1V1
+1n2U3z7
+7X9]9e9
+:*:/:7:b:g:o:
+;7<A<
+V1e1V6h6
+<W=_=f>u>
+'0>0
+0g1F2U2v5
+5-676<6\6~6
+8&8+808B8I8_8
+<'<S?
+/0<0G0O0
+041>1
+1E2P2Y2
+2-3C3m4
+020D0W2\2d2
+3<3X3
+3N4a4g4m4s4y4
+5!5'5-53595?5E5K5Q5W5]5c5i5o5u5{5
+6#6)6/656;6A6G6M6S6Y6_6e6k6q6w6}6
+7!7)797c7
+8@8d8{8
+9<9[9v9
+9":@:P:a:r:
+;C;p;
+<"<&<*<.<2<6<:<><B<F<J<N<a<~<
+=>=M=t=
+>T>s>
+?6?I?^?n?
+Q0b0i0q0
+011K1
+1+23292H2W2
+477L7Q7
+8-8@8\8
+9L9Q9W9m9s9
+:*:A:g:
+;d;q;
+<1<O<s<
+<:={=
+8A9\9
+$020
+7a7k7
+"1a1
+<T=s=
+?"?H?c?
+0(0]0
+<8=P=n=
+>	?)?G?h?
++080M0U0[0i0q0
+;3=c==>Z>
+8!9+9H9]9b9
+9K:U:r:
+;!;u;
+<1<F<K<
+<4=>=[=p=u=
+>^>h>
+?/?4?
+0'0D0Y0^0
+0G1Q1n1
+2q2{2
+3-3B3G3
+304:4W4l4q4
+5Z5d5
+6+606
+7#7@7c7|7
+8"9.9z9
+:3:T:m:
+;C;j;
+<2<H<e<{<
+<"=;=T=d=o=z=
+> >:>B>I>P>W>^>e>o>z>
+?%?0?>?J?X?d?x?
+`4o4
+6:6I6h6w6
+7<7_7~7
+3 4a4
+415X5
+6(6i6
+7g7v7
+9K9r9
+<9=D=
+=->2>=>
+4&5+565
+6~8K9
+3h3m3x3]5
+:*;~;
+=K=R=]=&?
+0!1(131
+)0x0
+5I6.8
+=%?O?g?
+6y8f9%;@;l;
+<<=a=
+>9>G>a>
+0V0q0
+151I1|1
+2-2m2
+3#373j3x3
+4"4A4l4
+596@6j6x658
+9L:r>
+0b5p5
+7J7c7
+;";:;R;
+<F= >
+1_2Z3
+4>5	6
+3.4#5
+5Q6M7
+<4=9=A=
+>H>Y>
+142R2
+3p3\4
+:B;2<I<
+>(?>?
+D0Z0}1
+6;6Y6q6
+7	8-8Q8d9
+;:;^;
+=1=z=
+>5>V>z>
+0P1Z1w1
+2!2&2z2
+363K3P3
+394C4`4u4z4
+5c5m5
+6)6B6f6
+7(747<7C7J7T7_7j7u7
+738B8
+9)9H9W9
+98:y:
+;I;p;
+;G<V<y<
+<+=Y=
+=7=t=
+>$>8>m>{>
+?#?@?h?
+0P0W0
+262X2
+2N7l7
+6.7G7O7A8
+:7:[:
+:$<C<j<
+636B6K6Q6W6
+8<8m8|8
+9>9R9_9":8:#;
+<K<q<
+>M>^>
+>	?*?/?H?M?Z?
+2'2-22282C2I2T2[2`2i2w2|2
+3 31383`3h3u3~3
+4!4Y4
+7E7J7`7e7
+8:8J8O8]8g8r8
+;6;?;H;V;_;
+<;=A=
+>$>/>6>I>W>]>c>i>o>u>|>
+?"?+?O?]?c?i?o?u?{?
+0,02080>0D0J0Q0X0_0f0m0t0{0
+1:1I1R1_1u1
+2 24292L2
+>[>`>d>h>l>
+151C1
+2(3/34383<3@3
+8"8&8*8.82868:8>8B8F8J8N8R8V8Z8^8b8f8j8n8r8v8z8
+B6F6J6N6R6V6Z6^6b6f6j6n6r6v6z6~6
+8G8O8a8n8
+8S9Y9
+9X:]:
+:%;C;w;
+<B<V<r<}<
+=R=a=A>
+6 6>6
+=,=Q=X=a=o=v=|=
+B0M0
+1#1O1d1
+2D2{2
+2J3S3
+566@6M6
+;$;/;6;N;T;
+<==I=
+1/1M1V1a1
+3A455u5
+758x8
+959C9R9c9q9|9
+:::Z:`:
+;9;_;d;w;
+<#<q<
+?N?t?
+0$040=0_0y0
+2%2M2c2
+3D3b3
+4#4d4h4l4p4t4x4|4
+4R5c5i5y5
+7F8L8
+9 9'9
+:3;m;
+=8>C>H>`>p>
+?5?D?V?x?
+060<0
+0$1H1
+1#262k2|2
+303m3v3
+464?4`4
+5K6y6
+6	787X7l7
+8*949M9R9x9
+=g=y=
+>/>@>
+?>?]?
+K0y0
+0@1L1
+1G2R2
+4$4/4B4M4j4u4
+5 5<5@5D5H5L5P5T5p5t5x5|5
+8<8Q8k8}8
+9O9i9x9
+:I:P:X:m;
+<$<G<
+=\=n=
+?^?p?
+0$1b1
+2"3-383F3R3m3
+4'4P4u4
+4C5X5n5
+616T6s6
+7?7j7u7
+7L8Q8
+8+929
+:*:=:h:
+:	;9;=;A;E;I;M;Q;l;v;
+<1=h=
+=4>K>
+>Z?t?
+0H0S0m0
+0C1w1
+2#2L2y2
+3J3[3l3
+3+474d4
+5$575_5j5
+686L6_6w6
+6H7Q7j7z7
+9g9r9|9
+;];h;s;x;};
+;%<*</<?<D<I<Y<^<c<s<x<}<
+=8=K=s=
+>;>J>O>T>o>|>
+?#?-?9?>?C?d?t?
+0<1c1s1
+333:3B3
+4*464D4
+u4}4
+7]8Q9N:(;
+?!?8?L?^?u?
+020H0]0t0
+1 171M1b1y1
+8$8*8
+2#2'2+2/232
+2G3K3O3S3W3[3_3c3
+3[4_4c4g4k4o4s4w4
+9/:3:7:;:?:C:G:K:
+:K;O;S;W;[;_;c;g;
+2v4Q9W9]9c9i9o9u9{9
+$0~0
+a3z3
+3P4i4
+4?5X5
+5!6>6
+8$8z8
+="=(=.=4=:=@=F=L=
+=C>$?o?
+	0X0q0
+2	3 3
+4/5S5\5
+7W7n7
+7b8y8
+>!>3>H>
+?!?'?-?3?9???E?
+9&9S9Z9e9s9z9
+;^=p=
+1 151Z1o1
+2!262U2j2
+8A9q9
+;2;U;j;
+33484?4e4
+5#6D6
+:m;R=
+<>D>u>}>
+>X?a?
+2U2^2
+3K4O4S4W4[4_4c4g4k4o4
+4o5s5w5{5
+8::B:y:
+0#6$8,8c8j8
+;`=h=
+4;4B4L7
+969=9
+>E>L>
+8#9A9b9t9
+	2+3S4c6
+(0N0t0
+2L2v2
+>R?]?s?
+0'020h0
+0<2R2l2t2
+3	4!4&42474K4
+4J5Q5c5u5
+6#6H6
+6C7Q7Z7
+8t8~8
+9=9H9
+=R>a>h>v>|>
+?"?<?i?p?
+4)4J4e4
+6<7R7h7{7
+;K;O;W;c;
+<#<.<A<
+2)3Z3
+6(7k7;8U8
+9$969I9c9
+:$:E:n:
+;.;>;K;t;{;
+<#<-<O<`<j<p<u<
+<U=2>9>
+i0s0
+='=-=
+>E?^?c?l?
+3(434=4L4T4\4
+5L6m6
+7:8}8
+0#0~0
+1-2r2
+637;7
+>%>Y>|>
+>B?H?
+246_7p7
+:9:P:[:k:
+:J;\;n;
+;.<[<i<s<
+=2=U=c=
+=.=9=
+>5>G>M>V>\>
+0:1C1[1
+3#3-3=3^3E4
+6H6O6U6\6a6
+7=7J7R7f7
+8-82878G8L8Q8a8f8k8{8
+9!91969;9K9P9U9e9j9o9
+: :%:5:::?:O:T:Y:i:n:s:
+;$;);9;>;C;h;
+;&</<g<
+=#=-=9=O=k=
+>'>@>E>J>g>
+?P?U?Z?u?
+050D0r0
+1#1>1M1x1
+2#2D2T2u2
+3(3L3
+4!44494>4V4e4j4o4
+4R5W5\5t5
+666Z6
+7J9R9
+1E3f3m3
+3<4o4F5
+8'9<9M9
+:,:x:
+;,;R;j;
+=->`>
+>%?V?u?
+A0g0
+0*1P1w1
+6&808
+?,?v?
+4"515
+5"666Y6
+8;9|9
+9 :=:
+:	;&;g;
+<\=s=
+>?>`>t>
+1'212[2
+6,757@7{7
+9Y9e9}9
+:/;7;
+;?<l<
+>M?a?y?
+1H1P1]1m2
+343H3S3
+3)4l4
+666F6Z6c6
+8-858E8V8
+;<<H<R<\<`<f<l<r<x<
+>'>3>@>G>P>Y>i>z>
+d0m0
+131:1G1[1`1f1
+4!4(4.4=4H4N4X4i4p4
+4)545A5J5_5
+6/6[6
+:&:P:i:
+<q='>m>
+99;L;`=A>`>
+?$?.?;?E?U?
+	010!2N2
+2<3E3I3O3S3Y3]3g3z3
+3*4T4
+5B5i5
+5l9q9w9|9
+:0:N:a:
+:&;7;w;
+< <,<=<K<V<
+>%>b>p>|>
+5#5+5C5\5
+696?6_6
+7F8p8
+9?9S9v9
+=+?e?v?
+999@9[<P=X=
+=?=F=
+a0V1^1
+:#:5:G:
+:l=W>i>{>
+9o9O<!=[=l=}=
+>;?p?
+1n2w2
+6=7f7{7
+8'919
+9%:D:b;|;
+<-<4<K<a<
+=/=9=R=
+>)>d>k>
+?,?6?
+071>1
+3$4M4
+4"555-6`6
+7]9x:
+:K;K<u<
+=%=P=k=
+>@>s>x>
+:8;w;*=W>
+4"4j4
+5%5.5
+9.9<9M9e9k9w9
+:207d9
+=A>M>a>m>y>
+?/???K?Z?
+2"2(2.242:2@2F2L2R2X2^2d2j2p2v2|2
+3v3{3
+=.>B>
+>!?2?|?
+0I0b0
+191P1X1r1
+202P2p2
+3*3^3s3
+4 434^4s4
+5#535P5c5s5
+6#636C6S6c6s6
+6(7X7
+7 8@8`8
+8&9k9
+:.:C:S:~:
+;0;C;S;c;s;
+<#<3<C<`<
+?3?P?c?s?
+>0g0
+141l1
+232C2n2
+3(3C3h3
+4#4@4`4
+535S5c5s5
+6'6R6o6
+6!797b7
+7'8[8
+909P9p9
+9B:`:
+;#;@;`;
+=I=p=
+>A>j>
+0.0P0~0
+101X1
+1-2t2
+3 3@3
+4#4H4
+5@5S5c5
+6 6@6S6c6s6
+607P7x7
+8#8H8p8
+9#9H9x9
+;>;S;~;
+< <@<`<
+<!=Q=
+?8?c?
+1!1J1~1F2x2
+3.3X3s3
+484S4p4
+595b5
+6+6c6y6
+7B7k7
+7	828T8
+909k9
+:4:P:p:
+;0;X;
+<0<P<p<
+< =Q=p=
+>1>C>`>
+>+?P?p?
+#0H0p0
+101P1p1
+1&2~2
+2N3x3
+4.4C4S4c4
+505P5
+5!6@6q6
+6 737
+808C8S8c8
+939C9S9c9s9
+:#:3:C:q:
+;#;3;C;S;c;s;
+<#<C<n<
+=0=X=
+>0>C>S>c>
+0>0h0
+0+1c1
+2A2q2
+8;8{8
+8!9Q9
+;@;u;
+<><[<x<
+<-=a=
+>@>o>
+&0X0
+0+1_1
+2^2{2
+2/3k3
+434e4
+4-5_5
+5'6Y6
+6!7S7
+8M8w8
+929\9
+9&:r:
+:";t;
+<0<_<
+=,>[>
+>	?Y?
+1.2m2v3
+5;5e5
+8$8X8
+8(9\9
+<6<`<
+=2=\=
+>$?X?
+70r0
+0/1a1
+1)2S2}2
+2-3\3
+3D4s4
+6 7J7t7
+8@8t8
+8#9F9\9t9}9
+:1:>:I:]:f:l:v:
+;&;5;G;W;];g;
+<)<=<F<L<V<`<f<o<
+=(=2=Q=a=s=
+=3>s>
+3 3$3(3,3034383<3@3D3H3L3X3\3`3d3h3|3
+30585@5H5P5X5h5x5
+6 6$6(6,6064686<6X6\6`6d6h6l6p6
+6$8(8,8|;
+<0<4<8<<<@<
+d0h0l0
+0l9t9|9
+:$:,:4:<:D:L:T:\:d:l:t:|:
+;$;,;4;<;D;L;T;\;d;l;t;|;
+2$2(2,2024282<2@2D2H2L2P2T2X2\2`2d2h2l2p2t2x2|2
+3034383<3@3D3H3L3P3T3X3\3`3d3h3p6t6x6|6
+7 7$7(7,7074787<7@7D7H7L7P7T7X7\7`7d7h7l7p7t7x7|7
+8 8$8(8,8084888<8@8D8H8L8P8T8X8\8`8d8h8l8p8t8x8|8
+9 9$9(9,9094989<9@9D9H9L9P9T9X9\9`9d9h9l9p9t9x9|9
+: :$:(:,:0:4:8:<:@:D:H:L:P:T:X:\:`:d:h:l:p:t:x:|:
+;(=,=0=4=8=<=@=D=H=L=P=T=X=\=`=d=h=l=p=t=x=|=
+> >$>(>,>0>4>8><>@>D>H>L>P>T>X>\>`>d>h>
+(3,3
+4 4(40484@4H4P4X4`4h4p4x4
+5 5(50585@5H5P5X5`5h5p5x5
+6 6(60686@6H6P6X6`6h6p6x6
+7 7(70787@7H7P7X7
+2 3,383D3P3T3X3
+0$0,04080<0@0D0H0L0P0T0X0\0`0d0h0l0p0t0x0|0
+0P1X1\1`1d1h1l1p1t1x1|1
+1@2D2H2L2P2T2X2\2`2d2h2l2p2t2x2|2
+3 3$3(3,3034383<3@3D3H3L3P3T3X3\3`3d3h3l3p3t3x3|3
+7$7,747<7D7L7T7\7d7l7t7|7
+7(9,9094989<9@9D9H9L9P9T9X9\9`9d9h9l9p9t9
+2"2&2
+4 4,484D4P4\4h4t4
+5(545@5L5X5d5p5|5
+6$606<6H6T6`6l6x6
+7$707<7H7T7`7l7x7
+3$3,343<3D3L3T3\3d3l3t3|3
+4$4,444<4D4L4T4\4d4l4t4|4
+5$5,545<5D5L5T5\5d5l5t5|5
+6$6,646<6D6L6T6\6d6l6t6|6
+7$7,747<7D7L7T7\7d7l7t7|7
+8$8,848<8D8L8T8\8d8l8t8|8
+9$9,949<9D9L9T9\9d9l9t9|9
+4 4(40484@4H4P4X4`4h4p4x4
+5 5(50585@5H5P5X5`5h5p5x5
+6 6(60686@6H6P6X6`6h6p6x6
+7 7(70787@7H7P7X7`7h7p7x7
+8 8(80888@8H8P8X8`8h8p8x8
+9 9(90989@9H9P9X9`9h9p9x9
+: :(:0:8:@:H:P:X:`:h:p:x:
+; ;(;
+t6x6|6
+7 7$7(7,7074787<7@7D7H7L7P7T7X7\7`7d7h7l7p7t7x7|7
+8 8$8(8,8084888<8@8D8H8L8P8T8X8\8`8d8h8l8p8t8x8|8
+9 9$9(9,9094989<9@9D9H9L9P9T9X9\9`9d9h9l9p9t9x9|9
+5 5$5(5,5054585<5@5D5H5L5P5T5X5\5`5d5h5l5p5t5x5|5
+6 6$6(6,6064686<6@6D6H6L6P6T6X6\6`6d6h6l6p6t6x6|6
+7 7$7(7,7074787<7@7D7H7L7P7T7X7\7`7d7h7l7p7t7x7|7
+1 1$1(1,1014181<1@1D1H1L1P1T1X1\1`1d1h1l1p1t1x1|1
+2 2$2(2,2024282<2@2D2H2L2P2T2X2\2`2d2h2l2p2t2x2|2
+3 3$3(3,3034383<3@3D3H3L3P3T3X3\3`3d3h3l3p3t3x3|3
+? ?$?(?,?0?4?8?<?@?D?H?L?P?T?X?\?`?d?h?l?p?t?x?|?
+0 0$0(0,0004080<0@0D0H0L0P0T0X0\0`0d0h0l0p0t0x0|0
+1 1$1(1,1014181<1@1D1H1L1P1T1X1\1`1d1h1l1p1t1x1|1
+2 2$2(2,2024282<2@2D2H2L2P2T2X2\2`2d2h2l2p2t2x2|2
+3 3$3(3,3034383<3@3D3H3L3P3T3X3\3`3d3h3l3p3t3x3|3
+4 4$4(4,4044484<4@4D4H4L4P4T4X4\4`4d4h4l4p4t4x4|4
+l5p5t5x5|5
+6 6$6(6,6064686<6@6D6H6L6P6T6X6\6`6d6h6l6p6t6x6|6
+7 7$7(7,7074787<7@7D7H7L7P7T7X7\7`7d7h7l7p7t7x7|7
+8 8$8(8,8084888<8@8D8H8L8P8T8X8\8`8d8h8l8p8t8x8
+= =$=(=,=0=4=8=<=@=D=H=L=P=T=X=\=`=d=h=l=p=t=x=|=
+> >$>(>,>0>4>8><>@>D>H>L>P>T>X>\>`>d>h>l>p>t>x>|>
+? ?$?(?,?0?4?8?<?@?D?H?L?P?T?X?\?`?d?h?l?p?t?x?|?
+1 1$1(1,1014181<1@1D1H1L1P1T1X1\1`1d1h1l1p1t1x1|1
+2 2$2(2,2024282<2@2D2H2L2P2T2X2\2`2d2h2l2p2t2x2|2
+3 3$3(3,3034383<3@3D3H3L3P3T3X3\3`3d3h3l3p3t3x3|3
+h4l4p4t4x4|4
+5 5$5(5,5054585<5@5D5H5L5P5T5X5\5`5d5h5l5p5t5x5|5
+6 6$6(6,6064686<6@6D6H6L6P6T6X6\6`6d6h6l6p6t6x6|6
+7 7$7(7,7074787<7@7D7H7L7P7T7X7\7`7d7h7l7p7t7x7|7
+8 8$8(8,8084888<8@8D8H8L8P8T8X8\8`8d8h8l8p8t8x8|8
+9 9$9(9,9094989<9@9D9H9L9P9T9X9\9`9d9h9l9p9t9x9|9
+: :$:(:,:0:4:8:<:@:D:H:L:P:T:X:\:`:d:h:l:p:t:x:|:
+`:d:h:l:p:t:x:|:
+; ;$;(;,;0;4;8;<;@;D;H;L;P;T;X;\;`;d;h;l;p;t;x;|;
+< <$<(<,<0<4<8<<<@<D<H<L<P<T<X<\<`<d<h<l<p<t<x<|<
+= =$=(=,=0=4=8=<=@=D=H=L=P=T=X=\=`=d=h=l=
+> >$>(>,>0>4>8><>@>D>H>L>P>T>X>\>`>d>h>l>p>t>x>|>
+? ?$?(?,?0?4?8?<?@?D?H?L?P?T?X?\?`?d?h?l?p?t?x?|?
+0 0$0(0,0004080<0@0D0H0L0P0T0X0\0`0d0h0l0p0t0x0|0
+1 1$1(1,1014181<1@1D1H1L1P1T1X1\1`1d1h1l1p1t1x1|1
+2 2$2(2,2024282<2@2D2H2L2P2T2X2\2`2d2h2l2p2t2x2|2
+3 3$3(3,3034383<3@3D3H3L3P3T3X3\3`3d3h3l3p3t3x3|3
+X2\2`2d2h2l2p2t2x2|2
+3 3$3(3,3034383<3@3D3H3L3P3T3X3\3`3d3h3l3p3t3x3|3
+4 4$4(4,4044484<4@4D4H4L4P4T4X4\4`4d4h4l4p4t4x4|4
+5 5$5(5,5054585<5@5D5H5L5P5T5X5\5`5d5
+h4l4p4t4x4|4
+5 5$5(5,5054585<5@5D5H5L5P5T5X5\5`5d5h5l5p5t5x5|5
+6 6$6(6,6064686<6@6D6H6L6P6T6X6\6`6d6h6l6p6t6x6|6
+7 7$7(7,7074787<7@7D7H7L7P7T7X7\7`7d7h7l7p7t7
+> >$>(>,>0>4>8><>@>D>H>L>P>T>X>\>`>d>h>l>p>t>x>|>
+? ?$?(?,?0?4?8?<?@?D?H?L?P?T?X?\?`?d?h?l?p?t?x?|?
+0 0$0(0,0004080<0@0D0H0L0P0T0X0\0`0d0h0l0p0t0x0|0
+< <$<(<,<0<4<8<<<@<D<H<L<P<T<X<\<`<d<h<l<p<t<x<|<
+= =$=(=,=0=4=8=<=@=D=H=L=P=T=X=\=`=d=h=l=p=t=x=|=
+> >$>(>,>0>4>8><>@>D>H>L>P>T>X>\>`>d>h>l>p>t>x>|>
+? ?h?l?p?t?x?
+:4:8:<:@:D:H:L:P:T:X:\:`:d:h:l:t:x:|:
+; ;$;(;,;l?p?t?x?|?
+0 0$0(0,0004080<0@0D0H0L0P0T0X0
+1 1$1(1,1014181<1@1D1H1L1P1T1X1\1`1d1h1l1p1t1x1
+282<2X2\2l2p2t2x2|2
+3,50585
+6(686<6L6P6T6X6`6x6
+7 7$74787<7@7D7H7P7h7x7|7
+8 8$84888<8D8\8l8p8
+9 9(9@9P9T9d9h9l9p9x9
+:0:@:D:T:X:\:`:h:
+;$;4;8;H;L;T;l;p;
+<(<8<<<L<P<T<X<\<d<|<
+=(=8=<=L=P=T=X=\=`=h=
+>0>@>D>T>X>\>`>d>l>
+?,?<?@?P?T?X?\?`?h?
+0(080<0L0P0T0X0\0d0|0
+1(181<1L1P1T1X1\1d1|1
+2,202@2D2H2L2P2T2X2`2x2
+3$34383H3L3\3`3d3h3l3t3
+444D4H4X4\4`4d4h4p4
+545D5H5X5\5`5d5h5p5
+6 6$686<6L6P6T6X6\6`6d6l6
+707@7D7T7X7h7l7p7t7x7
+8 8$8,8D8T8X8h8l8p8t8x8
+9 9$9(9,90949H9L9\9`9d9h9l9p9t9|9
+: :(:@:P:T:d:h:x:|:
+;0;@;D;T;X;\;d;|;
+<$<(<8<<<@<H<`<p<t<
+=$=(=<=@=D=H=L=T=X=`=x=|=
+>,><>@>P>`>d>|>
+?4?8?<?D?\?l?p?t?x?
+0 0(0,040L0P0h0l0p0x0
+1 1014181P1`1d1h1
+2 20242L2P2T2X2`2d2x2|2
+343D3H3L3P3d3t3x3|3
+4(4,4044484<4D4H4L4P4d4t4x4
+545D5H5X5\5`5x5
+6(6,6<6@6D6\6l6p6t6|6
+7$7(7@7D7H7P7h7l7
+808@8P8`8d8t8x8|8
+909@9D9\9`9d9l9
+:$:4:8:H:L:P:T:X:`:x:|:
+4;T;h;
+<$<8<X<d<
+=,=8=X=`=h=t=
+> >,>L>X>x>
+?4?<?L?X?x?
+080D0d0p0
+1L1l1x1
+2$202P2X2`2p2
+3$3,343<3L3T3\3d3x3
+3@5`5h5p5|5
+6 6@6P6\6|6
+7 707<7\7d7l7x7
+8$808T8\8d8l8t8|8
+9$9,949<9D9L9X9x9
+:<:P:
+;,;@;`;l;
+< <,<\<p<
+=,=L=`=
+>4>D>T>h>
+?$?D?X?x?
+ 040T0h0
+141D1T1h1
+2 2D2L2T2\2d2l2t2|2
+343<3D3L3T3\3d3l3t3|3
+40484D4d4p4
+5(5L5T5\5d5l5t5|5
+6 6,6L6T6\6h6
+7(7<7\7d7l7t7|7
+8$8,848<8D8L8T8\8d8l8t8|8
+8L9l9t9
+:4:<:H:h:p:|:
+;0;@;L;l;t;
+<<<D<P<x<
+=0=<=\=h=
+>(>H>T>t>
+?(?0?8?D?d?l?t?
+0@0d0l0t0|0
+1$1D1P1t1|1
+2<2H2h2p2|2
+3 3,3L3X3`3
+404<4\4h4
+5,545<5D5L5T5\5d5l5t5|5
+60686D6d6p6
+7$7,747<7L7T7\7d7l7t7
+8 8(80888@8H8T8t8|8
+9$9,949<9D9L9T9\9d9l9t9|9
+:$:,:4:<:D:L:T:\:h:
+;<;\;d;p;
+<$<,<8<X<d<
+= =0=T=\=d=l=t=|=
+>$>,>4><>D>L>X>x>
+?<?D?L?T?\?d?l?t?|?
+0 0@0H0T0t0|0
+1(141T1\1h1
+2 2(2\2l2x2
+3(3H3T3t3
+4$4X4x4
+585X5l5
+6$686X6`6h6p6x6
+7,747<7D7P7p7x7
+8<8D8P8p8|8
+9$9,949D9L9T9d9l9
+:<:D:L:T:`:
+;$;,;4;<;D;L;T;\;d;l;t;|;
+<4<@<`<h<t<
+=8=@=L=l=t=
+><>D>L>T>`>
+?$?0?P?`?
+0$0,040D0L0\0d0p0
+1 1D1L1T1\1d1l1|1
+2(20282H2l2t2|2
+3$3,343<3D3L3T3\3d3l3t3|3
+4$4,444@4`4x4
+5$5D5X5x5
+6$6,646D6T6\6d6l6t6|6
+7$7,747<7D7L7T7`7
+848<8H8h8p8x8
+9,9L9T9\9t9
+:H:\:
+;8;D;t;
+<$<,<4<<<D<L<T<\<d<p<
+=$=,=4=<=D=L=T=\=d=p=
+>$>,>4><>D>L>T>\>d>p>
+?(?H?P?X?`?h?p?|?
+0(0H0T0t0|0
+1 1@1H1P1X1`1l1
+20282@2H2P2\2|2
+3<3H3h3t3
+4$4D4P4p4
+5(505<5\5d5p5
+60686@6H6P6
+7$7,747d7
+8 8(848T8`8
+9$909P9\9|9
+:,:8:X:d:
+;<;H;l;t;|;
+<$<,<4<@<`<l<
+=$=,=4=<=D=P=p=x=
+>(>H>T>t>
+> ?@?
+0 0P0p0x0
+1 1@1H1P1X1d1
+2 2(242T2\2h2
+3$3D3L3X3x3
+4$4,444<4D4L4T4\4d4p4
+5 5D5L5T5\5d5l5t5|5
+646@6`6l6
+7(7H7P7X7d7
+8$808P8
+9 9(949T9`9
+;<;H;h;t;
+< <,<\<p<
+<(=H=T=t=|=
+>(>8>D>d>|>
+? ?(?0?`?
+0,0@0p0
+1<1D1L1T1\1d1l1t1|1
+2$2,242<2H2h2p2x2
+3$303P3\3|3
+4<4D4L4X4x4
+485@5H5T5t5
+6 6(60686@6H6P6X6`6h6p6|6
+7$7,747<7D7L7T7\7d7t7
+8$8,8D8L8\8p8|8
+9(909H9`9h9p9|9
+:(:0:8:D:d:l:t:
+;<;H;h;p;x;
+<0<8<@<H<T<t<|<
+= =@=L=l=t=|=
+>$>0>P>X>d>
+? ?(?<?D?L?T?X?\?d?x?
+0 0$0(000D0L0X0x0
+1T1\1h1
+282D2d2l2x2
+3(3L3
+4(4H4P4X4`4h4p4x4
+5(545T5`5
+6$6,646<6D6L6T6`6
+7(7H7P7X7d7
+8L8T8|8
+9 9`9h9
+:(:4:T:`:
+;0;8;@;H;P;X;`;l;
+<<<H<h<p<|<
+=$=,=4=<=H=h=t=
+>8>@>H>P>\>|>
+? ?(?0?8?D?d?p?
+040<0H0h0t0
+1 1,1P1p1x1
+2$202P2X2d2
+3$303P3\3|3
+4 4(40484D4d4l4x4
+5,585X5d5
+6<6D6P6p6x6
+7(70787@7H7P7X7d7
+848@8`8h8t8
+9$9,949@9`9l9
+:0:8:@:H:T:t:|:
+; ;(;0;<;\;h;
+<,<4<@<`<l<
+=$=H=h=p=x=
+>(>H>P>\>|>
+? ?@?L?l?x?
+0,0@0
+1 1(141T1\1h1
+2,242<2H2h2t2
+3$3D3P3p3x3
+484@4L4l4t4|4
+5 5(505<5`5
+6 6(606<6\6d6p6
+7$707P7\7|7
+8$8,848<8D8L8T8`8
+989@9H9P9X9`9h9p9x9
+:(:H:P:\:|:
+; ;(;0;<;\;h;
+<8<D<d<l<x<
+=<=@=`=
+>$>(>H>P>T>p>x>|>
+? ?(?,?4?H?h?p?|?
+000P0p0
+101P1p1
+2,202P2p2
+303P3p3|3
+484T4X4x4
+5@5`5
+6 6@6`6
+7 7@7`7
+8(8H8h8
+9$9,94989@9T9\9`9h9|9
+2(2@2L2P2T2p2t2@4D4
+=$=H=l=
+>4>X>x>
+0T0t0
+0 1D1|1
+102P2
+3,3H3h3
+4X4x4
+647T7t7
+7D8l8
+9\9|9
+9L:t:
+;d;|;
+<4=l=
+>8>\>|>
+0 0L0
+1@1`1
+N0L0
+PL1"0 
+Unizeto Technologies S.A.1'0%
+Certum Certification Authority1"0 
+Certum Trusted Network CA0
+180911092647Z
+230911092647Z0|1
+Texas1
+Houston1
+SSL Corporation110/
+(SSL.com Root Certification Authority RSA0
+nb^i
+Pbut<
+o8'KN
+u\Q.
+x	3p
+N,lN
+z}RS
+/0-0+
+%http://sslcom.crl.certum.pl/ctnca.crl0s
+g0e0)
+http://sslcom.ocsp-certum.com08
+,http://sslcom.repository.certum.pl/ctnca.cer0:
+3010/
+0'0%
+https://www.certum.pl/CPS0
+ZgT<
+-0 P
+hAHQnz
+Texas1
+Houston1
+SSL Corp1402
++SSL.com Code Signing Intermediate CA RSA R10
+220719202413Z
+240718202413Z0x1
+British Columbia1
+North Vancouver1
+1305119 B.C. Ltd1
+1305119 B.C. Ltd0
+w5%J
+P#(`T&k
+k$Q)
+F0:,gr,V
+l<k{Cli
+3@^b
+/ToK
+L0J0H
+<http://cert.ssl.com/SSLcom-SubCA-CodeSigning-RSA-4096-R1.cer0Q
+J0H0
+0,0*
+https://www.ssl.com/repository0
+F0D0B
+<http://crls.ssl.com/SSLcom-SubCA-CodeSigning-RSA-4096-R1.crl0
+M; Mf
+/L8!
+HK}J*
+XSw^
+-8/!t
+Texas1
+Houston1
+SSL Corporation110/
+(SSL.com Root Certification Authority RSA0
+160624204430Z
+310624204430Z0x1
+Texas1
+Houston1
+SSL Corp1402
++SSL.com Code Signing Intermediate CA RSA R10
+d0a:d
+sL}{#
+J:o207d
+oJTr
+wVJ)
++&a2[
+ /8x
+48^W[
+O51F~t
+L='z"?
+z}RS
+$0"0 
+http://ocsps.ssl.com0
+40200
+*http://crls.ssl.com/ssl.com-rsa-RootCA.crl0
+m>gGn
+ZGI,(
+B<dh
+P{<]
+,;{L
+vUxqm
+I837
+u>1be
+}?5X
+TVmE
+Texas1
+Houston1
+SSL Corp1402
++SSL.com Code Signing Intermediate CA RSA R1
+/7oa
+{" [
+}11l
+[I)412
+hrcF
+20220720012510Z0
+PL1"0 
+Unizeto Technologies S.A.1'0%
+Certum Certification Authority1"0 
+Certum Trusted Network CA0
+180911092647Z
+230911092647Z0|1
+Texas1
+Houston1
+SSL Corporation110/
+(SSL.com Root Certification Authority RSA0
+nb^i
+Pbut<
+o8'KN
+u\Q.
+x	3p
+N,lN
+z}RS
+/0-0+
+%http://sslcom.crl.certum.pl/ctnca.crl0s
+g0e0)
+http://sslcom.ocsp-certum.com08
+,http://sslcom.repository.certum.pl/ctnca.cer0:
+3010/
+0'0%
+https://www.certum.pl/CPS0
+ZgT<
+-0 P
+hAHQnz
+\>_o$
+Texas1
+Houston1
+SSL Corp1/0-
+&SSL.com Timestamping Issuing RSA CA R10
+210910163520Z
+310908163519Z0k1
+Texas1
+Houston1
+SSL Corp1'0%
+SSL.com Timestamping Unit 20210
+%TYv
+zlc1
+oV7A
+31Ak
+$] f
+/W\F#
+b$d	
+g0e0A
+5http://cert.ssl.com/SSL.com-timeStamping-I-RSA-R1.cer0 
+http://ocsps.ssl.com0G
+@0>0<
+0,0*
+https://www.ssl.com/repository0
+?0=0;
+5http://crls.ssl.com/SSL.com-timeStamping-I-RSA-R1.crl0
+jnYBc
+6f@n
+j30bX
++Bx_;
+v>Wy
+Texas1
+Houston1
+SSL Corporation110/
+(SSL.com Root Certification Authority RSA0
+191113185005Z
+341112185005Z0s1
+Texas1
+Houston1
+SSL Corp1/0-
+&SSL.com Timestamping Issuing RSA CA R10
+AM/pn*f
+'Z%&0
+jWZX:<
+N%Gf
+z}RS
+w0u0Q
+Ehttp://www.ssl.com/repository/SSLcomRootCertificationAuthorityRSA.crt0 
+http://ocsps.ssl.com0?
+80604
+0,0*
+https://www.ssl.com/repository0
+40200
+*http://crls.ssl.com/ssl.com-rsa-RootCA.crl0
+Z/q3
+irXX
+Ct:HP
+##Q0
+dOd-
+Texas1
+Houston1
+SSL Corp1/0-
+&SSL.com Timestamping Issuing RSA CA R1
+\>_o$
+220720012510Z0+
+u0s1
+Texas1
+Houston1
+SSL Corp1/0-
+&SSL.com Timestamping Issuing RSA CA R1
+\>_o$
+v[Xb
+|92m9
+[KBt
+2K7^
+aoo4
+
+---------------------------------
+| FLOSS UTF-16LE STRINGS (1267) |
+---------------------------------
+jjjj
+jjjj
+jjjjj
+C:\Users\think\source\repos\krnl-inj-test\krnl-inj-test\Registry\Registry.hpp
+hKey != nullptr
+" is not a valid PE image
+File "
+user32.dll
+--play
+--app
+C:\Users\think\source\repos\Blackbone_2\src\BlackBone\Include\CallResult.h
+status_ != STATUS_SUCCESS
+result_data.has_value()
+:Sun:Sunday:Mon:Monday:Tue:Tuesday:Wed:Wednesday:Thu:Thursday:Fri:Friday:Sat:Saturday
+:Jan:January:Feb:February:Mar:March:Apr:April:May:May:Jun:June:Jul:July:Aug:August:Sep:September:Oct:October:Nov:November:Dec:December
+:AM:am:PM:pm
+ERROR : Unable to initialize critical section in CAtlBaseModule
+atlTraceGeneral
+atlTraceCOM
+atlTraceQI
+atlTraceRegistrar
+atlTraceRefcount
+atlTraceWindowing
+atlTraceControls
+atlTraceHosting
+atlTraceDBClient
+atlTraceDBProvider
+atlTraceSnapin
+atlTraceNotImpl
+atlTraceAllocation
+atlTraceException
+atlTraceTime
+atlTraceCache
+atlTraceStencil
+atlTraceString
+atlTraceMap
+atlTraceUtil
+atlTraceSecurity
+atlTraceSync
+atlTraceISAPI
+ForceRemove
+NoRemove
+Delete
+api-ms-win-core-synch-l1-2-0.dll
+api-ms-win-core-fibers-l1-1-1
+api-ms-win-core-synch-l1-2-0
+kernel32
+api-ms-
+(null)
+Assertion failed: %Ts, file %Ts, line %d
+Microsoft Visual C++ Runtime Library
+Assertion failed!
+Program: 
+File: 
+Line: 
+Expression: 
+sFor information on how your program can cause an assertion
+failure, see the Visual C++ documentation on asserts
+(Press Retry to debug the application - JIT must be enabled)
+<program name unknown>
+         (((((                  H
+         (((((                  H
+      (                          
+minkernel\crts\ucrt\inc\corecrt_internal_strtox.h
+__crt_strtox::floating_point_value::as_double
+_is_double
+__crt_strtox::floating_point_value::as_float
+!_is_double
+nINF
+INITY
+inity
+SNAN)
+snan)
+IND)ind)
+am/pm
+mscoree.dll
+LC_ALL
+LC_COLLATE
+LC_CTYPE
+LC_MONETARY
+LC_NUMERIC
+LC_TIME
+Sunday
+Monday
+Tuesday
+Wednesday
+Thursday
+Friday
+Saturday
+January
+February
+March
+April
+June
+July
+August
+September
+October
+November
+December
+MM/dd/yy
+dddd, MMMM dd, yyyy
+HH:mm:ss
+en-US
+Runtime Error!
+Program: 
+api-ms-win-core-datetime-l1-1-1
+api-ms-win-core-file-l1-2-2
+api-ms-win-core-localization-l1-2-1
+api-ms-win-core-localization-obsolete-l1-2-0
+api-ms-win-core-processthreads-l1-1-2
+api-ms-win-core-string-l1-1-0
+api-ms-win-core-sysinfo-l1-2-1
+api-ms-win-core-winrt-l1-1-0
+api-ms-win-core-xstate-l2-1-0
+api-ms-win-rtcore-ntuser-window-l1-1-0
+api-ms-win-security-systemfunctions-l1-1-0
+ext-ms-win-ntuser-dialogbox-l1-1-0
+ext-ms-win-ntuser-windowstation-l1-1-0
+advapi32
+ntdll
+api-ms-win-appmodel-runtime-l1-1-2
+user32
+ext-ms-
+ja-JP
+zh-CN
+ko-KR
+zh-TW
+american
+american english
+american-english
+australian
+belgian
+canadian
+chinese
+chinese-hongkong
+chinese-simplified
+chinese-singapore
+chinese-traditional
+dutch-belgian
+english-american
+english-aus
+english-belize
+english-can
+english-caribbean
+english-ire
+english-jamaica
+english-nz
+english-south africa
+english-trinidad y tobago
+english-uk
+english-us
+english-usa
+french-belgian
+french-canadian
+french-luxembourg
+french-swiss
+german-austrian
+german-lichtenstein
+german-luxembourg
+german-swiss
+irish-english
+italian-swiss
+norwegian
+norwegian-bokmal
+norwegian-nynorsk
+portuguese-brazilian
+spanish-argentina
+spanish-bolivia
+spanish-chile
+spanish-colombia
+spanish-costa rica
+spanish-dominican republic
+spanish-ecuador
+spanish-el salvador
+spanish-guatemala
+spanish-honduras
+spanish-mexican
+spanish-modern
+spanish-nicaragua
+spanish-panama
+spanish-paraguay
+spanish-peru
+spanish-puerto rico
+spanish-uruguay
+spanish-venezuela
+swedish-finland
+swiss
+america
+britain
+china
+czech
+england
+great britain
+holland
+hong-kong
+new-zealand
+pr china
+pr-china
+puerto-rico
+slovak
+south africa
+south korea
+south-africa
+south-korea
+trinidad & tobago
+united-kingdom
+united-states
+utf8
+utf-8
+zh-CHS
+ar-SA
+bg-BG
+ca-ES
+cs-CZ
+da-DK
+de-DE
+el-GR
+fi-FI
+fr-FR
+he-IL
+hu-HU
+is-IS
+it-IT
+nl-NL
+nb-NO
+pl-PL
+pt-BR
+ro-RO
+ru-RU
+hr-HR
+sk-SK
+sq-AL
+sv-SE
+th-TH
+tr-TR
+ur-PK
+id-ID
+uk-UA
+be-BY
+sl-SI
+et-EE
+lv-LV
+lt-LT
+fa-IR
+vi-VN
+hy-AM
+az-AZ-Latn
+eu-ES
+mk-MK
+tn-ZA
+xh-ZA
+zu-ZA
+af-ZA
+ka-GE
+fo-FO
+hi-IN
+mt-MT
+se-NO
+ms-MY
+kk-KZ
+ky-KG
+sw-KE
+uz-UZ-Latn
+tt-RU
+bn-IN
+pa-IN
+gu-IN
+ta-IN
+te-IN
+kn-IN
+ml-IN
+mr-IN
+sa-IN
+mn-MN
+cy-GB
+gl-ES
+kok-IN
+syr-SY
+div-MV
+quz-BO
+ns-ZA
+mi-NZ
+ar-IQ
+de-CH
+en-GB
+es-MX
+fr-BE
+it-CH
+nl-BE
+nn-NO
+pt-PT
+sr-SP-Latn
+sv-FI
+az-AZ-Cyrl
+se-SE
+ms-BN
+uz-UZ-Cyrl
+quz-EC
+ar-EG
+zh-HK
+de-AT
+en-AU
+es-ES
+fr-CA
+sr-SP-Cyrl
+se-FI
+quz-PE
+ar-LY
+zh-SG
+de-LU
+en-CA
+es-GT
+fr-CH
+hr-BA
+smj-NO
+ar-DZ
+zh-MO
+de-LI
+en-NZ
+es-CR
+fr-LU
+bs-BA-Latn
+smj-SE
+ar-MA
+en-IE
+es-PA
+fr-MC
+sr-BA-Latn
+sma-NO
+ar-TN
+en-ZA
+es-DO
+sr-BA-Cyrl
+sma-SE
+ar-OM
+en-JM
+es-VE
+sms-FI
+ar-YE
+en-CB
+es-CO
+smn-FI
+ar-SY
+en-BZ
+es-PE
+ar-JO
+en-TT
+es-AR
+ar-LB
+en-ZW
+es-EC
+ar-KW
+en-PH
+es-CL
+ar-AE
+es-UY
+ar-BH
+es-PY
+ar-QA
+es-BO
+es-SV
+es-HN
+es-NI
+es-PR
+zh-CHT
+af-za
+ar-ae
+ar-bh
+ar-dz
+ar-eg
+ar-iq
+ar-jo
+ar-kw
+ar-lb
+ar-ly
+ar-ma
+ar-om
+ar-qa
+ar-sa
+ar-sy
+ar-tn
+ar-ye
+az-az-cyrl
+az-az-latn
+be-by
+bg-bg
+bn-in
+bs-ba-latn
+ca-es
+cs-cz
+cy-gb
+da-dk
+de-at
+de-ch
+de-de
+de-li
+de-lu
+div-mv
+el-gr
+en-au
+en-bz
+en-ca
+en-cb
+en-gb
+en-ie
+en-jm
+en-nz
+en-ph
+en-tt
+en-us
+en-za
+en-zw
+es-ar
+es-bo
+es-cl
+es-co
+es-cr
+es-do
+es-ec
+es-es
+es-gt
+es-hn
+es-mx
+es-ni
+es-pa
+es-pe
+es-pr
+es-py
+es-sv
+es-uy
+es-ve
+et-ee
+eu-es
+fa-ir
+fi-fi
+fo-fo
+fr-be
+fr-ca
+fr-ch
+fr-fr
+fr-lu
+fr-mc
+gl-es
+gu-in
+he-il
+hi-in
+hr-ba
+hr-hr
+hu-hu
+hy-am
+id-id
+is-is
+it-ch
+it-it
+ja-jp
+ka-ge
+kk-kz
+kn-in
+kok-in
+ko-kr
+ky-kg
+lt-lt
+lv-lv
+mi-nz
+mk-mk
+ml-in
+mn-mn
+mr-in
+ms-bn
+ms-my
+mt-mt
+nb-no
+nl-be
+nl-nl
+nn-no
+ns-za
+pa-in
+pl-pl
+pt-br
+pt-pt
+quz-bo
+quz-ec
+quz-pe
+ro-ro
+ru-ru
+sa-in
+se-fi
+se-no
+se-se
+sk-sk
+sl-si
+sma-no
+sma-se
+smj-no
+smj-se
+smn-fi
+sms-fi
+sq-al
+sr-ba-cyrl
+sr-ba-latn
+sr-sp-cyrl
+sr-sp-latn
+sv-fi
+sv-se
+sw-ke
+syr-sy
+ta-in
+te-in
+th-th
+tn-za
+tr-tr
+tt-ru
+uk-ua
+ur-pk
+uz-uz-cyrl
+uz-uz-latn
+vi-vn
+xh-za
+zh-chs
+zh-cht
+zh-cn
+zh-hk
+zh-mo
+zh-sg
+zh-tw
+zu-za
+CONOUT$
+atlTraceRegistrar
+atlTraceGeneral
+atlTraceCOM
+atlTraceQI
+atlTraceRefcount
+atlTraceWindowing
+atlTraceControls
+atlTraceHosting
+atlTraceDBClient
+atlTraceDBProvider
+atlTraceSnapin
+atlTraceNotImpl
+atlTraceAllocation
+atlTraceException
+atlTraceTime
+atlTraceCache
+atlTraceStencil
+atlTraceString
+atlTraceMap
+atlTraceUtil
+atlTraceSecurity
+atlTraceSync
+atlTraceISAPI
+ForceRemove
+NoRemove
+Delete
+AppID
+CLSID
+Component Categories
+FileType
+Interface
+Hardware
+Mime
+SECURITY
+SYSTEM
+Software
+TypeLib
+true
+false
+.true
+false
+ntdll.dll
+atlTraceGeneral
+atlTraceCOM
+atlTraceQI
+atlTraceRegistrar
+atlTraceRefcount
+atlTraceWindowing
+atlTraceControls
+atlTraceHosting
+atlTraceDBClient
+atlTraceDBProvider
+atlTraceSnapin
+atlTraceNotImpl
+atlTraceAllocation
+atlTraceException
+atlTraceTime
+atlTraceCache
+atlTraceStencil
+atlTraceString
+atlTraceMap
+atlTraceUtil
+atlTraceSecurity
+atlTraceSync
+atlTraceISAPI
+ForceRemove
+NoRemove
+Delete
+AppID
+CLSID
+Component Categories
+FileType
+Interface
+Hardware
+Mime
+SECURITY
+SYSTEM
+Software
+TypeLib
+mscoree.dll
+mscoree.dll
+mscoree.dll
+atlTraceGeneral
+atlTraceCOM
+atlTraceQI
+atlTraceRegistrar
+atlTraceRefcount
+atlTraceWindowing
+atlTraceControls
+atlTraceHosting
+atlTraceDBClient
+atlTraceDBProvider
+atlTraceSnapin
+atlTraceNotImpl
+atlTraceAllocation
+atlTraceException
+atlTraceTime
+atlTraceCache
+atlTraceStencil
+atlTraceString
+atlTraceMap
+atlTraceUtil
+atlTraceSecurity
+atlTraceSync
+atlTraceISAPI
+ForceRemove
+NoRemove
+Delete
+AppID
+CLSID
+Component Categories
+FileType
+Interface
+Hardware
+Mime
+SECURITY
+SYSTEM
+Software
+TypeLib
+ImageManifest
+atlTraceGeneral
+atlTraceCOM
+atlTraceQI
+atlTraceRegistrar
+atlTraceRefcount
+atlTraceWindowing
+atlTraceControls
+atlTraceHosting
+atlTraceDBClient
+atlTraceDBProvider
+atlTraceSnapin
+atlTraceNotImpl
+atlTraceAllocation
+atlTraceException
+atlTraceTime
+atlTraceCache
+atlTraceStencil
+atlTraceString
+atlTraceMap
+atlTraceUtil
+atlTraceSecurity
+atlTraceSync
+atlTraceISAPI
+ForceRemove
+NoRemove
+Delete
+AppID
+CLSID
+Component Categories
+FileType
+Interface
+Hardware
+Mime
+SECURITY
+SYSTEM
+Software
+TypeLib
+ntdll.dll
+kernel32.dll
+mscoree.dll
+true
+false
+.true
+false
+true
+false
+.true
+false
+atlTraceGeneral
+atlTraceCOM
+atlTraceQI
+atlTraceRegistrar
+atlTraceRefcount
+atlTraceWindowing
+atlTraceControls
+atlTraceHosting
+atlTraceDBClient
+atlTraceDBProvider
+atlTraceSnapin
+atlTraceNotImpl
+atlTraceAllocation
+atlTraceException
+atlTraceTime
+atlTraceCache
+atlTraceStencil
+atlTraceString
+atlTraceMap
+atlTraceUtil
+atlTraceSecurity
+atlTraceSync
+atlTraceISAPI
+ForceRemove
+NoRemove
+Delete
+AppID
+CLSID
+Component Categories
+FileType
+Interface
+Hardware
+Mime
+SECURITY
+SYSTEM
+Software
+TypeLib
+ntdll.dll
+t\BaseNamedObjects\_MMapEvent_0x%x_0x%x
+S:(ML;;NW;;;LW)D:(A;;GA;;;S-1-15-2-1)(A;;GA;;;WD)
+true
+false
+.true
+false
+atlTraceGeneral
+atlTraceCOM
+atlTraceQI
+atlTraceRegistrar
+atlTraceRefcount
+atlTraceWindowing
+atlTraceControls
+atlTraceHosting
+atlTraceDBClient
+atlTraceDBProvider
+atlTraceSnapin
+atlTraceNotImpl
+atlTraceAllocation
+atlTraceException
+atlTraceTime
+atlTraceCache
+atlTraceStencil
+atlTraceString
+atlTraceMap
+atlTraceUtil
+atlTraceSecurity
+atlTraceSync
+atlTraceISAPI
+ForceRemove
+NoRemove
+Delete
+AppID
+CLSID
+Component Categories
+FileType
+Interface
+Hardware
+Mime
+SECURITY
+SYSTEM
+Software
+TypeLib
+MemoryImage_0x%p
+ntdll.dll
+kernel32.dll
+true
+false
+.true
+false
+atlTraceGeneral
+atlTraceQI
+atlTraceCOM
+atlTraceRefcount
+atlTraceRegistrar
+atlTraceControls
+atlTraceWindowing
+atlTraceDBClient
+atlTraceHosting
+atlTraceSnapin
+atlTraceDBProvider
+atlTraceAllocation
+atlTraceNotImpl
+atlTraceTime
+atlTraceException
+atlTraceStencil
+atlTraceCache
+atlTraceMap
+atlTraceString
+atlTraceSecurity
+atlTraceUtil
+atlTraceISAPI
+atlTraceSync
+ForceRemove
+Delete
+NoRemove
+CLSID
+AppID
+FileType
+Component Categories
+Hardware
+Interface
+Mime
+SYSTEM
+SECURITY
+TypeLib
+Software
+Section
+false
+true
+false
+true
+BlackBoneDrv10.sys
+\\.\BlackBone
+BlackBoneDrv8.sys
+BlackBoneDrv81.sys
+BlackBoneDrv.sys
+BlackBoneDrv7.sys
+BlackBone
+BlackBone
+\\.\BlackBone
+ImagePath
+\registry\machine\SYSTEM\CurrentControlSet\Services\
+Type
+\registry\machine\SYSTEM\CurrentControlSet\Services\
+\??\%s
+SYSTEM\CurrentControlSet\Services\
+system\CurrentControlSet\Services
+atlTraceGeneral
+atlTraceQI
+atlTraceCOM
+atlTraceRefcount
+atlTraceRegistrar
+atlTraceControls
+atlTraceWindowing
+atlTraceDBClient
+atlTraceHosting
+atlTraceSnapin
+atlTraceDBProvider
+atlTraceAllocation
+atlTraceNotImpl
+atlTraceTime
+atlTraceException
+atlTraceStencil
+atlTraceCache
+atlTraceMap
+atlTraceString
+atlTraceSecurity
+atlTraceUtil
+atlTraceISAPI
+atlTraceSync
+ForceRemove
+Delete
+NoRemove
+CLSID
+AppID
+FileType
+Component Categories
+Hardware
+Interface
+Mime
+SYSTEM
+SECURITY
+TypeLib
+Software
+\\.\pipe\
+\\.\pipe\
+\\.\pipe\
+ntdll.dll
+ntdll.dll
+ntdll.dll
+ntdll.dll
+kernel32.dll
+true
+false
+true
+false
+Unknown_0x%I64x
+atlTraceGeneral
+atlTraceQI
+atlTraceCOM
+atlTraceRefcount
+atlTraceRegistrar
+atlTraceControls
+atlTraceWindowing
+atlTraceDBClient
+atlTraceHosting
+atlTraceSnapin
+atlTraceDBProvider
+atlTraceAllocation
+atlTraceNotImpl
+atlTraceTime
+atlTraceException
+atlTraceStencil
+atlTraceCache
+atlTraceMap
+atlTraceString
+atlTraceSecurity
+atlTraceUtil
+atlTraceISAPI
+atlTraceSync
+ForceRemove
+Delete
+NoRemove
+CLSID
+AppID
+FileType
+Component Categories
+Hardware
+Interface
+Mime
+SYSTEM
+SECURITY
+TypeLib
+Software
+ext-ms-
+SYSTEM\CurrentControlSet\Control\Session Manager\KnownDLLs
+PATH
+true
+false
+true
+false
+atlTraceGeneral
+atlTraceQI
+atlTraceCOM
+atlTraceRefcount
+atlTraceRegistrar
+atlTraceControls
+atlTraceWindowing
+atlTraceDBClient
+atlTraceHosting
+atlTraceSnapin
+atlTraceDBProvider
+atlTraceAllocation
+atlTraceNotImpl
+atlTraceTime
+atlTraceException
+atlTraceStencil
+atlTraceCache
+atlTraceMap
+atlTraceString
+atlTraceSecurity
+atlTraceUtil
+atlTraceISAPI
+atlTraceSync
+ForceRemove
+Delete
+NoRemove
+CLSID
+AppID
+FileType
+Component Categories
+Hardware
+Interface
+Mime
+SYSTEM
+SECURITY
+TypeLib
+Software
+ntdll.dll
+ntdll.dll
+false
+true
+false
+true
+kernel32.dll
+atlTraceCOM
+atlTraceGeneral
+atlTraceRegistrar
+atlTraceQI
+atlTraceWindowing
+atlTraceRefcount
+atlTraceHosting
+atlTraceControls
+atlTraceDBProvider
+atlTraceDBClient
+atlTraceNotImpl
+atlTraceSnapin
+atlTraceException
+atlTraceAllocation
+atlTraceCache
+atlTraceTime
+atlTraceString
+atlTraceStencil
+atlTraceUtil
+atlTraceMap
+atlTraceSync
+atlTraceSecurity
+atlTraceISAPI
+NoRemove
+ForceRemove
+AppID
+Delete
+Component Categories
+CLSID
+Interface
+FileType
+Mime
+Hardware
+SECURITY
+Software
+SYSTEM
+TypeLib
+true
+false
+true
+false
+atlTraceGeneral
+atlTraceRegistrar
+atlTraceRefcount
+atlTraceCOM
+atlTraceQI
+atlTraceHosting
+atlTraceDBClient
+atlTraceWindowing
+atlTraceControls
+atlTraceNotImpl
+atlTraceAllocation
+atlTraceDBProvider
+atlTraceSnapin
+atlTraceCache
+atlTraceStencil
+atlTraceException
+atlTraceTime
+atlTraceUtil
+atlTraceSecurity
+atlTraceString
+atlTraceMap
+atlTraceSync
+atlTraceISAPI
+ForceRemove
+AppID
+CLSID
+NoRemove
+Delete
+Interface
+Hardware
+Component Categories
+FileType
+SECURITY
+SYSTEM
+Mime
+Software
+TypeLib
+false
+true
+.true
+false
+atlTraceCOM
+atlTraceQI
+atlTraceGeneral
+atlTraceWindowing
+atlTraceControls
+atlTraceRegistrar
+atlTraceRefcount
+atlTraceDBProvider
+atlTraceSnapin
+atlTraceHosting
+atlTraceDBClient
+atlTraceException
+atlTraceTime
+atlTraceNotImpl
+atlTraceAllocation
+atlTraceString
+atlTraceMap
+atlTraceCache
+atlTraceStencil
+atlTraceSync
+atlTraceISAPI
+atlTraceUtil
+atlTraceSecurity
+NoRemove
+Delete
+ForceRemove
+Component Categories
+FileType
+AppID
+CLSID
+Mime
+Interface
+Hardware
+Software
+TypeLib
+SECURITY
+SYSTEM
+true
+efalse
+false
+.true
+yatlTraceGeneral
+atlTraceCOM
+atlTraceRefcount
+atlTraceWindowing
+atlTraceQI
+atlTraceRegistrar
+atlTraceDBClient
+atlTraceDBProvider
+atlTraceControls
+atlTraceHosting
+atlTraceAllocation
+atlTraceException
+atlTraceSnapin
+atlTraceNotImpl
+atlTraceStencil
+atlTraceString
+atlTraceTime
+atlTraceCache
+atlTraceSecurity
+atlTraceSync
+atlTraceMap
+atlTraceUtil
+atlTraceISAPI
+ForceRemove
+NoRemove
+CLSID
+Component Categories
+Delete
+AppID
+Hardware
+Mime
+FileType
+Interface
+SYSTEM
+Software
+SECURITY
+TypeLib
+LdrpHandleTlsData
+LdrpInvertedFunctionTable
+RtlInsertInvertedFunctionTable
+LdrpHandleTlsData
+LdrpInvertedFunctionTable
+LdrpReleaseTlsEntry
+LdrProtectMrdata
+RtlInsertInvertedFunctionTable
+LdrpReleaseTlsEntry
+\SysWOW64\ntdll.dll
+\System32\ntdll.dll
+\System32\ntdll.dll
+atlTraceQI
+atlTraceRegistrar
+atlTraceGeneral
+atlTraceCOM
+atlTraceControls
+atlTraceHosting
+atlTraceRefcount
+atlTraceWindowing
+atlTraceSnapin
+atlTraceNotImpl
+atlTraceDBClient
+atlTraceDBProvider
+atlTraceTime
+atlTraceCache
+atlTraceAllocation
+atlTraceException
+atlTraceMap
+atlTraceUtil
+atlTraceStencil
+atlTraceString
+atlTraceISAPI
+atlTraceSecurity
+atlTraceSync
+Symbols*http://msdl.microsoft.com/download/symbols
+srv*
+_NT_SYMBOL_PATH
+msdia140.dll
+atlTraceQI
+atlTraceRegistrar
+atlTraceGeneral
+atlTraceCOM
+atlTraceControls
+atlTraceHosting
+atlTraceRefcount
+atlTraceWindowing
+atlTraceSnapin
+atlTraceNotImpl
+atlTraceDBClient
+atlTraceDBProvider
+atlTraceTime
+atlTraceCache
+atlTraceAllocation
+atlTraceException
+atlTraceMap
+atlTraceUtil
+atlTraceStencil
+atlTraceString
+atlTraceISAPI
+atlTraceSecurity
+atlTraceSync
+Delete
+AppID
+ForceRemove
+NoRemove
+FileType
+Interface
+CLSID
+Component Categories
+SECURITY
+Hardware
+Mime
+TypeLib
+SYSTEM
+Software
+ntdll.dll
+ntdll.dll
+atlTraceCOM
+atlTraceQI
+atlTraceGeneral
+atlTraceWindowing
+atlTraceControls
+atlTraceRegistrar
+atlTraceRefcount
+atlTraceDBProvider
+atlTraceSnapin
+atlTraceHosting
+atlTraceDBClient
+atlTraceException
+atlTraceTime
+atlTraceNotImpl
+atlTraceAllocation
+atlTraceString
+atlTraceMap
+atlTraceCache
+atlTraceStencil
+atlTraceSync
+atlTraceISAPI
+atlTraceUtil
+atlTraceSecurity
+NoRemove
+Delete
+ForceRemove
+Component Categories
+FileType
+AppID
+CLSID
+Mime
+Interface
+Hardware
+Software
+TypeLib
+SECURITY
+SYSTEM
+false
+true
+.true
+false
+ABCDEFGHIJKLMNOPQRSTUVWXYZbcdefghijklmnopqrstuvwxyz1234567890
+SOFTWARE\Microsoft\Windows NT\CurrentVersion
+BuildLabEx
+ntdll.dll
+SeDebugPrivilege
+SeLoadDriverPrivilege
+kernel32.dll
+ !"#$%&'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXY
+
+----------------------------
+| FLOSS STACK STRINGS (16) |
+----------------------------
+C0VA+0VA+
+433h
+0VA7
+433p
+333h
+NtUn
+0WBh
+1WBP
+%+#I64o
+%+#I64o
+Soft
+DLLPATH
+Krnl
+DLLP
+LLPATH
+1WBP
+
+---------------------------
+| FLOSS TIGHT STRINGS (2) |
+---------------------------
+1096175631
+1096175631
+
+-----------------------------
+| FLOSS DECODED STRINGS (2) |
+-----------------------------
+4278124286
+7331

@@ -1,0 +1,16 @@
+Download Source: https://wearedevs.net/d/Comet
+Safety Rating: 9.9/10
+Check Date: 2023-02-14
+Checked By: I2rys
+
+~ Others ~
+MD5: ce6d3c5e51a27115dae959171c3650a6
+SHA-1: 1c466e2b59efe19e53bfee570262eaaaafe28eb6
+SHA-256: dab6b69ab62f1644a85b1832d094738a0a7a31b26a933e53e1cbd83eddbd1bc3
+Vhash: 27603675751780c204936100259
+Authentihash: baf7b97b69d99ec7d9e10e1b1d10187107ec910bcd13b67a59f7396e74014213
+Imphash: f34d5f2d4577ed6d9ceec516c1f5a744
+SSDEEP: 196608:SDGceoCVpJLParyFMmd3HsG9No+Oomx9/+W:SDGyqpJayas3sGk+Oomv+
+TLSH: T18E660202FB047A16DE640F3C0C678FF85F3BBD126F1A874B6D596BCE988614A094E746
+File type: Win32 EXE
+Magic: PE32 executable for MS Windows (GUI) Intel 80386 32-bit Mono/.Net assembly
