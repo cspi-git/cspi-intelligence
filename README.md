@@ -1,4 +1,4 @@
-# Hanaui Intelligence
+# Hanaui Intelligence (ARCHIVED, WILL BE MOVED SOMEWHERE)
 Public collection of files, reports, and analyzed data by users who contributed to Hanaui(HSN).
 
 ## Structure
