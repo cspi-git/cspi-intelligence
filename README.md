@@ -1,5 +1,5 @@
-# Hanaui Intelligence (ARCHIVED, WILL BE MOVED SOMEWHERE)
-Public collection of files, reports, and analyzed data by users who contributed to Hanaui(HSN).
+# CSPI Intelligence (ARCHIVED, WILL BE MOVED SOMEWHERE)
+Public collection of files, reports, and analyzed data by users who contributed to CSPI(HSN).
 
 ## Structure
 1. **_templates**: Some templates that you can use or at least get an idea and make your own similar one for information.
@@ -22,4 +22,4 @@ Public collection of files, reports, and analyzed data by users who contributed 
 - [I2rys](https://github.com/I2rys)
 
 ## License
-MIT © Hanaui
+MIT © CSPI
